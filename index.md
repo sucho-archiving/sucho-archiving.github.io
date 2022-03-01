@@ -33,7 +33,7 @@ Fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSffa64-l6qXqEumAcf
 - [Archives with Holocaust-related archival material](https://portal.ehri-project.eu/countries/ua#ua-child-item-search)
 
 ### Technology for Archiving Content
-- [Archiving URLs with Internet Archive](https://webrecorder.net/)
+- [Archiving URLs with Internet Archive](https://help.archive.org/hc/en-us/articles/360001513491-Save-Pages-in-the-Wayback-Machine)
 - [Batch processing URLs with Google Sheets and Internet Archive](https://archive.org/services/wayback-gsheets/)
 - [Browsertrix Cloud](https://browsertrix.cloud)
 - [Proof of concept for embedding web archives with the ReplayWeb.page web component](https://inkdroid.org/web-archives)
