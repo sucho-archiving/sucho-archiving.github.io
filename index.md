@@ -54,10 +54,10 @@ We are a group of cultural heritage professionals – librarians, archivists, re
 
 
 ## How you can get involved
-Fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSffa64-l6qXqEumAcf38OEOrTFeYZEmF531PNv9ZgzNFbcgxQ/viewform) to:
-- Identify important URLs for collections in cultural heritage institutions in Ukraine
+1. Fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSffa64-l6qXqEumAcf38OEOrTFeYZEmF531PNv9ZgzNFbcgxQ/viewform) to identify important URLs for collections in cultural heritage institutions in Ukraine
+2. Fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform) to 
 - Volunteer to help archive sites and content
-- Volunteer to help run Browsertrix
+- Volunteer to help run Browsertrix or other tech
 - Let us know if you are a Ukrainian researcher in need of secure storage for research or data files 
 
 ## Team
