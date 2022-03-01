@@ -37,7 +37,8 @@ Fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSffa64-l6qXqEumAcf
 - [Batch processing URLs with Google Sheets and Internet Archive](https://archive.org/services/wayback-gsheets/)
 - [Browsertrix Cloud](https://browsertrix.cloud)
 - [Proof of concept for embedding web archives with the ReplayWeb.page web component](https://inkdroid.org/web-archives)
-- [Webrecorder(https://webrecorder.net/)
+- [Webrecorder](https://webrecorder.net/)
+- [Instructions for using Webrecorder to archive content](https://github.com/sucho-archiving/sucho-archiving.github.io/blob/main/webrecorder-browser-plugin-instructions.md)
 
 ### Other Archiving Efforts Underway
 - [Library of Congress: archiving websites from Ukraine and the Russian-annexed areas](https://www.loc.gov/web-archives/?fa=language:russian%7Clocation:ukraine). 
