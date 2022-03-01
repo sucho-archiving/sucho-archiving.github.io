@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: archivewebpage-app-instructions
+---
+
 Thank you for volunteering to capture Ukrainian cultural heritage sites using the WebRecorder app! Here’s a guide to using it.
 
 ## Setup
@@ -26,3 +31,10 @@ This will launch a web browser window within the WebRecorder software. You can s
 Each time a new page loads, you'll see a number on top of that icon. That represents the number of objects that are currently being archived. Once you see a green square (instead of a yellow square with a number), you can keep navigating the site by clicking on one of the links on the page. The auto-pilot scroll down and capture things until you see the green square above the WebRecorder icon in the upper right once again.
 
 Work through the pages of the site, one by one, until you've captured everything. If you're not able to capture everything, make note of which section(s) of the site you've captured so someone else can work on the rest.
+
+
+## Downloading the web archive file
+When you're done, hit the "Download" icon (the one with the arrow pointing down) under *Actions* in the WebRecorder app. Save the .WACZ file to your computer.
+
+## Uploading the web archive file
+Go to the [WACZ upload form](https://forms.gle/N18MxWgoHtPB2xpz8). Enter the metadata and upload the WACZ file that you just downloaded.
