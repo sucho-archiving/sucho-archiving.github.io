@@ -25,3 +25,11 @@ Click the *Start* button in the web recorder plugin. The page will reload and th
 Once you see at the top of the plugin "**Recording:** *Idle, Continue Browsing*", click on one of the links on the home page. The auto-pilot will once again scroll down and capture things until you see "**Recording:** *Idle, Continue Browsing*".
 
 Work through the pages of the site, one by one, until you've captured everything. If you're not able to capture everything, make note of which section(s) of the site you've captured so someone else can work on the rest.
+
+## Downloading the archive file
+Once you've stopped the recording, click on the *Browse Archive* link in the browser plugin. It may take a minute or two for that page to load.
+
+In the left sidebar, hit the down arrow next to *Download*, and choose *Download All as WACZ*. Save that file to your computer.
+
+## Uploading the web archive file
+Go to the [WACZ upload form](https://forms.gle/N18MxWgoHtPB2xpz8). Enter the metadata and upload the WACZ file that you just downloaded.
