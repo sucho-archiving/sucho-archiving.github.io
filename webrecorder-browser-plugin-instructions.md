@@ -6,7 +6,7 @@ permalink: webrecorder-plugin-instructions
 Thank you for volunteering to capture Ukrainian cultural heritage sites using the WebRecorder browser plugin! Here’s a guide to using it.
 
 ## Setup
-[Install the Chrome plugin](https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd?hl=en). You should also hit the "pin" icon to make sure the WebRecorder plugin is always visible.
+[Install the Chrome plugin](https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd?hl=en). You should also ["pin" the extension to your browser](https://www.maketecheasier.com/pin-extensions-to-chrome-toolbar/) to make sure the WebRecorder plugin is always visible.
 
 ## Claiming a site
 On the SUCHO spreadsheet, go to the [WebRecorder plugin tab](https://docs.google.com/spreadsheets/d/1kGScdU9df7T2QS9RnM_qvciT04Y1tmBiGVH-XD1E4l0/edit#gid=775261798)
