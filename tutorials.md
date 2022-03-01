@@ -7,5 +7,11 @@ permalink: tutorials
 
 These tutorials will help volunteers get started with different kinds of tasks.
 
-* Using the [WebRecorder browser plugin](webrecorder-plugin-instructions)
-* Using the [ArchiveWebPage app](archivewebpage-app-instructions) (an alternative to the browser plugin)
+## Tools
+
+* Using the [WebRecorder browser plugin](/webrecorder-plugin-instructions)
+* Using the [ArchiveWebPage app](/archivewebpage-app-instructions) (an alternative to the browser plugin)
+
+## Archiving projects
+
+* [Journal article PDFs for Molodyi Vchenyi](/molodyivchenyi)
