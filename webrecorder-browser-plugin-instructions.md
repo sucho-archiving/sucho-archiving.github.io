@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: webrecorder-plugin-instructions
+---
+
 Thank you for volunteering to capture Ukrainian cultural heritage sites using the WebRecorder browser plugin! Here’s a guide to using it.
 
 ## Setup
