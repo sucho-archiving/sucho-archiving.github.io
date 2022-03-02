@@ -15,5 +15,5 @@ Some of the other individual task tutorials for SUCHO involve building spreadshe
 - You can keep the "Capture only if not archived within 6 hours" option enabled
 - You can also keep the "Delay the availability of new captures for ~10 hours" option on too
 - Hit the green "Archive" button
-- You'll get an email that the Internet Archive is processing the spreadsheet, and you can watch the progress in the gray box. You'll get an email when it's done.
+- You'll get an email that the Internet Archive is processing the spreadsheet, and you can watch the progress in the gray box. You'll get an email when it's done. The spreadsheet will also be updated with info about the status of all the links and what was captured.
 - You may need to submit the sheet again after it's done; often things that time out or aren't available can get picked up on a second archiving run (and it won't re-run things it just did, because of that 'Capture only if not archived within 6 hours' option).
