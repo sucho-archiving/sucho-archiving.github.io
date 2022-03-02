@@ -7,6 +7,8 @@ The National Library of Ukraine appears to host a number of journals, sometimes 
 
 We've already submitted the landing page for each journal to the Internet Archive, but that doesn't necessarily mean that the journal articles (when available) are getting archived. These instructions go through how to build a spreadsheet of links to submit to the Internet Archive in order to archive individual issues and articles.
 
+(If you're comfortable running Python scripts and have Selenium set up, you can download [nbuv-journal-links.py](/assets/nbuv-journal-links.py) which makes it easier. Otherwise, read on for the manual process!)
+
 - Create a Google Sheet that you'll use for this task. You only need to put URLs in the first column.
 - Claim a few journals on the list [in the spreadsheet](https://docs.google.com/spreadsheets/d/1kGScdU9df7T2QS9RnM_qvciT04Y1tmBiGVH-XD1E4l0/edit#gid=0). 
 - For each journal, go to the link and look for the word **НАДХОДЖЕННЯ** in bold (it should be under the journal cover image, if it's there). 
