@@ -11,12 +11,14 @@ How we've organized things (as of March 1st).
 - Submitted links are world-viewable [in this spreadsheet](https://docs.google.com/spreadsheets/d/1Rf0sQ3OB7tirk1xKiaa52lzV9ZTCDkx7eiuK5EXj6l8/edit#gid=336731417)
 - A couple times a day, admins go through that spreadsheet and copy new submissions into the [NeedsTriage tab of the SUCHO work spreadsheet](https://docs.google.com/spreadsheets/d/1kGScdU9df7T2QS9RnM_qvciT04Y1tmBiGVH-XD1E4l0/edit#gid=73136244)
 - Volunteers can help triage:
+  - If it's hosted by WordPress, or institutions/organizations outside Ukraine, it shouldn't be at risk. Mark status "declined" in the triage sheet.
   - If it's a whole site or collection, it should go to *Browsertrix*
   - If it needs to capture human interaction (e.g. complex Javascript things, virtual tours, etc.) it goes in *Webrecorder plugin*
   - If it's a few pages, or pages with PDFs and similar, it should go to *InternetArchive*
 - Volunteers pick a task from any of the sheets, claim it, and either follow specific instructions in the spreadsheet (like for [Ukrainian National Library journals](/nbuv-journals)), or general instructions (like [using the WebRecorder browser plugin](webrecorder-plugin-instructions))
 - When volunteers are done, they mark it as complete and fill in any info needed in the spreadsheet (e.g. links to Internet Archive bulk-capture spreadsheets)
 - A couple times a day, admins go through the SUCHO work spreadsheet and move things that are done into the [Done tab](https://docs.google.com/spreadsheets/d/1kGScdU9df7T2QS9RnM_qvciT04Y1tmBiGVH-XD1E4l0/edit#gid=332157149)
+- Once a day, admins update the [world-viewable link submission sheet](https://docs.google.com/spreadsheets/d/1Rf0sQ3OB7tirk1xKiaa52lzV9ZTCDkx7eiuK5EXj6l8/edit#gid=336731417) with the status of things people have submitted
 
 ## Volunteering
 
