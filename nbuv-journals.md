@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: nbuv-journals
+title: National Library of Ukraine journals
 ---
 
 The National Library of Ukraine appears to host a number of journals, sometimes with PDFs, sometimes just a record of their existence. We have a list of 657 of these journals.

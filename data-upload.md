@@ -1,0 +1,15 @@
+---
+layout: default
+permalink: data-upload
+title: Where do I upload the data
+---
+
+Here's what we're doing with the data we gather as part of SUCHO.
+
+## WACZ files
+If you're using the [WebRecorder plugin](/webrecorder-plugin-instructions) or [WebRecorder app](/archivewebpage-app-instructions), the last step is to download a WACZ file. You'll also end up with a WACZ file if you're using Browsertrix to crawl sites.
+
+If you have a WACZ file, go to the [WACZ upload form](https://forms.gle/N18MxWgoHtPB2xpz8). Enter the metadata and upload the WACZ file.
+
+## PDFs, images, other files
+If you have scraped other kinds of files (e.g. images, PDFs from journals, or other materials), zip them up into sensible batches (e.g. all PDFs from a given journal or journal issue, all page images from a particular book) and upload them to the Internet Archive. There's a [guide to uploading things to the Internet Archive here](https://help.archive.org/hc/en-us/articles/360002360111-Uploading-A-Basic-Guide). Fill in as much metadata as you can, including the source URL you got the data from. Put the URL of the file(s) once they're uploaded to the Internet Archive in the SUCHO working spreadsheet. We've requested an Internet Archive Collection for SUCHO and will aggregate everything under that collection once it's approved.
