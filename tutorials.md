@@ -15,4 +15,5 @@ These tutorials will help volunteers get started with different kinds of tasks.
 
 ## Archiving projects
 
-* [Journals on the National Library of Ukraine](nbuv-journals)
+* [Journals on the National Library of Ukraine](/nbuv-journals)
+* [Europeana link finding](/europeana)
