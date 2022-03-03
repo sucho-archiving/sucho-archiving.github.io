@@ -1,8 +1,7 @@
 async function main() {
 
-  // Get the CSV data from Google Sheets
-  // NOTE: the Done sheet needs to be in the first position for this URL to return the correct data!
-  const csvUrl = "https://docs.google.com/spreadsheets/d/1kGScdU9df7T2QS9RnM_qvciT04Y1tmBiGVH-XD1E4l0/export?format=csv"
+  // Get the CSV data from Google Sheets (needs to be the first sheet)
+  const csvUrl = "https://docs.google.com/spreadsheets/d/1zcrfKnuyG2VOGLvhfxPLiwBlUtGbf8ZzObuJyWkZW9k/export?format=csv";
   const resp = await fetch(csvUrl);
   const csv = await resp.text()
   const reader = new CSVKit.ObjectReader()
