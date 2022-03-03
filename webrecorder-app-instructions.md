@@ -9,7 +9,7 @@ Thank you for volunteering to capture Ukrainian cultural heritage sites using th
 Download and install the [right version of the ArchiveWeb.page for your computer](https://github.com/webrecorder/archiveweb.page/releases/tag/v0.7.7) (.exe for Windows, .dmg for Mac, .zip for Linux).
 
 ## Claiming a site
-On the SUCHO spreadsheet, go to the [WebRecorder plugin tab](https://docs.google.com/spreadsheets/d/1kGScdU9df7T2QS9RnM_qvciT04Y1tmBiGVH-XD1E4l0/edit#gid=775261798)
+On the SUCHO spreadsheet (linked in Slack), go to the WebRecorder plugin tab
 - Add your name in the "Claimed by" column for the site you want to record
 - Read any notes or comments on the site you want to record
 
