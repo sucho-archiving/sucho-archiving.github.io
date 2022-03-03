@@ -23,7 +23,7 @@ We've organized our Slack channels around the technologies people are using to c
 * *#scraping* is for people writing their own custom scrapers using code, often as a way to speed up tasks in the *#waybackmachine* channel. But we're also using it for URLs to send to the *#browsertrix* group
 * *#translation* is full of people who can read Russian and/or Ukrainian. If you're confused about how to navigate a site you're working on, or what something means, head over there and ask.
 * *#linkcollection* is for people working on finding new links to add to our workflow by submitting them via the [URL form](https://docs.google.com/forms/d/e/1FAIpQLSffa64-l6qXqEumAcf38OEOrTFeYZEmF531PNv9ZgzNFbcgxQ/viewform)
-
+ 
 ## Choosing tasks
 
 Based on the descriptions of the Slack channels above, you may want to pick a particular channel / type of task to focus on, depending on your technical and language skills. *#waybackmachine* probably has the clearest and most straightforward set of things to do that don't need any linguistic or technical knowledge, but if you're comfortable enough browsing websites and clicking on links in a language you don't understand, there's also tasks in *#manualwebrecorder* that don't need any technical expertise.
