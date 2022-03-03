@@ -14,7 +14,7 @@ async function main() {
   addCell(hdr, "Title", "th");
   addCell(hdr, "URL", "th");
   addCell(hdr, "Description", "th");
-  addCell(hdr, "WACZ", "th");
+  addCell(hdr, "View", "th");
   table.appendChild(hdr);
 
   for (const row of reader.rows) {
