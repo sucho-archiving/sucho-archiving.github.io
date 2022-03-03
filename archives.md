@@ -6,7 +6,7 @@ javascript:
   - archives.js
 ---
 
-The following are archived websites that the project has collected so far. You can also view this data directly in a [Google Sheet] which also contains websites that are currently being worked on by volunteers.
+The following are archived websites that the project has collected so far. Use the view links to view the WACZ archive or the content at the Internet Archive. 
 
 <section id="archives">
 </section>
