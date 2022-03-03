@@ -13,6 +13,7 @@
   <link rel="shortcut icon" href="{{ 'favicon.ico' | relative_url }}" type="image/x-icon">
 
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
   {% if site.ga_tracking != nil %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_tracking }}"></script>
@@ -34,6 +35,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% seo %}
+
+  {% if page.javascript %}
+    {% for js_file in page.javascript %}
+      <script type="text/javascript" src="/assets/js/{{ js_file }}"></script>
+    {% endfor %}
+  {% endif %}
 
   {% include head_custom.html %}
 
