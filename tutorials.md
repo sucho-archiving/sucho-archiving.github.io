@@ -7,6 +7,9 @@ permalink: tutorials
 
 These tutorials will help volunteers get started with different kinds of tasks.
 
+## Orientation
+* [I'm new here, how do I help?](/orientation)
+
 ## Tools
 
 * Using the [Internet Archive Google Sheets link submission tool](/ia-gsheets)

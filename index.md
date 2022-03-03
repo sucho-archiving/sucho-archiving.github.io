@@ -12,6 +12,8 @@ We are a group of cultural heritage professionals – librarians, archivists, re
 1. [Submit](https://docs.google.com/forms/d/e/1FAIpQLSffa64-l6qXqEumAcf38OEOrTFeYZEmF531PNv9ZgzNFbcgxQ/viewform) important URLs for collections in cultural heritage institutions in Ukraine
 2. [Volunteer](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform) to help identify and archive sites and content, run technology (Browsertrix) or let us know if you are a Ukrainian researcher in need of secure storage for research or data files. 
 
+You'll need to wait until we add you to the Slack to actually get started, but if you want to read about the process, here's our [workflow](/workflow) and a [orientation for new volunteers](/orientation).
+
 ## Team
 - Olha Aleksic, Ukrainian Research Institute, Harvard University
 - Kostyantyn Bondarenko, Ukrainian Research Institute, Harvard University
