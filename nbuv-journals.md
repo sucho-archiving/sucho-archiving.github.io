@@ -18,4 +18,4 @@ We've already submitted the landing page for each journal to the Internet Archiv
 - Click on each range within the year. This should pull up a page full of links. Put the URL of this page in your Internet Archive Google Sheet
 - Links that end with a *C.* plus a number (e.g. *C. 70-74*) should be articles. Add all the links to the articles to your Google Sheet.
 
-Once you're done collecting links, run your sheet through the [Internet Archive Google Sheets tool, as described here](/ia-gsheets). Then update the [SUCHO spreadsheet](https://docs.google.com/spreadsheets/d/1kGScdU9df7T2QS9RnM_qvciT04Y1tmBiGVH-XD1E4l0/edit#gid=0) with the link to the Google Sheet you sent to the Internet Archive.
+Once you're done collecting links, run your sheet through the [Internet Archive Google Sheets tool, as described here](/ia-gsheets). Then update the SUCHO spreadsheet (linked in Slack) with the link to the Google Sheet you sent to the Internet Archive.
