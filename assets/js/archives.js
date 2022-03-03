@@ -1,7 +1,8 @@
 async function main() {
 
-  // get the CSV data from Google Sheets
-  const csvUrl = "https://docs.google.com/spreadsheets/d/1kGScdU9df7T2QS9RnM_qvciT04Y1tmBiGVH-XD1E4l0/gviz/tq?tqx=out:csv&sheet=Done";
+  // Get the CSV data from Google Sheets
+  // NOTE: the Done sheet needs to be in the first position for this URL to return the correct data!
+  const csvUrl = "https://docs.google.com/spreadsheets/d/1kGScdU9df7T2QS9RnM_qvciT04Y1tmBiGVH-XD1E4l0/export?format=csv"
   const resp = await fetch(csvUrl);
   const csv = await resp.text()
   const reader = new CSVKit.ObjectReader()
@@ -20,7 +21,7 @@ async function main() {
   for (const row of reader.rows) {
 
     // only display information for archives that have a WACZ URL
-    const archiveUrl = row["IA link or spreadsheet"];
+    const archiveUrl = row["WACZ File"] || row["IA link or spreadsheet"];
     const websiteUrl = row["Collection URL"];
     const title = row["Collection Name"];
     const desc = row["Description"];
