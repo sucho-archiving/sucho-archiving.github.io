@@ -27,6 +27,8 @@ The easiest and fastest option is the brand-new [ArchiveWeb.page Express](https:
 
 * [Where do I put the data?](/data-upload)
 
+## Quality control
+* [Quality control for captured archives (for Ukrainian & Russian speakers)](/qc)
 
 ## Instructions for specific projects
 
