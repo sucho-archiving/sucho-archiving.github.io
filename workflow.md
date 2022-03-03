@@ -21,7 +21,7 @@ How we've organized things (last updated end-of-day March 2nd).
 - Volunteers fill out the [volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform)
 - A couple times a day, admins add new submissions from the volunteer form to the SUCHO Slack and the SUCHO work spreadsheet
 - Admins welcome new members and check in with them about the kind of work they'd like to help with, directing them to the right Slack channel
-- We have daily open orientation hours to help with getting started and troubleshooting; info goes in the #general channel
+- We have daily open orientation hours to help with getting started and troubleshooting; info goes in the #orientation channel (also cross-posted on #general)
 
 ## Finding new links
 
