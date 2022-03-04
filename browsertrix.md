@@ -54,9 +54,12 @@ Open up a command line again, if you closed it before.
 
 On a Mac, this will by default put you in your home directory (i.e. /Users/your-user-name). If you saved your *crawl-config.yaml* in the Documents folder, type `cd Documents`, and your command line will put you in the Documents folder. (If you put it somewhere else, you can put in that path after the `cd`, e.g. `cd Documents/some-subfolder/another-subfolder`).
 
-Once you're in the same location as your *crawl-config.yaml*, paste this command into the command line and press enter to start the crawling:
+Once you're in the same location as your *crawl-config.yaml*, paste this command (for Mac/Linux) into the command line and press enter to start the crawling:
 
 `docker run -v $PWD/crawl-config.yaml:/app/crawl-config.yaml -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ`
+
+If you're on Windows, use this command:
+`docker run -v %PWD%/crawl-config.yaml:/app/crawl-config.yaml -v %PWD%/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ`
 
 *Note*: You may have to use 'sudo' at the start of this command. If you are on Windows, you should change "$PWD" to the absolute path. To find the absolute path for your yaml file, locate the crawl-config.yaml file and copy the directory address in the folder window.
 
