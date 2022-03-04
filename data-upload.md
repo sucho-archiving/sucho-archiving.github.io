@@ -11,5 +11,7 @@ If you're using the [WebRecorder plugin](/webrecorder-plugin-instructions) or [W
 
 If you have a WACZ file, go to the [WACZ upload form](https://forms.gle/N18MxWgoHtPB2xpz8). Enter the metadata and upload the WACZ file.
 
+The WACZ form only accepts files up to 10 GB, so if you have a larger archive, get in touch with @Seb on Slack.
+
 ## PDFs, images, other files
 If you have scraped other kinds of files (e.g. images, PDFs from journals, or other materials), zip them up into sensible batches (e.g. all PDFs from a given journal or journal issue, all page images from a particular book) and upload them to the Internet Archive. There's a [guide to uploading things to the Internet Archive here](https://help.archive.org/hc/en-us/articles/360002360111-Uploading-A-Basic-Guide). Fill in as much metadata as you can, including the source URL you got the data from. Put the URL of the file(s) once they're uploaded to the Internet Archive in the SUCHO working spreadsheet. We've requested an Internet Archive Collection for SUCHO and will aggregate everything under that collection once it's approved.
