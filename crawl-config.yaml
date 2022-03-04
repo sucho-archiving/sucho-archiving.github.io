@@ -1,0 +1,7 @@
+collection: "archangel-kiev-ua"
+workers: 16
+saveState: always
+seeds:
+  - url: http://archangel.kiev.ua/
+    include: .*\.archangel\.kiev\.ua/
+    scopeType: "host"
