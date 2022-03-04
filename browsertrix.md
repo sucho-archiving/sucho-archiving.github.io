@@ -33,6 +33,9 @@ In your command line, type or paste this:
 
 This downloads and sets up Browsertrix using Docker.
 
+## Picking a site
+Go to the Browsertrix tab of the SUCHO working spreadsheet and pick a site to work on that no one has claimed yet. First load it in your browser to see if it's working; many sites are already going down. Next, especially if you're planning to crawl it using your laptop (also, please make sure your laptop is backed up first in case of malware), run it through a [security check](https://sitecheck.sucuri.net/). If the security check can't run on the site, try again with another link; we have other people who can run the crawler on dodgier links using stand-alone servers.
+
 ## Creating a configuration YAML file
 A YAML file is just a plain-text file for storing configuration and such. YAML files are very picky about spaces, how many, and where they're located. You can download an [example YAML file here](crawl-config.yaml), and modify it using a plain-text editor. (If you don't have a plain-text editor already installed on your computer, download and install [Atom](https://atom.io/) for Mac or Windows, and use that to open and edit the example YAML file.)
 
