@@ -33,6 +33,8 @@ In your command line, type or paste this:
 
 This downloads and sets up Browsertrix using Docker.
 
+*Note*: If this command throws an error, it is probably the case that you don't have administrative permissions. Try the above command again, but put 'sudo' at the front, so the command would be: 'sudo docker pull webrecorder/browsertrix-crawler'
+
 ## Picking a site
 Go to the Browsertrix tab of the SUCHO working spreadsheet and pick a site to work on that no one has claimed yet. First load it in your browser to see if it's working; many sites are already going down. Next, especially if you're planning to crawl it using your laptop (also, please make sure your laptop is backed up first in case of malware), run it through a [security check](https://sitecheck.sucuri.net/). If the security check can't run on the site, try again with another link; we have other people who can run the crawler on dodgier links using stand-alone servers.
 
@@ -55,6 +57,8 @@ On a Mac, this will by default put you in your home directory (i.e. /Users/your-
 Once you're in the same location as your *crawl-config.yaml*, paste this command into the command line and press enter to start the crawling:
 
 `docker run -v $PWD/crawl-config.yaml:/app/crawl-config.yaml -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ`
+
+*Note*: You may have to use 'sudo' at the start of this command. If you are on Windows, you should change "$PWD" to the absolute path. To find the absolute path for your yaml file, locate the crawl-config.yaml file and copy the directory address in the folder window.
 
 ## Waiting
 Depending on the size of the site, it could take anywhere from a couple minutes to 10+ hours. If you run out of space on your computer, contact @Seb on the SUCHO Slack and he'll use one of the big servers on it.
