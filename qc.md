@@ -8,7 +8,7 @@ title: Quality Control
 
 Once we have created a web archive for a site, we need people who can (more or less) read Ukrainian or Russian to check the archives to make sure that they didn't miss anything major.
 
-- Go to the "Done" tab in the SUCHO working sheet (linked in the SUCHO Slack)
+- Go to the "QC" tab in the SUCHO working sheet (linked in the SUCHO Slack)
   - Column G has the link to the "WACZ file", which is the web archive.
   - Column I has the link for reviewing the web archive
   - Column J is for QC status
