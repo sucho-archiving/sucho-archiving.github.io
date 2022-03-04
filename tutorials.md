@@ -24,13 +24,15 @@ The easiest and fastest option is the brand-new [ArchiveWeb.page Express](https:
 
 
 ## Data
-
 * [Where do I put the data?](/data-upload)
 
 ## Quality control
 * [Quality control for captured archives (for Ukrainian & Russian speakers)](/qc)
 
 ## Instructions for specific projects
-
 * [Journals on the National Library of Ukraine](/nbuv-journals)
 * [Europeana link finding](/europeana)
+
+## Hacks
+* [Useful Hacks](https://www.sucho.org/hacks)
+  * Automate URL list based on a filename pattern
