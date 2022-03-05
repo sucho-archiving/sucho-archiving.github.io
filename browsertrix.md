@@ -109,9 +109,14 @@ On Windows, to find the absolute path for your .yaml file, locate the crawl-conf
 ## Waiting
 Depending on the size of the site, the crawl could take anywhere from a couple minutes to 10+ hours. If you run out of space on your computer, contact @Seb on the SUCHO Slack and he'll use one of the big servers on it.
 
-If the crawl gets interrupted, or you need to interrupt the execution in the command line, browsertrix should pick up where it left off once you rerun the crawl command.
+### Interruptions
+If the crawl gets interrupted, or you need to interrupt the execution in the command line, browsertrix should be able pick up where it left off if you run a slightly different crawl command. 
 
-## Uploading the WACZ file
+This is an example you would need to modify for your case: `docker run -v $PWD/crawls/collections/history-org-ua/crawls/crawl-20220305161714-00e289c2da70.yaml:/app/crawl-config.yaml -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ --text --timeout 120`
+
+The first argument now points to crawls/collections/....../crawl-[LOTSOFNUMBERS].yaml
+
+## Final Step: Uploading the WACZ file
 The directory that has your *crawl-config.yaml* file will generate a *crawls* directory the first time you run the command to crawl a site. 
 
 To find the WACZ (archive) file, open that *crawls* folder, then the *collections* folder. Inside *collections*, you should see a folder for each of the sites you've crawled. Inside that folder is a .wacz file.
