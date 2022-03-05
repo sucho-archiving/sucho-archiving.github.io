@@ -43,7 +43,7 @@ In your command line, type or paste this:
 
 This command downloads and sets up Browsertrix using Docker.
 
-*Note*: If this command throws an error, you might not have administrative permissions. Try the above command again, but put `sudo` at the front, so the command would be: `sudo docker pull webrecorder/browsertrix-crawler`
+**Note**: If this command throws an error, you might not have administrative permissions. Try the above command again, but put `sudo` at the front, so the command would be: `sudo docker pull webrecorder/browsertrix-crawler`
 
 ## Picking a website from the spreadsheet
 Go to the Browsertrix tab of the SUCHO working spreadsheet and pick a site to work on that no one has claimed yet. To claim the site, on that row of the spreadsheet, add your name to the 'Claimed By' column, and update the 'Status' column to 'in progress.' 
@@ -93,7 +93,7 @@ Once you're in the same location as your *crawl-config.yaml*, paste this command
 *For Windows*: after navigating to the right directory in the command prompt using `cd`, type the following command:
 `docker run -v %PWD%/crawl-config.yaml:/app/crawl-config.yaml -v %PWD%/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --text --generateWACZ`
 
-*Note*: You may have to use 'sudo' at the start of this command. If you are on Windows, you may be better off using the absolute path. To find the absolute path for your .yaml file, locate the crawl-config.yaml file and copy the directory address in the folder window.
+**Note**: You may have to use 'sudo' at the start of this command. If you are on Windows, you may be better off using the absolute path. To find the absolute path for your .yaml file, locate the crawl-config.yaml file and copy the directory address in the folder window.
 
 ## Waiting
 Depending on the size of the site, the crawl could take anywhere from a couple minutes to 10+ hours. If you run out of space on your computer, contact @Seb on the SUCHO Slack and he'll use one of the big servers on it.
