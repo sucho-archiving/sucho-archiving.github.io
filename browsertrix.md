@@ -14,12 +14,14 @@ Browsertrix is a little complicated to set up, so it has become a bottleneck for
 
 **If you have questions**, don't hesitate to ask on the #browsertrix Slack channel. This sort of work often requires help for troubleshooting.
 
-## Browsertrix
+### Browsertrix
 [Browsertrix](https://github.com/webrecorder/browsertrix-crawler) is a simplified browser and crawling system that can create web archive files for entire sites. It's distributed as a *Docker container*. 
 
 A [Docker](https://www.docker.com/) container basically packages up system configuration in a way that makes a software program easy to share and run on different computers and servers.
 
-## Installing Docker
+## Initial Set Up
+
+### Installing Docker
 
 The first step is to [download and install Docker](https://docs.docker.com/get-docker/). That link has instructions and download information for Mac, Windows, and Linux. 
 
@@ -31,7 +33,7 @@ Once Docker is installed, as it loads you should see a sort of whale-with-flicke
 
 If you want to speed up Docker, you can look at advanced options to change how it uses computing resources. On Mac, go to 'Settings,' 'Resources,' and increase CPU usage, Memory, and other features. On Windows, these edits need to be made to the .wslconfig file.
 
-## Launching the command line
+### Launching the command line
 Now that Docker is running, we can set up the web crawler from the command line.
 
 *For Macs*: go to *Applications > Utilities > Terminal*.
@@ -58,8 +60,8 @@ Next, to avoid downloading malware, please make sure your personal computer is b
 
 If the security check can't run on the site, or if the security risk appears to be severe, make a note in the Comments field and move on to the next item. We can assign other people to run the crawler on dodgier links using stand-alone servers. As far as we can tell, a "Medium" risk shouldn't pose a threat to you if the security check returns that no "malware" or "injected spam" is detected in the site.
 
-## Creating a configuration YAML file
-A YAML file is a plain-text file for storing configuration information about how a programming script will run. YAML files are very picky about spaces, how many, and where they're located. 
+## Creating a configuration YAML file 
+A YAML file is a plain-text file for storing configuration information about how a programming script will run. YAML files are very picky about spaces, how many, and where they're located. Each time you conduct a crawl, you can edit a yaml file to configure the crawl for a website and its subdomains.
 
 You can download an [example `crawl-config.yaml` file here](crawl-config.yaml), and modify it using a plain-text editor. (If you don't have a plain-text editor already installed on your computer, download and install [Atom](https://atom.io/) for Mac or Windows, and use that to open and edit the example YAML file.)
 
@@ -75,7 +77,7 @@ seeds:
     scopeType: "host"
 ```
 
-Here's the things you should modify:
+Here's the fields you should modify each time:
 
 * `collection:` this should be basically the URL that you scrape, but with hyphens instead of periods in the URL. So *http://archangel.kiev.ua* becomes `collection: archangel-kiev-ua`
 * `url:` this is just the base URL in the SUCHO spreadsheet for the URL you're scraping
