@@ -93,7 +93,12 @@ Once you're in the same location as your *crawl-config.yaml*, paste this command
 *For Windows*: after navigating to the right directory in the command prompt using `cd`, type the following command:
 `docker run -v %PWD%/crawl-config.yaml:/app/crawl-config.yaml -v %PWD%/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --text --generateWACZ`
 
+
+## Troubleshooting the crawl command
 **Note**: You may have to use 'sudo' at the start of this command. If you are on Windows, you may be better off using the absolute path. To find the absolute path for your .yaml file, locate the crawl-config.yaml file and copy the directory address in the folder window.
+
+Some Macs have had problems with $PWD too, so instead, put in the full system path to the crawl-config.yaml. Try putting the full path in quotes.
+
 
 ## Waiting
 Depending on the size of the site, the crawl could take anywhere from a couple minutes to 10+ hours. If you run out of space on your computer, contact @Seb on the SUCHO Slack and he'll use one of the big servers on it.
