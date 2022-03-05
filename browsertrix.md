@@ -6,7 +6,7 @@ title: Browsertrix
 
 ## Web Crawling 
 
-Web crawling is the process of systematically browsing a website or set of websites. Browsertrix is the tool SUCHO is using to crawl entire sites and copy all their contents for the purposes of emulation. Most websites can be preserved in their entirety using this tool.
+Web crawling is the process of systematically browsing a website or set of websites. Browsertrix is the tool SUCHO is using to crawl entire sites and copy all their contents for the purposes of emulation and replay. Most websites can be preserved in their entirety using this tool.
 
 However, some websites have content (e.g. interactive 3D models) that won't capture well with Browsertrix; in these cases, we will send those parts of the websites over to be scraped/captured by other tools. 
 
@@ -36,7 +36,7 @@ Now that Docker is running, we can perform the web crawl from the command line.
 
 *For Windows*: search for *cmd*, and the Command Prompt app should appear as the best match.
 
-## Getting the Docker image for Browsertrix
+### Getting the Docker image for Browsertrix
 
 In your command line, type or paste this:
 `docker pull webrecorder/browsertrix-crawler`
@@ -77,11 +77,7 @@ Here's the things you should modify:
 * `url:` this is just the base URL in the SUCHO spreadsheet for the URL you're scraping
 * `include:` this is a little tricky, but all you need to do is reconfigure the collection URL with some new syntax to ensure the webcrawler captures subdomains. It starts with `.*\.` and then the first part of your URL. Instead of a dot between the parts of your URL path, it should be `\.` So *http://archangel.kiev.ua* becomes `include: .*\.archangel\.kiev\.ua/`
 
-Save the YAML file as `crawl-config.yaml` somewhere easy to navigate to on your computer -- on a Mac, the Documents folder is a good one. 
-
-You wil need to be able to change your directory using the command line to where your *crawl-config.yaml* file is saved on your computer to run the Docker command from that directory when you crawl the site.
-
-**Note**: If you encounter errors relating to absolute paths, directories, or other errors, you may need to double check where you placed your config file, and how you are directing browsertrix to find it.
+Save the YAML file as `crawl-config.yaml` somewhere easy to navigate to on your computer -- on a Mac, the Documents folder is a good one. You will need to be able to change your directory using the command line to where your *crawl-config.yaml* file is saved on your computer to run the Docker command from that directory when you crawl the site. 
 
 ## Starting to crawl the site
 Open up the command line again, if you closed it before. 
@@ -95,12 +91,14 @@ Once you're in the same location as your *crawl-config.yaml*, paste this command
 *For Windows*: after navigating to the right directory in the command prompt using `cd`, type the following command:
 `docker run -v %PWD%/crawl-config.yaml:/app/crawl-config.yaml -v %PWD%/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --text --generateWACZ`
 
+### Troubleshooting the crawl command
+You may have to use 'sudo' at the start of this command. 
 
-## Troubleshooting the crawl command
-**Note**: You may have to use 'sudo' at the start of this command. If you are on Windows, you may be better off using the absolute path. To find the absolute path for your .yaml file, locate the crawl-config.yaml file and copy the directory address in the folder window.
+At this stage, if you encounter errors relating to absolute paths, directories, or other errors, you may need to double check where you placed your config file, and how you are directing browsertrix to find it.
 
-Some Macs have had problems with $PWD too, so instead, put in the full system path to the crawl-config.yaml. Try putting the full path in quotes.
+Some users on both Macs and Windows have had problems with $PWD too; instead, put in the full system path to the crawl-config.yaml. Try putting the full path in quotes. 
 
+On Windows, to find the absolute path for your .yaml file, locate the crawl-config.yaml file and copy the directory address in the folder window.
 
 ## Waiting
 Depending on the size of the site, the crawl could take anywhere from a couple minutes to 10+ hours. If you run out of space on your computer, contact @Seb on the SUCHO Slack and he'll use one of the big servers on it.
