@@ -105,4 +105,4 @@ To find the WACZ (archive) file, open that *crawls* folder, then the *collection
 
 Upload that .wacz file along with associated metadata to our [WACZ uploads form](https://forms.gle/N18MxWgoHtPB2xpz8).
 
-You're done! Thank you for your work. Please mark the row's status as "Submitted," and continue on to the next item.
+Once you've submitted the Google Form, you're done! Thank you for your work. Please mark the row's status as "Submitted," and continue on to the next item.
