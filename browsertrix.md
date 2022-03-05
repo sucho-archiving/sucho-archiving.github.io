@@ -6,13 +6,13 @@ title: Browsertrix
 
 ## Web Crawling 
 
-Web crawling is the process of systematically browsing the web. Browsertrix is the tool we're using  to crawl entire sites and copy all their contents in a format that can be emulated. Most websites can be preserved in their entirety using this tool.
+Web crawling is the process of systematically browsing a website or set of websites. Browsertrix is the tool SUCHO is using to crawl entire sites and copy all their contents for the purposes of emulation. Most websites can be preserved in their entirety using this tool.
 
-However, some websites have content (e.g. interactive 3D models) that won't capture well with Browsertrix; in these cases, we send those parts of the sites over to be captured by other tools. 
+However, some websites have content (e.g. interactive 3D models) that won't capture well with Browsertrix; in these cases, we will send those parts of the websites over to be scraped/captured by other tools. 
 
-Browsertrix is a little complicated to set up, so it has become a bottleneck for SUCHO. These instructions are written to help people get started who are "medium-technical" (not necessarily people who code, but who aren't afraid of installing and messing around with stuff). Even if you have little prior coding experience, this tutorial should make it possible for you to crawl and preserve a website. 
+Browsertrix is a little complicated to set up, so it has become a bottleneck for SUCHO. These instructions are written to help onboard people who are "medium-technical" (not necessarily people who code, but who aren't afraid of installing and messing around with stuff). Even if you have little prior coding experience, this tutorial should make it possible for you to crawl and preserve a website. 
 
-**If you have questions,** don't hesitate to ask on the #browsertrix Slack channel. This sort of work often requires help for troubleshooting.
+**If you have questions**, don't hesitate to ask on the #browsertrix Slack channel. This sort of work often requires help for troubleshooting.
 
 ## Browsertrix
 [Browsertrix](https://github.com/webrecorder/browsertrix-crawler) is a simplified browser and crawling system that can create web archive files for entire sites. It's distributed as a *Docker container*. 
