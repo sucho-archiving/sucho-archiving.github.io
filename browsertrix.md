@@ -53,11 +53,11 @@ Load the 'Collection Url' in your browser to see if it's working; many sites are
 Next, to avoid downloading malware, please make sure your personal computer is backed up, and run it through a [security check](https://sitecheck.sucuri.net/). If the security check can't run on the site, make a note in the Comments field, and move on to the next item. We can assign other people to run the crawler on dodgier links using stand-alone servers.
 
 ## Creating a configuration YAML file
-A YAML file is just a plain-text file for storing configuration information about how a programming script will run. YAML files are very picky about spaces, how many, and where they're located. 
+A YAML file is a plain-text file for storing configuration information about how a programming script will run. YAML files are very picky about spaces, how many, and where they're located. 
 
-You can download an [example YAML file here](crawl-config.yaml), and modify it using a plain-text editor. (If you don't have a plain-text editor already installed on your computer, download and install [Atom](https://atom.io/) for Mac or Windows, and use that to open and edit the example YAML file.)
+You can download an [example `crawl-config.yaml` file here](crawl-config.yaml), and modify it using a plain-text editor. (If you don't have a plain-text editor already installed on your computer, download and install [Atom](https://atom.io/) for Mac or Windows, and use that to open and edit the example YAML file.)
 
-The crawl-config.yaml file should look as follows (with `collection`, `url`, and `include` changed to match each website): 
+The `crawl-config.yaml` file should look as follows (with `collection`, `url`, and `include` changed to match each website): 
 
 ```
 collection: "archangel-kiev-ua"
@@ -75,7 +75,7 @@ Here's the things you should modify:
 * `url:` this is just the base URL in the SUCHO spreadsheet for the URL you're scraping
 * `include:` this is a little tricky, but all you need to do is reconfigure the collection URL with some new syntax to ensure the webcrawler captures subdomains. It starts with `.*\.` and then the first part of your URL. Instead of a dot between the parts of your URL path, it should be `\.` So *http://archangel.kiev.ua* becomes `include: .*\.archangel\.kiev\.ua/`
 
-Save the YAML file as *crawl-config.yaml* somewhere easy to navigate to on your computer -- on a Mac, the Documents folder is a good one. 
+Save the YAML file as `crawl-config.yaml` somewhere easy to navigate to on your computer -- on a Mac, the Documents folder is a good one. 
 
 You wil need to be able to change your directory using the command line to where your *crawl-config.yaml* file is saved on your computer to run the Docker command from that directory when you crawl the site.
 
