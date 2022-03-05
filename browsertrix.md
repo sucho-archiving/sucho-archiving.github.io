@@ -50,7 +50,9 @@ Go to the Browsertrix tab of the SUCHO working spreadsheet and pick a site to wo
 
 Load the 'Collection Url' in your browser to see if it's working; many sites are already going down, so double check before proceeding. 
 
-Next, to avoid downloading malware, please make sure your personal computer is backed up, and run it through a [security check](https://sitecheck.sucuri.net/). If the security check can't run on the site, make a note in the Comments field, and move on to the next item. We can assign other people to run the crawler on dodgier links using stand-alone servers.
+Next, to avoid downloading malware, please make sure your personal computer is backed up, and run it through a [security check](https://sitecheck.sucuri.net/). 
+
+If the security check can't run on the site, or if the security risk appears to be severe, make a note in the Comments field and move on to the next item. We can assign other people to run the crawler on dodgier links using stand-alone servers. As far as we can tell, a "Medium" risk shouldn't pose a threat to you if the security check returns that no "malware" or "injected spam" is detected in the site.
 
 ## Creating a configuration YAML file
 A YAML file is a plain-text file for storing configuration information about how a programming script will run. YAML files are very picky about spaces, how many, and where they're located. 
