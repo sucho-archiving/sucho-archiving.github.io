@@ -89,14 +89,14 @@ Once you're in the same location as your *crawl-config.yaml*, paste this command
 `docker run -v $PWD/crawl-config.yaml:/app/crawl-config.yaml -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --text --generateWACZ`
 
 *For Windows*: after navigating to the right directory in the command prompt using `cd`, type the following command:
-`docker run -v %PWD%/crawl-config.yaml:/app/crawl-config.yaml -v %PWD%/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --text --generateWACZ`
+`docker run -v %cd%/crawl-config.yaml:/app/crawl-config.yaml -v %cd%/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --text --generateWACZ`
 
 ### Troubleshooting the crawl command
 You may have to use 'sudo' at the start of this command. 
 
 At this stage, if you encounter errors relating to absolute paths, directories, or other errors, you may need to double check where you placed your config file, and how you are directing browsertrix to find it.
 
-Some users on both Macs and Windows have had problems with $PWD too; instead, put in the full system path to the crawl-config.yaml. Try putting the full path in quotes. 
+Some users on both Macs and Windows have had problems with $PWD and %cd%. If that doesn't work, put in the full system path to the crawl-config.yaml. Try putting the full path in quotes. 
 
 On Windows, to find the absolute path for your .yaml file, locate the crawl-config.yaml file and copy the directory address in the folder window.
 
