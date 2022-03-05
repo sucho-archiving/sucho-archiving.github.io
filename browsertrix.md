@@ -4,7 +4,7 @@ permalink: browsertrix
 title: Browsertrix
 ---
 
-# Web Crawling 
+## Web Crawling 
 
 Web crawling is the process of systematically browsing the web. Browsertrix is the tool we're using  to crawl entire sites and copy all their contents in a format that can be emulated. Most websites can be preserved in their entirety using this tool.
 
@@ -14,7 +14,7 @@ Browsertrix is a little complicated to set up, so it has become a bottleneck for
 
 **If you have questions,** don't hesitate to ask on the #browsertrix Slack channel. This sort of work often requires help for troubleshooting.
 
-## About Browsertrix
+## Browsertrix
 [Browsertrix](https://github.com/webrecorder/browsertrix-crawler) is a simplified browser and crawling system that can create web archive files for entire sites. It's distributed as a *Docker container*. 
 
 A [Docker](https://www.docker.com/) container basically packages up system configuration in a way that makes a software program easy to share and run on different computers and servers.
@@ -45,7 +45,7 @@ This command downloads and sets up Browsertrix using Docker.
 
 *Note*: If this command throws an error, you might not have administrative permissions. Try the above command again, but put `sudo` at the front, so the command would be: `sudo docker pull webrecorder/browsertrix-crawler`
 
-## Picking a site
+## Picking a website from the spreadsheet
 Go to the Browsertrix tab of the SUCHO working spreadsheet and pick a site to work on that no one has claimed yet. To claim the site, on that row of the spreadsheet, add your name to the 'Claimed By' column, and update the 'Status' column to 'in progress.' 
 
 Load the 'Collection Url' in your browser to see if it's working; many sites are already going down, so double check before proceeding. 
