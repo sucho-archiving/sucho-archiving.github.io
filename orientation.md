@@ -34,6 +34,8 @@ The SUCHO working spreadsheet (linked in Slack) has all tasks, along with links 
 
 If you'd like to have someone who's online help you find a task and get started, post in the *#mentors* channel and we can try to match you with a mentor.
 
+If there's an archive that seems to be getting too big and you're running out of space, ping Seb on Slack and let him know.
+
 ### Claiming a task
 Put your name down in the "claimed by" column when you decide to work on a task. (If you can't edit the sheet, send a permission request and Quinn will try to respond promptly.) Change the status to "in progress". We try to break up most tasks into "bite-sized pieces" so people can do just a little. If you have a larger amount of time available to work on this, feel free to claim multiple tasks. If you don't get to them, you can remove your name and change the status back to "volunteer needed".
 
