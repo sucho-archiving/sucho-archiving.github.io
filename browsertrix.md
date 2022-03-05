@@ -32,7 +32,7 @@ Once Docker is installed, as it loads you should see a sort of whale-with-flicke
 If you want to speed up Docker, you can look at advanced options to change how it uses computing resources. On Mac, go to 'Settings,' 'Resources,' and increase CPU usage, Memory, and other features. On Windows, these edits need to be made to the .wslconfig file.
 
 ## Launching the command line
-Now that Docker is running, we can perform the web crawl from the command line.
+Now that Docker is running, we can set up the web crawler from the command line.
 
 *For Macs*: go to *Applications > Utilities > Terminal*.
 
@@ -46,6 +46,8 @@ In your command line, type or paste this:
 This command downloads and sets up Browsertrix using Docker.
 
 **Note**: If this command throws an error, you might not have administrative permissions. Try the above command again, but put `sudo` at the front, so the command would be: `sudo docker pull webrecorder/browsertrix-crawler`
+
+Now that you've installed Docker and configured the Docker image, you shouldn't need to redo these first setup steps again. 
 
 ## Picking a website from the spreadsheet
 Go to the Browsertrix tab of the SUCHO working spreadsheet and pick a site to work on that no one has claimed yet. To claim the site, on that row of the spreadsheet, add your name to the 'Claimed By' column, and update the 'Status' column to 'in progress.' 
