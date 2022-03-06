@@ -25,21 +25,27 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Catherine Emerson, National University of Ireland Galway
 - Claudia Engel
 - Alex Gil
+- Felipe Gómez, Carnegie Mellon University
 - Sasha Goryl, Indiana University
 - Paulina Guerrero, Indiana University
 - Andy Janco, Haverford College
 - Eric Kansa, OpenContext.org
 - Georgii Korotkov, Stanford University
 - Ilya Kreymer, Webrecorder Software
+- Amanda Leary, University of Notre Dame
 - Christine Lee
 - Dennette McDermott, DMA Professor of Music Northwestern State Univ of Louisiana
 - Dina Murokh, PhD Candidate, Art History, USC
 - Gregory Palermo, Brandeis University
 - Katelin Marit Parsons, Árni Magnússon Institute for Icelandic Studies (Reykjavík)
 - Liz Pringi
+- Justin Richards -  SEARCH, Inc.
 - Andreas Segerberg, University of Gothenburg and ESSolutions 
 - Amanda Simmons
 - Giuli Šlapkova
+- Sarah Stang, Librarian
+- Dena Strong
 - Aubree Tillett, Minnesota Historical Society
 - Iryna Voloshyna, Department of Folklore and Ethnomusicology, Indiana University
 - Shane Watson, AppState Music Library Manager, University of North Carolina MLIS Student
+- Marian Whalen, The University of Edinburgh 
