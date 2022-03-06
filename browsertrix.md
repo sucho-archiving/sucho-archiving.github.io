@@ -71,7 +71,7 @@ The `crawl-config.yaml` file should look as follows (with `collection`, `url`, a
 
 ```
 collection: "sgiaz-uamuseum-com"
-workers: 16
+workers: 8
 saveState: always
 seeds:
   - url: http://sgiaz.uamuseum.com/
