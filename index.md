@@ -10,8 +10,10 @@ We are a group of cultural heritage professionals – librarians, archivists, re
 
 
 ## How you can get involved
+0. No clue what's going on? Visit our [orientation page](https://www.sucho.org/orientation).
 1. [Submit](https://docs.google.com/forms/d/e/1FAIpQLSffa64-l6qXqEumAcf38OEOrTFeYZEmF531PNv9ZgzNFbcgxQ/viewform) important URLs for collections in cultural heritage institutions in Ukraine
-2. If you can read Ukrainian or Russian, or if you can run the Browsertrix crawler (check out our [Browsertrix documentation](/browsertrix) to see if it's something you'd be up for trying), fill out the [volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform). We are currently at capacity for people to help with Wayback Machine / Internet Archive tasks or manual Webrecorder tasks, but you can still help by submitting URLs.
+2. If you can read Ukrainian or Russian, or if you can run the Browsertrix crawler (check out our [Browsertrix documentation](/browsertrix) to see if it's something you'd be up for trying), fill out the [volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform). 
+3. We are currently at capacity for people to help with Wayback Machine / Internet Archive tasks or manual Webrecorder tasks, but you can still help by submitting URLs.
 
 You'll need to wait until we add you to the Slack to actually get started, but if you want to read about the process, here's our [workflow](/workflow) and a [orientation for new volunteers](/orientation).
 
