@@ -10,7 +10,7 @@ If you've never had to worry about infosec (information security) before, this p
 
 ## Checking links
 
-Some servers in Eastern Europe are now under coordinated and uncoordinated attack. Many others have been magnets for malware and other nonsense from day immemorial. Anyone working with links, whether it's Browserstrix or Web Recorder should check those links first. 
+Some servers in Eastern Europe are now under coordinated and uncoordinated attack. Many others have been magnets for malware and other nonsense from time immemorial. Anyone working with links, whether it's Browserstrix or Web Recorder should check those links first. 
 
 **BEFORE** you click on a link, or enter it into your web browser, check the link with [Sucuri SiteCheck service](https://sitecheck.sucuri.net/) first. You can also use any comparable service. 
 
