@@ -12,6 +12,8 @@ However, some websites have content (e.g. interactive 3D models) that won't capt
 
 Browsertrix is a little complicated to set up, so it has become a bottleneck for SUCHO. These instructions are written to help onboard people who are "medium-technical" (not necessarily people who code, but who aren't afraid of installing and messing around with stuff). Even if you have little prior coding experience, this tutorial should make it possible for you to crawl and preserve a website. 
 
+By the end of a crawl, you will have generated a zipped file of a a series of [Web ARChive (WARC) files](https://en.wikipedia.org/wiki/Web_ARChive). This final zipped file produced by Browsertrix is known as a .wacz file (short for [Web Archive Collection Zipped](https://webrecorder.net/2021/01/18/wacz-format-1-0.html)). 
+
 **If you have questions**, don't hesitate to ask on the #browsertrix Slack channel. This sort of work often requires help for troubleshooting.
 
 ### Browsertrix
@@ -122,10 +124,10 @@ The first argument now points to crawls/collections/....../crawl-[LOTSOFNUMBERS]
 If webpages fail to load and timeout, you may need to manually set browsertrix to a longer timeout limit by adding to the end of your command `--timeout 300`. Timeouts are tricky, so if you can't get it working, make a comment and move on to another open item. 
 
 ## Final Step: Uploading the WACZ file
-The directory that has your *crawl-config.yaml* file will generate a *crawls* directory the first time you run the command to crawl a site. 
+The directory that has your *crawl-config.yaml* file will generate a *crawls* directory the first time you run the command to crawl a site. To find the WACZ file containg the archive of the website, open the  *crawls* folder, then the *collections* folder. Inside *collections*, you should see a folder for each collection you've crawled. Inside the collection folder is a .wacz file.
 
-To find the WACZ (archive) file, open that *crawls* folder, then the *collections* folder. Inside *collections*, you should see a folder for each of the sites you've crawled. Inside that folder is a .wacz file.
+Upload that .wacz file to our [WACZ uploads form](https://forms.gle/N18MxWgoHtPB2xpz8).
 
-Upload that .wacz file along with associated metadata to our [WACZ uploads form](https://forms.gle/N18MxWgoHtPB2xpz8).
+Once you've submitted the Google Form, you're crawl is complete! Thank you for your work. 
 
-Once you've submitted the Google Form, you're done! Thank you for your work. Please mark the row's status as "Submitted," and continue on to the next item.
+Please mark in the spreadsheet the row's status as "Submitted," and continue on to the next item.
