@@ -20,3 +20,4 @@ If you have scraped other kinds of files (e.g. images, PDFs from journals, or ot
 * Fill in as much metadata as you can, including the source URL you got the data from. Put the URL of the file(s) once they're uploaded to the Internet Archive in the SUCHO working spreadsheet. Everything will be aggregated in the [Internet Archive Collection for SUCHO](https://archive.org/details/sucho?tab=collection).
 * [Guide](https://docs.google.com/document/d/1qpax1HQmWOVXqbA9NTCU4WBZNWKfLPhUTqxs7s94Jas/edit?usp=sharing) to filling in metadata fields
 
+**If you are unsure about whether to download files and upload them to the Internet Archive, please ask on Slack and also see [updated guidelines for Internet Archive captures](ia-gsheets).**
