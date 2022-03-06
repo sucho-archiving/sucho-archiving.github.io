@@ -46,6 +46,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Sarah Stang, Librarian
 - Dena Strong
 - Aubree Tillett, Minnesota Historical Society
+- William Vaughan, Special Collections, University College London
 - Iryna Voloshyna, Department of Folklore and Ethnomusicology, Indiana University
 - Shane Watson, AppState Music Library Manager, University of North Carolina MLIS Student
 - Marian Whalen, The University of Edinburgh 
