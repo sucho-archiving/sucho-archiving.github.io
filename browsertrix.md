@@ -56,6 +56,8 @@ Now that you've installed Docker and configured the Docker image, you shouldn't 
 ## Picking a website from the spreadsheet
 Go to the Browsertrix tab of the SUCHO working spreadsheet and pick a site to work on that no one has claimed yet. To claim the site, on that row of the spreadsheet, add your name to the 'Claimed By' column, and update the 'Status' column to 'in progress.' 
 
+Prioritize sites with links ending in `.ua`. Check where they are hosted and focus on sites in Ukraine and environs using [Hosting Checker](icehttps://hostingchecker.com).
+
 Load the 'Collection Url' in your browser to see if it's working; many sites are already going down, so double check before proceeding. 
 
 Next, to avoid downloading malware, please make sure your personal computer is backed up, and run it through a [security check](https://sitecheck.sucuri.net/). 
@@ -121,13 +123,17 @@ This is an example you would need to modify for your case: `docker run -v $PWD/c
 
 The first argument now points to crawls/collections/....../crawl-[LOTSOFNUMBERS].yaml
 
+If the crawl fails for any number of reasons, change the status to Failed and add notes about the errors and problems in the Comments field. Another person can try recrawling the site later with more complex parameters, or we may turn it over to manual webrecording tools. 
+
 ### Timeouts
 If webpages fail to load and timeout, you may need to manually set browsertrix to a longer timeout limit by adding to the end of your command `--timeout 300`. Timeouts are tricky, so if you can't get it working, make a comment and move on to another open item. 
 
 ## Final Step: Uploading the WACZ file
 The directory that has your *crawl-config.yaml* file will generate a *crawls* directory the first time you run the command to crawl a site. To find the WACZ file containg the archive of the website, open the  *crawls* folder, then the *collections* folder. Inside *collections*, you should see a folder for each collection you've crawled. Inside the collection folder is a .wacz file.
 
-Upload that .wacz file to our [WACZ uploads form](https://forms.gle/N18MxWgoHtPB2xpz8).
+Verify the website was captured by uploading the .wacz file to the Webrecorder's [ReplayWeb.Page](https://replayweb.page/). Once the archival file is loaded into ReplayWeb.page, it is served locally on your machine, and you can navigate the website. Focus on verifying that the main subcomponents of the site were saved, especially pages listed in the navbar. Many links on the site may be external to the domain you preserved. 
+
+Upload that .wacz file to our [WACZ uploads form](https://forms.gle/N18MxWgoHtPB2xpz8). Make sure to add info the Notes field about any errors you encountered and any concerns you have aboaut the quality of the .wacz file. The Quality Control team can verify your lingering questions. 
 
 Once you've submitted the Google Form, you're crawl is complete! Thank you for your work. 
 
