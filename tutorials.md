@@ -12,6 +12,8 @@ These tutorials will help volunteers get started with different kinds of tasks.
 
 ## Tools
 
+* Check where a site is hosted with [https://hostingchecker.com/](https://hostingchecker.com/)
+
 **Browsertrix**
 What we need most right now is people to help us run Browsertrix for full-site archiving. The [Browsertrix documentation](https://github.com/webrecorder/browsertrix-crawler) is quite good as these kinds of tools go, but we'e also written a [intermediate-tech person's guide to Browsertrix](browsertrix). Ideally you'll have come across the command line and maybe used it once or twice before trying our tutorial, but you don't need to be a coder or particularly "technical".
 

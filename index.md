@@ -5,22 +5,20 @@ permalink: /
 
 # Saving Ukrainian Cultural Heritage Online (SUCHO)
 
-We are a group of cultural heritage professionals – librarians, archivists, researchers, programmers – working together to identify and archive at-risk sites, digital content, and data in Ukrainian cultural heritage institutions while the country is under attack. We are using a combination of technologies to crawl and archive sites and content, including the [Internet Archive’s Wayback Machine](https://archive.org/web/), the [Browsertrix crawler](https://github.com/webrecorder/browsertrix-crawler) and the [ArchiveWeb.page browser extension and app](https://archiveweb.page/) of the [Webrecorder project](https://webrecorder.net/). 
+We are a group of cultural heritage professionals – librarians, archivists, researchers, programmers – working together to identify and archive at-risk sites, digital content, and data in Ukrainian cultural heritage institutions while the country is under attack. We are using a combination of technologies to crawl and archive sites and content, including the [Internet Archive’s Wayback Machine](https://archive.org/web/), the [Browsertrix crawler](https://github.com/webrecorder/browsertrix-crawler) and the [ArchiveWeb.page browser extension and app](https://archiveweb.page/) of the [Webrecorder project](https://webrecorder.net/).
 
 
 ## How you can get involved
 1. [Submit](https://docs.google.com/forms/d/e/1FAIpQLSffa64-l6qXqEumAcf38OEOrTFeYZEmF531PNv9ZgzNFbcgxQ/viewform) important URLs for collections in cultural heritage institutions in Ukraine
-2. [Volunteer](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform) to help identify and archive sites and content, run technology (Browsertrix) or let us know if you are a Ukrainian researcher in need of secure storage for research or data files. 
+2. If you can read Ukrainian or Russian, or if you can run the Browsertrix crawler (check out our [Browsertrix documentation](/browsertrix) to see if it's something you'd be up for trying), fill out the [volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform). We are currently at capacity for people to help with Wayback Machine / Internet Archive tasks or manual Webrecorder tasks, but you can still help by submitting URLs.
 
 You'll need to wait until we add you to the Slack to actually get started, but if you want to read about the process, here's our [workflow](/workflow) and a [orientation for new volunteers](/orientation).
 
-## Team
-- Olha Aleksic, Ukrainian Research Institute, Harvard University
-- Kostyantyn Bondarenko, Ukrainian Research Institute, Harvard University
-- Kristina Conroy, Ukrainian Research Institute, Harvard University
+## Project admins
 - Quinn Dombrowski, Stanford University
-- Andy Janco, Haverford College
 - Anna E. Kijas, Tufts University
-- Ilya Kreymer, Webrecorder Software
-- Sebastian Majstorovic, Austrian Centre for Digital Humanities and Cultural Heritage 
-- Iryna Voloshyna, Department of Folklore and Ethnomusicology, Indiana University
+- Sebastian Majstorovic, Austrian Centre for Digital Humanities and Cultural Heritage
+
+You can reach all the admins at info@sucho.org.
+
+Please see our [contributors](/contributors) page for more info on the team and our financial supporters!

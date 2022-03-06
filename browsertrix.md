@@ -75,7 +75,8 @@ workers: 8
 saveState: always
 seeds:
   - url: http://sgiaz.uamuseum.com/
-    include: .*\.sgiaz\.uamuseum\.com/
+    include: 
+      - ^(http|https):.*sgiaz\.uamuseum\.com
     scopeType: "host"
 ```
 
