@@ -31,7 +31,7 @@ The first step is to [download and install Docker](https://docs.docker.com/get-d
 
 Once Docker is installed, as it loads you should see a sort of whale-with-flickering-boxes in your computer's toolbar menu. This is visible on the top of the screen on Mac, bottom of the screen on Windows. You can minimize or close the Docker Desktop window, but you should still see a whale-with-boxes icon (a ceteceous shipping container). 
 
-If you want to speed up Docker, you can look at advanced options to change how it uses computing resources. On Mac, go to 'Settings,' 'Resources,' and increase CPU usage, Memory, and other features. On Windows, these edits need to be made to the .wslconfig file.
+If you want to speed up Docker, you can look at advanced options to change how it uses computing resources. On Mac, go to 'Settings,' 'Resources,' and increase CPU usage, Memory, and other features. On Windows, these edits need to be made to the .wslconfig file (see their [docs](https://docs.microsoft.com/en-us/windows/wsl/wsl-config)).
 
 ### Launching the command line
 Now that Docker is running, we can set up the web crawler from the command line.
