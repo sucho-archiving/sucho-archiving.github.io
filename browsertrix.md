@@ -31,7 +31,7 @@ The first step is to [download and install Docker](https://docs.docker.com/get-d
 
 Once Docker is installed, as it loads you should see a sort of whale-with-flickering-boxes in your computer's toolbar menu. This is visible on the top of the screen on Mac, bottom of the screen on Windows. You can minimize or close the Docker Desktop window, but you should still see a whale-with-boxes icon (a ceteceous shipping container). 
 
-If you want to speed up Docker, you can look at advanced options to change how it uses computing resources. On Mac, go to 'Settings,' 'Resources,' and increase CPU usage, Memory, and other features. On Windows, these edits need to be made to the .wslconfig file.
+If you want to speed up Docker, you can look at advanced options to change how it uses computing resources. On Mac, go to 'Settings,' 'Resources,' and increase CPU usage, Memory, and other features. On Windows, these edits need to be made to the .wslconfig file (see their [docs](https://docs.microsoft.com/en-us/windows/wsl/wsl-config)).
 
 ### Launching the command line
 Now that Docker is running, we can set up the web crawler from the command line.
@@ -85,6 +85,8 @@ Here's the fields you should modify each time:
 
 Save the YAML file as `crawl-config.yaml` somewhere easy to navigate to on your computer -- on a Mac, the Documents folder is a good one. You will need to be able to change your directory using the command line to where your *crawl-config.yaml* file is saved on your computer to run the Docker command from that directory when you crawl the site. 
 
+For examples of `crawl-config.yaml` files used for the SUCHO project, see our separate Github repository, [browsertrix-yaml-examples](https://github.com/sucho-archiving/browsertrix-yaml-examples).
+
 ## Starting to crawl the site
 Open up the command line again, if you closed it before. 
 
@@ -109,9 +111,14 @@ On Windows, to find the absolute path for your .yaml file, locate the crawl-conf
 ## Waiting
 Depending on the size of the site, the crawl could take anywhere from a couple minutes to 10+ hours. If you run out of space on your computer, contact @Seb on the SUCHO Slack and he'll use one of the big servers on it.
 
-If the crawl gets interrupted, or you need to interrupt the execution in the command line, browsertrix should pick up where it left off once you rerun the crawl command.
+### Interruptions
+If the crawl gets interrupted, or you need to interrupt the execution in the command line, browsertrix should be able pick up where it left off if you run a slightly different crawl command. 
 
-## Uploading the WACZ file
+This is an example you would need to modify for your case: `docker run -v $PWD/crawls/collections/history-org-ua/crawls/crawl-20220305161714-00e289c2da70.yaml:/app/crawl-config.yaml -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ --text --timeout 120`
+
+The first argument now points to crawls/collections/....../crawl-[LOTSOFNUMBERS].yaml
+
+## Final Step: Uploading the WACZ file
 The directory that has your *crawl-config.yaml* file will generate a *crawls* directory the first time you run the command to crawl a site. 
 
 To find the WACZ (archive) file, open that *crawls* folder, then the *collections* folder. Inside *collections*, you should see a folder for each of the sites you've crawled. Inside that folder is a .wacz file.
