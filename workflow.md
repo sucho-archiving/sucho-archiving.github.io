@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: workflow
+title: Workflow
 ---
 
 How we've organized things (last updated end-of-day March 2nd).

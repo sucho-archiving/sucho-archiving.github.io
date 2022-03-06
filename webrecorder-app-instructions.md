@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: archivewebpage-app-instructions
+title: Web Recorder Instructions
 ---
 
 Thank you for volunteering to capture Ukrainian cultural heritage sites using the WebRecorder app! Here’s a guide to using it.

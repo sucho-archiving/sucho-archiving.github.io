@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /tech
+title: Tech
 ---
 
 # Archiving tools

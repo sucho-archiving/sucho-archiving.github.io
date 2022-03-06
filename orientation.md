@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: orientation
+title: Orientation
 ---
 
 # I'm new here, how do I help?

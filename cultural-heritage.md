@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: cultural-heritage
+title: Cultural Heritage
 ---
 
 # Guides to Cultural Heritage
