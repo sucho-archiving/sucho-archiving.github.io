@@ -68,12 +68,12 @@ You can download an [example `crawl-config.yaml` file here](crawl-config.yaml), 
 The `crawl-config.yaml` file should look as follows (with `collection`, `url`, and `include` changed to match each website): 
 
 ```
-collection: "archangel-kiev-ua"
+collection: "sgiaz-uamuseum-com"
 workers: 16
 saveState: always
 seeds:
-  - url: http://archangel.kiev.ua/
-    include: .*\.archangel\.kiev\.ua/
+  - url: http://sgiaz.uamuseum.com/
+    include: .*\.sgiaz\.uamuseum\.com/
     scopeType: "host"
 ```
 
