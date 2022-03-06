@@ -1,7 +1,7 @@
-collection: "sgiaz-uamuseum-com"
+collection: "korsun-ic-ck-ua"
 workers: 16
 saveState: always
 seeds:
-  - url: http://sgiaz.uamuseum.com/
-    include: .*\.sgiaz\.uamuseum\.com/
+  - url: http://www.korsun.ic.ck.ua/
+    include: .*\.korsun\.ic\.ck\.ua/
     scopeType: "host"
