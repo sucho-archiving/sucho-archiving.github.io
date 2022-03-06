@@ -16,7 +16,7 @@ The WACZ form only accepts files up to 10 GB, so if you have a larger archive, g
 ## PDFs, images, other files
 SUCHO now has a collection on the Internet Archive! If you put *sucho-id-* at the beginning of the Page URL field, it will automatically be added to the collection. (This only applies to files you're uploading -- PDFs, images, DJVU, etc. Wayback Machine links don't go in a collection.)
 
-If you have scraped other kinds of files (e.g. images, PDFs from journals, or other materials), zip them up into sensible batches (e.g. all PDFs from a given journal or journal issue, all page images from a particular book) and upload them to the Internet Archive. There's a [guide to uploading things to the Internet Archive here](https://help.archive.org/2022/03/02/uploading-a-basic-guide/). 
+If you have scraped other kinds of files (e.g. images, PDFs from journals, or other materials), zip them up into sensible batches (e.g. all PDFs from a given journal or journal issue, all page images from a particular book) and upload them to the Internet Archive. There's a [guide to uploading things to the Internet Archive here](https://help.archive.org/category/archive-org/downloading/). 
 * Fill in as much metadata as you can, including the source URL you got the data from. Put the URL of the file(s) once they're uploaded to the Internet Archive in the SUCHO working spreadsheet. Everything will be aggregated in the [Internet Archive Collection for SUCHO](https://archive.org/details/sucho?tab=collection).
 * [Guide](https://docs.google.com/document/d/1qpax1HQmWOVXqbA9NTCU4WBZNWKfLPhUTqxs7s94Jas/edit?usp=sharing) to filling in metadata fields
 
