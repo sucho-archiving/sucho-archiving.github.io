@@ -10,7 +10,7 @@ title: Contributors
 
 SUCHO is grateful to the [Association for Computers and the Humanities (ACH)](https://ach.org/) and the [European Association for Digital Humanities](https://eadh.org/) for emergency project grants.
 
-We are also grateful to David Nuñez from MIT for connecting us with AWS, which has architected and runs our v2 infrastructure.
+We are also grateful to Brendan Ciecko from Cuseum and David Nuñez from MIT for connecting us with Amazon Web Services who are hosting our server infrastructure.
 
 ### The team
 Thank you to everyone who's volunteered their time for the project -- we've had a thousand people join our Slack workspace! The following is a very incomplete, alphabetical list of the team:
