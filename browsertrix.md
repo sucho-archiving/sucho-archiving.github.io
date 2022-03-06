@@ -118,6 +118,9 @@ This is an example you would need to modify for your case: `docker run -v $PWD/c
 
 The first argument now points to crawls/collections/....../crawl-[LOTSOFNUMBERS].yaml
 
+### Timeouts
+If webpages fail to load and timeout, you may need to manually set browsertrix to a longer timeout limit by adding to the end of your command `--timeout 300`. Timeouts are tricky, so if you can't get it working, make a comment and move on to another open item. 
+
 ## Final Step: Uploading the WACZ file
 The directory that has your *crawl-config.yaml* file will generate a *crawls* directory the first time you run the command to crawl a site. 
 
