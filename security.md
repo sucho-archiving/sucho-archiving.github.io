@@ -18,7 +18,7 @@ If the security risk for the link you've pasted appears to be severe, please upd
 
 ## Oops. I accidentally clicked on a link, and I'm afraid I got malware
 
-This has not happened yet, but if you are afraid this may have happened to you, the best thing to do at this point is to get anti-virus software. You can try [MalwareBytes](https://try.malwarebytes.com/back-to-business/?_bt=504293440489&_bk=malwarebytes&_bm=e&_bn=g&_bg=104763798379&utm_source=google&utm_medium=cpc&utm_campaign=US-EN-GGL|Srch-B2B-BR-US/CA-Shared-Malwarebytes&utm_campaignid=10575830793&utm_term=malwarebytes&gclid=CjwKCAiA1JGRBhBSEiwAxXblwUMeT6DkFhAdgRiTbwJOpo5JVNxX2gGCrDhJkovzKgMesZEdjhdQQRoCp0kQAvD_BwE) for example.
+This has not happened yet, but if you are afraid this may have happened to you, the best thing to do at this point is to get anti-virus software. You can try [MalwareBytes](https://try.malwarebytes.com/get-premium/?gclid=CjwKCAiA1JGRBhBSEiwAxXblwZL5SEwQGn8sUnc6EiPoeCzUuoVUgN9YDL1-yedvxn3C5-sJRR4o4xoCmDEQAvD_BwE) for example.
 
 ## More Advanced Browser Security
 
