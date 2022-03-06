@@ -1,8 +1,12 @@
 ---
 layout: default
 permalink: hacks
-title: Useful Hacks
+title: Useful Code and Hacks
 ---
+
+## Automate download of PDF/PNG files
+[Mathematica notebook](https://drive.google.com/file/d/1A88nL5WfdzvgUfV8yO8vJo-Go1YBBwpY/view?usp=sharing) for use in automating download of PDF/PNG files. 
+
 ## Concatenating URLs in Excel or Sheets
 If you are going to be grabbing more than just a few URLs to upload to the Internet Archive using the [Google Sheets tool](https://www.sucho.org/ia-gsheets) then these hacks might be useful to you!
 
