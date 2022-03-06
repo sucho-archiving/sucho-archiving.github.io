@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: ia-gsheets
+title: Internet Archive Google Sheets
 ---
 
 The Internet Archive has a [Google Sheets service](https://archive.org/services/wayback-gsheets/) where you can submit a Google Sheet with the first column full of URLs (just the URLs), and it'll work through archiving them all.

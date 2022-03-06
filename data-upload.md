@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: data-upload
-title: Where do I upload the data
+title: "Where do I upload the data?"
 ---
 
 Here's what we're doing with the data we gather as part of SUCHO.

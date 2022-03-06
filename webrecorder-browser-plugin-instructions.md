@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: webrecorder-plugin-instructions
+title: Web Recorder Plugin Instructions
 ---
 
 Thank you for volunteering to capture Ukrainian cultural heritage sites using the WebRecorder browser plugin! Here’s a guide to using it.

@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: other-efforts
+title: Other Efforts
 ---
 
 # Other Archiving Efforts

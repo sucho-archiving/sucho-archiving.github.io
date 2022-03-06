@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Archives
 permalink: archives
 javascript:
   - csvkit.js
