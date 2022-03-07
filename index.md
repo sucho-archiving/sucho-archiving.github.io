@@ -18,10 +18,10 @@ We are a group of cultural heritage professionals – librarians, archivists, re
 You'll need to wait until we add you to the Slack to actually get started, but if you want to read about the process, here's our [workflow](/workflow) and a [orientation for new volunteers](/orientation).
 
 ## Project admins
-- Quinn Dombrowski, Stanford University
-- Anna E. Kijas, Tufts University
-- Sebastian Majstorovic, Austrian Centre for Digital Humanities and Cultural Heritage
+- [Quinn Dombrowski](https://twitter.com/quinnanya), Stanford University
+- [Anna E. Kijas](https://twitter.com/anna_kijas), Tufts University
+- [Sebastian Majstorovic](https://twitter.com/storytracer), Austrian Centre for Digital Humanities and Cultural Heritage
 
-You can reach all the admins at info@sucho.org.
+You can reach all the admins at [info@sucho.org](mailto:info@sucho.org). If you are a Ukrainian scholar who needs free storage for your research materials, please email storage@sucho.org to be connected with our partners at the Harvard Ukrainian Research Institute and the University of Alberta.
 
 Please see our [contributors](/contributors) page for more info on the team and our financial supporters!
