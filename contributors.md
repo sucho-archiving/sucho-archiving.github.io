@@ -45,6 +45,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Andy Janco, Haverford College
 - Sara Janes, Lakehead University 
 - Eric Kansa, OpenContext.org
+- Allison King, Mat-Su College, UAA
 - Kate Kisselstein, Baldwinsville Public Library
 - Franziska Klemstein, Bauhaus-Universität Weimar
 - Georgii Korotkov, Stanford University
@@ -59,6 +60,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Valerie A. Metzler
 - Alice Mumford, University of Cambridge student
 - Dina Murokh, PhD Candidate, Art History, USC
+- Maryam Mustafa
 - Amy Nelson, Virginia Tech
 - Kathryn Newbould
 - Sheilah O'Connor, Librarian
