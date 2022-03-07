@@ -23,7 +23,8 @@ What we need most right now is people to help us run Browsertrix for full-site a
 **Internet Archive tasks**
 
 * Using the [Internet Archive Google Sheets link submission tool](/ia-gsheets)
-* Programatically [bulk uploading to the Internet Archive](/ia-bulk-upload)
+* Programmatically [bulk uploading to the Internet Archive](/ia-bulk-upload)
+* [Working with Internet Archive metadata](https://www.youtube.com/watch?v=A-REbP8lhh0) (YouTube video)
 
 **Manual WebRecorder tasks**
 The easiest and fastest option is the brand-new [ArchiveWeb.page Express](https://fast.archiveweb.page/#https://example.com/), which is literally just a website you go to, put in a URL, and start creating a web archive as you scroll through pages and navigate the site. You can even hit a "Crawl links" button and it will automatically visit each link on the page and scroll to the bottom to capture everything, which is especially great if you don't read Ukrainian or Russian! Try this first; just click the "Download Archive" button when you're done, and [upload the resulting file as described here](/data-upload).
@@ -37,10 +38,6 @@ The easiest and fastest option is the brand-new [ArchiveWeb.page Express](https:
 
 ## Quality control
 * [Quality control for captured archives (for Ukrainian & Russian speakers)](/qc)
-
-## Instructions for specific projects
-* [Journals on the National Library of Ukraine](/nbuv-journals)
-* [Europeana link finding](/europeana)
 
 ## Hacks
 * [Useful Hacks](https://www.sucho.org/hacks)
