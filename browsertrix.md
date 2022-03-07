@@ -140,3 +140,6 @@ Upload that .wacz file to our [WACZ uploads form](https://forms.gle/N18MxWgoHtPB
 Once you've submitted the Google Form, your crawl is complete! Thank you for your work. 
 
 Please mark in the spreadsheet the row's status as "Submitted," and continue on to the next item.
+
+### Troubleshooting uploads
+If your Google Drive account doesn't have enough free space for the uploaded file, you will get a "Server Rejected" error message. DM @Seb in slack for sftp credentials. Transfer the file directly with sftp and update the Google Sheets worksheet with the metadata you would have entered in the Google form.
