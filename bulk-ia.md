@@ -10,8 +10,8 @@ While we are encouraging everyone to submit [file links to the Wayback Machine](
 
 So here are instructions for doing bulk upload to IA. There's two main ways to do it:
 
+1. Using the `internetarchive` command line interface tool to upload files to IA.
 1. Using the `internetarchive` Python library to upload files to IA.
-2. Using the `internetarchive` command line interface tool to upload files to IA.
 
 For those unsure how to use either, feel free to ask for help in either the `#internetarchive` or `#scraping` channels.
 
@@ -55,7 +55,7 @@ Now we are ready to start uploading but first you need to get your metadata and 
 
 In the Google Doc metadata template (if you don't have it, please ask for help on Slack), you'll see the following fields as being required for the SUCHO collection:
 
-![ia_metadata_template](./assets/images/ia_metadata_template.png)
+![ia_metadata_template](./assets/images/ia-metadata-template.png)
 
 We need to enter the same data for the bulk upload, but some of the IA API do not have the same field names, so we need to map them accordingly.
 
@@ -94,11 +94,17 @@ Because the site I scrapped had both Ukrainian and English versions, I combined 
 
 You'll also notice that my subject field requires using this `subject[0]` syntax. We have no specified subject tags at the moment, but I would highly recommend at the very least including the `SUCHO` tag. For each tag you add, you'll need to add a new `subject[X]` field. Also if you don't know the language, feel free to leave it blank but it is useful for OCR purposes to specify the language.
 
-While I'm showing the metadata as a Python dictionary, you'll actually want to store in a CSV file (or a dataframe if working with Pandas). I've uploaded an example of this data as a CSV file [here](./assets/files/sample_collection.csv) for reference.
+While I'm showing the metadata as a Python dictionary, you'll actually want to store in a CSV file (or a dataframe if working with Pandas). I've uploaded an example of this data as a CSV file [here](./assets/files/sample_collection.csv) for reference. You can absolutely do this in Excel or Google sheets (I'm just showing the Python version here because it's a bit more readable). But here's what it would look like as a spreadsheet (and what you'll see if you download that spreadsheet and open it in Excel).
+
+![sample csv](./assets/images/sample-collections.png)
+
+You might notice that it's struggling with rendering the cyrillic characters. If you're using Excel, you can open the file in the `UTF-8` encoding and it should render correctly (though no promises).
 
 ### Uploading
 
-When uploading, the most important thing is to make sure that your filepaths are correct and that your identifier starts with `sucho-id-`. In this example, I used the `local_filepath` field to indicate where these files were stored on my computer, and then the `remote_filepath` to specify how the filepath should look on the IA interface. You do not need to use that same logic, you could just have the files as a list of filenames, but do make sure that the your filenames correspond to how you want them to appear on the remote site.
+When uploading, the most important thing is to make sure that your filepaths are correct and that your identifier starts with `sucho-id-`. In this example, I used the `local_filepath` field to indicate where these files were stored on my computer, and then the `remote_filepath` to specify how the filepath should look on the IA interface. You do not need to use that same logic, you could just have the files as a list of filenames in Python or under the field `file` for the CLI tool, but do make sure that the your filenames correspond to how you want them to appear on the remote site.
+
+#### Uploading with Python (Skip to CLI if you are not working with Python)
 
 Say we were working with our `sample_collection.csv` as a dataframe then with the `internetarchive` Python library, you can upload files with the following command:
 
@@ -127,19 +133,31 @@ for index, row in df.iterrows():
 
 This should print out `200` for each file you upload. If you get a `40*` error, it likely means you've exceeded your upload limit. You can check your upload limit by logging into the IA interface and looking at your account page. You can also see if your file successfully uploaded on your user page (it usually takes a minute or two to upload).
 
-You'll notice in this example I'm using a `for loop` rather than just a single upload. That's because bulk uploading is technically only available with the CLI tool, but you might want to loop through a dataframe the first few times you upload a file to make sure your metadata is correctly configured (though you may want to use the `time` library to delay your requests if you're a for loop using it for many files). Also if you do make a mistake in the metadata, as long as your identifier is correct you can just edit it in your user page and it will update the metadata for you. If the identifier is wrong, you'll need to contact the admins on Slack who will let you know if you should delete the file or if they can alter it for you.
+You'll notice in this example I'm using a `for loop` rather than just a single upload. That's because bulk uploading is technically only available with the CLI tool, but you might want to loop through a dataframe the first few times you upload a file to make sure your metadata is correctly configured (though you may want to use the `time` library to delay your requests if you're a for loop using it for many files). 
 
-To do the bulk upload with the CLI tool, we can reuse our `sample_collection.csv` file and just change the `local_filepath` to `file` and `remote_filepath` to `REMOTE_NAME`. More details are available on the API site <https://archive.org/services/docs/api/internetarchive/cli.html#upload>, including a sample csv file for the bulk upload. 
+#### Uploading with the CLI
 
-Now in our shell we just write:
+To do the bulk upload with the CLI tool, we can reuse our `sample_collection.csv` file and just change the `local_filepath` to `file` and `remote_filepath` to `REMOTE_NAME`. Alternatively if you're local filepath is already good, then just use `file` for the remote filepath.
+
+More details are available on the API site <https://archive.org/services/docs/api/internetarchive/cli.html#upload>, including a sample csv file for the bulk upload. 
+
+Here's what you'll see if you download that sample csv file and open it in Excel:
+
+![sample csv](./assets/images/ia-collections-csv.png)
+
+You'll notice that you don't need to enter data into every cell. Instead, IA will assume that files with the same identifier will have the same metadata (so if I was uploading multiple PDFs for this collection, I could just have the first row have metadata and the following ones just have the file name). But this does mean that for each unique identifier you do need to enter the relevant metadata.
+
+Once we have that ready, in our shell we just write:
 ```sh
 ia upload --spreadsheet=sample_collection.csv
 ```
 And our bulk upload should work!
 
-You can name your csv whatever you want, but make sure to point the CLI tool to the right filepath.
+You can name your csv whatever you want, but make sure to point the CLI tool to the right filepath (i.e. it needs to know where your file is located).
 
 There's a number of bulk upload specific commands (like `--retries` for trying to reupload the file if S3 is overloaded) that you can use to tweak the upload process, so definitely check out the API docs. But also feel free to ask questions in Slack.
+
+Also if you do make a mistake in the metadata, as long as your identifier is correct you can just edit it in your user page on IA, and it will update the metadata for you. If the identifier is wrong, you'll need to contact the admins on Slack who will let you know if you should delete the file or if they can alter it for you.
 
 
 
