@@ -6,7 +6,10 @@ permalink: /security
 
 ## Unsure about safety?
 
-If you've never had to worry about infosec (information security) before, this page is for you. First things first: most things we are doing are relatively low-risk and you shouldn't be too worried about infosec, especially if you are careful. SUCHO offers many ways to help preserve Ukrainian cultural heritage online. Some of the tasks volunteers can do pose very little risk. If you are curating content in the Internet Archive, for example, you have nothing to worry about. The most commmon activities that require careful actions are the ones that involve links. See below for steps we can take to mitigate the risk.
+If you've never had to worry about infosec (information security) before, this page is for you. First things first: most things we are doing are relatively low-risk and you shouldn't be too worried about infosec, especially if you are careful. SUCHO offers many ways to help preserve Ukrainian cultural heritage online. Some of the tasks volunteers can do pose very little risk. If you are curating content in the Internet Archive, for example, you have nothing to worry about. The most common activities that require careful actions are the ones that involve links. See below for steps we can take to mitigate the risk.
+
+## Installing apps & plugins
+Please **only** install apps and plugins for this project linked directly from sucho.org. Googling for some of the tools we reference can lead to things you don't want on your computer. If you have any questions about the URL to use to install apps and plugins, please ask in the Slack!
 
 ## Checking links
 
