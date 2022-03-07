@@ -34,6 +34,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Catherine Emerson, National University of Ireland Galway
 - Claudia Engel
 - Julia Fallon, Europeana Foundation
+- Matthew Fisher
 - Kristina Gerhardt, MLIS Student, San Jose State University 
 - Alex Gil
 - Felipe Gómez, Carnegie Mellon University
