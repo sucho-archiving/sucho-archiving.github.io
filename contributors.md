@@ -37,6 +37,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Felipe Gómez, Carnegie Mellon University
 - Daniel Gorman Jr., PhD Candidate, University of Rochester
 - Sasha Goryl, Indiana University
+- Allison Graham, MI student, University of Toronto
 - Paulina Guerrero, Indiana University
 - Maggie Heeschen
 - Gernot Howanitz, U of Innsbruck
@@ -83,4 +84,5 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Shane Watson, AppState Music Library Manager, University of North Carolina MLIS Student
 - Alex Wermer-Colan, Temple University
 - Marian Whalen, The University of Edinburgh 
+- Alex Wingate, Indiana University Bloomington
 - Talia Zajac, University of Manchester
