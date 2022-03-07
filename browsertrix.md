@@ -54,7 +54,7 @@ This command downloads and sets up Browsertrix using Docker.
 Now that you've installed Docker and configured the Docker image, you shouldn't need to redo these first setup steps again. 
 
 ## Picking a website from the spreadsheet
-Before you click on a link in the spreadsheet and open it in your browser, please read out [security guidelines](https://www.sucho.org/security).
+Before you click on a link in the spreadsheet and open it in your browser, please read our [security guidelines](https://www.sucho.org/security).
 
 Go to the Browsertrix tab of the SUCHO working spreadsheet and pick a site to work on that no one has claimed yet. To claim the site, on that row of the spreadsheet, add your name to the 'Claimed By' column, and update the 'Status' column to 'in progress.' 
 
@@ -137,6 +137,6 @@ Verify the website was captured by uploading the .wacz file to the Webrecorder's
 
 Upload that .wacz file to our [WACZ uploads form](https://forms.gle/N18MxWgoHtPB2xpz8). Make sure to add info the Notes field about any errors you encountered and any concerns you have aboaut the quality of the .wacz file. The Quality Control team can verify your lingering questions. 
 
-Once you've submitted the Google Form, you're crawl is complete! Thank you for your work. 
+Once you've submitted the Google Form, your crawl is complete! Thank you for your work. 
 
 Please mark in the spreadsheet the row's status as "Submitted," and continue on to the next item.
