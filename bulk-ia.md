@@ -1,8 +1,10 @@
 ---
 layout: default
-permalink: bulk-ia
+permalink: ia-bulk-upload
 title: Bulk upload to Internet Archive
 ---
+
+## Bulk Uploading to Internet Archive
 
 While we are encouraging everyone to submit [file links to the Wayback Machine](ia-gsheets) or use [Browsertrix](browsertrix) to capture files, we realize that sometimes it's not possible to do so, whether because there are too many links to manually record or because there are too many errors with the URL syntax.
 
