@@ -19,6 +19,10 @@ Some servers in Eastern Europe are now under coordinated and uncoordinated attac
 
 If the security risk for the link you've pasted appears to be severe, please update the status in the spreadsheet to "Malware."  As far as we can tell, a `Medium` risk shouldn’t pose a threat to you if the security check returns that no `malware` or `injected spam` is detected in the site. If you're unsure, make a note in the "Comments" field in our spreadsheet and move on to the next item. We can assign other people to run the crawler on dodgier links using stand-alone servers.
 
+## Cleaning links
+
+When sharing links with others make sure to remove identifying and tracking information as well as all other functionally useless addage from the URL. There are a number of services for doing so. [ClearURLs](https://github.com/ClearURLs/Addon/) for Chrome and Firefox is one of the more popular ones.
+
 ## Oops. I accidentally clicked on a link, and I'm afraid I got malware
 
 This has not happened yet, but if you are afraid this may have happened to you, the best thing to do at this point is to get anti-virus software. You can try [MalwareBytes](https://try.malwarebytes.com/get-premium/?gclid=CjwKCAiA1JGRBhBSEiwAxXblwZL5SEwQGn8sUnc6EiPoeCzUuoVUgN9YDL1-yedvxn3C5-sJRR4o4xoCmDEQAvD_BwE) for example.
