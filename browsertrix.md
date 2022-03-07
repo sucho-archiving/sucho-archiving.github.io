@@ -54,11 +54,11 @@ This command downloads and sets up Browsertrix using Docker.
 Now that you've installed Docker and configured the Docker image, you shouldn't need to redo these first setup steps again. 
 
 ## Picking a website from the spreadsheet
-Before you click on a link in the spreadsheet and open it in your browser, please read out [security guidelines](https://www.sucho.org/security).
+Before you click on a link in the spreadsheet and open it in your browser, please read our [security guidelines](https://www.sucho.org/security).
 
 Go to the Browsertrix tab of the SUCHO working spreadsheet and pick a site to work on that no one has claimed yet. To claim the site, on that row of the spreadsheet, add your name to the 'Claimed By' column, and update the 'Status' column to 'in progress.' 
 
-Prioritize sites with links ending in `.ua`. Check where they are hosted and focus on sites in Ukraine and environs using [Hosting Checker](icehttps://hostingchecker.com).
+Prioritize sites with links ending in `.ua`. Check where they are hosted and focus on sites in Ukraine and environs using [Hosting Checker](https://hostingchecker.com).
 
 Load the 'Collection Url' in your browser to see if it's working; many sites are already going down, so double check before proceeding. 
 
