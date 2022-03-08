@@ -19,6 +19,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Nicky Agate, University of Pennsylvania Libraries
 - Olha Aleksic, Ukrainian Research Institute, Harvard University
 - John Ayliff
+- Elton Barker, The Open University, UK
 - Aaron Bittel, Wesleyan University Library
 - Marcus Bitzl
 - Jeff Blackadar
@@ -30,6 +31,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Brendan Ciecko, Cuseum
 - Kristina Conroy, Ukrainian Research Institute, Harvard University
 - Jackie Davis, MLIS (ret.)
+- Colleen Sheehan Deatherage, St. Stephen's College
 - Kaylen Dwyer, Institute for Digital Research in the Humanities, University of Kansas
 - Catherine Emerson, National University of Ireland Galway
 - Claudia Engel
@@ -48,6 +50,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Tom Hull
 - Andy Janco, Haverford College
 - Sara Janes, Lakehead University 
+- Martin Jefferies, Smartify
 - Eric Kansa, OpenContext.org
 - Allison King, Mat-Su College, UAA
 - Kate Kisselstein, Baldwinsville Public Library
@@ -64,7 +67,9 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Dawson MacPhee, University of Guelph
 - Dennette McDermott, DMA Professor of Music Northwestern State Univ of Louisiana
 - Valerie A. Metzler
+- Luke Morris
 - Alice Mumford, University of Cambridge student
+- Stefan Münnich, University of Basel
 - Dina Murokh, PhD Candidate, Art History, USC
 - Maryam Mustafa
 - Amy Nelson, Virginia Tech
@@ -72,6 +77,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Sheilah O'Connor, Librarian
 - Gregory Palermo, Brandeis University
 - Katelin Marit Parsons, Árni Magnússon Institute for Icelandic Studies (Reykjavík)
+- Joakim Philipson, Stockholm University
 - Liz Pringi
 - Anna Rakityanskaya, Harvard University
 - Justin Richards -  SEARCH, Inc.
@@ -87,9 +93,11 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Sarah Stang, Librarian
 - Caitlin Staples, Westborough Public Library
 - Jennifer A. Stern
+- Jadranka Stojanovski, University of Zadar/Ruđer Bošković Institute, Croatia
 - Dena Strong
 - Kathleen Tabak, University of Oklahoma
 - Aubree Tillett, Minnesota Historical Society
+- Emmy Tither
 - William Vaughan, Special Collections, University College London
 - Iryna Voloshyna, Department of Folklore and Ethnomusicology, Indiana University
 - Cosima Wagner, Freie Universität Berlin, University Library
