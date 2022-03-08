@@ -138,5 +138,38 @@ Once you've submitted the Google Form, your crawl is complete! Thank you for you
 
 Please mark in the spreadsheet the row's status as "Submitted," and continue on to the next item.
 
-### Troubleshooting uploads
-If your Google Drive account doesn't have enough free space for the uploaded file, you will get a "Server Rejected" error message. DM @Seb in slack for sftp credentials. Transfer the file directly with sftp and update the Google Sheets worksheet with the metadata you would have entered in the Google form.
+# Common Problems
+
+## Troubleshooting uploads
+### For uploads of less than 10 GB
+If your Google Drive account doesn't have enough free space for the uploaded file, you will get a "Server Rejected" error message.  First, see if you can delete any previously submitted wacz files from your drive.  If you can, this may free up enough space.  If the upload still fails, try to upload it to your Drive first, and then use the "add from google drive" option in the form.  If that still doesn't work, see the section for "For uploads greater than 10GB".
+### For uploads greater than 10GB
+DM (direct/private message) @Seb in slack for sftp credentials. Transfer the file directly with sftp and update the Google Sheets worksheet with the metadata you would have entered in the Google form.
+The stfp command will look like this
+
+  `rsync -aRv --rsh='ssh -p<port>' crawls/collections/<coll>/<coll.wacz> <username>@<server_address>:.`
+  
+Replace the <port>, <username> and <server_address> with the credentails Seb will provide, and <site-collection>, <site-collection.wacz> sections with the file address of the file you'd like to upload. 
+Enter your provided password when prompted.
+
+## Recreating the WACZ file
+
+Sometimes creation of the WACZ file may fail with an error message or the crawl may be interrupted unexpectedly and the files not generated.
+If this is the case, they can be created manually as long as the `pages/pages.jsonl` is present.
+To do this, first make sure you have pip3 and wacz installed by running
+```
+sudo apt install python3-pip && pip install wacz
+```
+  
+Then you can generate the WACZ by running
+
+  `wacz create --split-seeds -f ./crawls/collections/<coll>/archive/*.warc.gz -p ./crawls/collections/<coll>/pages/pages.jsonl`
+
+If this fails (it may do so for larger archives), contact @Seb for sftp credentials and upload the entire collections/<coll> folder to a suitably named desination folder with the following command
+
+  `rsync -aRv --rsh='ssh -p<port>' crawls/collections/<coll> <username>@<server_address>:./<coll>`
+  
+Replace the <port>, <username> and <server_address> with the credentails Seb will provide, and <coll>, <coll.wacz> sections with the file address of the file you'd like to upload.
+Enter your provided password when prompted.
+
+
