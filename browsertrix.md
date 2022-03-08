@@ -86,7 +86,6 @@ Here's the fields you should modify each time:
 
 * `collection:` this should be basically the URL that you scrape, but with hyphens instead of periods in the URL. So *http://archangel.kiev.ua* becomes `collection: archangel-kiev-ua`
 * `url:` this is just the base URL in the SUCHO spreadsheet for the URL you're scraping
-* `include:` this is a little tricky, but all you need to do is reconfigure the collection URL with some new syntax to ensure the webcrawler captures subdomains. It starts with `.*\.` and then the first part of your URL. Instead of a dot between the parts of your URL path, it should be `\.` So *http://archangel.kiev.ua* becomes `include: .*\.archangel\.kiev\.ua/`
 
 Save the YAML file as `crawl-config.yaml` somewhere easy to navigate to on your computer -- on a Mac, the Documents folder is a good one. You will need to be able to change your directory using the command line to where your *crawl-config.yaml* file is saved on your computer to run the Docker command from that directory when you crawl the site. 
 
