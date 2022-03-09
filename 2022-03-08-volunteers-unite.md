@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: 2022-03-08-volunteers-unite
+permalink: press-release-volunteers-unite
 title: Volunteers Unite to Archive Ukrainian Cultural Heritage
 ---
 
@@ -8,7 +8,7 @@ title: Volunteers Unite to Archive Ukrainian Cultural Heritage
 
 March 8, 2022
 
-URL: https://www.sucho.org/2022-03-08-volunteers-unite
+URL: https://www.sucho.org/press-release-volunteers-unite
 
 
 One week after launching the initiative Saving Ukrainian Cultural Heritage Online (SUCHO), co-organizers Quinn Dombrowski (Stanford University), Anna Kijas (Tufts University), and Sebastian Majstorovic (Austrian Center for Digital Humanities and Cultural Heritage) report that the project’s 1,000 [volunteers from across the world](/contributors) have captured over 1,500 Ukrainian museum and library websites, digital exhibits, text corpora, and open access publications.
