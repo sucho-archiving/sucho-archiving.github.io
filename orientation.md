@@ -26,6 +26,7 @@ We've organized our Slack channels around the technologies people are using to c
 * *#translation* is full of people who can read Russian and/or Ukrainian. If you're confused about how to navigate a site you're working on, or what something means, head over there and ask.
 * *#linkcollection* is for people working on finding new links to add to our workflow by submitting them via the [URL form](https://docs.google.com/forms/d/e/1FAIpQLSffa64-l6qXqEumAcf38OEOrTFeYZEmF531PNv9ZgzNFbcgxQ/viewform)
 * *#qualitycontrol* is for people who can more or less read Ukrainian and/or Russian, to check on the web archives we've created and make sure they're actually complete.
+* *#metadata* is for people who are curating metadata for items uploaded into the Internet Archive. 
  
 ## Choosing tasks
 
