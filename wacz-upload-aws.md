@@ -27,35 +27,33 @@ aws: error: the following arguments are required: command
 # Configuration
 
 Next, you need to configure the AWS commandline tool.
-Go to the **#browsertrix** channel in Slack to get the shared access credentials from the pinned post.
-The access credentials consist of two parts, which work like username and password:
-1. The AWS Access Key ID
-2. The AWS Secret Access Key
+Go to the **#browsertrix** channel in Slack and take a look at the Updated AWS Upload Details bookmark.  Follow the instructions there to request an account and get your personal AWS Access and Secret Keys set up. 
 
-These access credentials have upload-only permissions. This means you can you only read the upload-directory and upload WACZ files.
-You will not be able to remove, rename or delete any files or navigate to a different directory.
+These credentials will only have access to a personal folder in S3, where you will be able to upload WACZ files from either the command line or AWS Console.
 
 ## **DO NOT POST THE ACCESS CREDENTIALS TO THE WEB!**
 
-First, enter the following commands one after the other:
+To configure your AWS CLI you can use the follow commands once you've generated your Access Key:
 
 ```
-aws configure set aws_access_key_id ACCESSKEYIDFROMTHEBROWSERTRIXCHANNEL
-aws configure set aws_secret_access_key secretaccesskeyfromthebrowsertrixchannel
+aws configure set aws_access_key_id ACCESSKEYIDTHATYOUCREATEDINAWS
+aws configure set aws_secret_access_key secretaccesskeythatihopeyousavedwhenyoumadeyouraccesskey
 aws configure set default.region eu-central-1
 ```
+If you lose access to your Secret Key there's no harm in creating a new Access/Secret Key and disabling and deleting the old one, just make sure you're not actively uploading anything at the time.
 
 # Uploading
 
 Once the AWS command is configured, navigate to the directory where your WACZ file is stored.
 Test you can connect to the AWS by doing a directory listing:
 ```
-aws s3 ls s3://sucho-wacz-upload/
+aws s3 ls s3://sftp.sucho.org/<username>/
 ```
+Make sure to replace <username> with the username you were given when your account was created.
 
 Then, run the command:
 ```
-aws s3 cp yourfilename.wacz s3://sucho-wacz-upload/
+aws s3 cp yourfilename.wacz s3://sftp.sucho.org/<username>/
 ```
 
 The upload should start now and you should be able to see the progress.
