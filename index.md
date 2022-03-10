@@ -24,6 +24,6 @@ You'll need to wait until we add you to the Slack to actually get started, but i
 - [Anna E. Kijas](https://twitter.com/anna_kijas), Tufts University
 - [Sebastian Majstorovic](https://twitter.com/storytracer), Austrian Centre for Digital Humanities and Cultural Heritage
 
-You can reach all the admins at [info@sucho.org](mailto:info@sucho.org). If you are a Ukrainian scholar who needs free storage for your research materials, please email storage@sucho.org to be connected with our partners at the Harvard Ukrainian Research Institute and the University of Alberta.
+You can reach all the admins at [info@sucho.org](mailto:info@sucho.org). If you are a Ukrainian scholar who needs free storage for your research materials, please email [storage@sucho.org](mailto:storage@sucho.org) to be connected with our partners at the Harvard Ukrainian Research Institute and the University of Alberta.
 
 Please see our [contributors](/contributors) page for more info on the team and our financial supporters!
