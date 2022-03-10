@@ -20,8 +20,8 @@ First, enter the following command and fill in the data as follows:
 
 $ `aws configure`
 
-- AWS Access Key ID [None]: 
-- AWS Secret Access Key [None]: 
+- AWS Access Key ID [None]: *Use the AWS Access Key from the uploading channel here*
+- AWS Secret Access Key [None]: *Use the secret key from the uploading channel here*
 - Default region name [None]:  eu-central-1
 - Default output format [None]: json
 
