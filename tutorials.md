@@ -35,6 +35,7 @@ The easiest and fastest option is the brand-new [ArchiveWeb.page Express](https:
 
 ## Data
 * [Where do I put the data?](/data-upload)
+* If you have WACZ files that are too large to upload via the Google form, follow [these instructions](/wacz-upload-aws)
 
 ## Quality control
 * [Quality control for captured archives (for Ukrainian & Russian speakers)](/qc)
