@@ -40,8 +40,8 @@ You will not be able to remove, rename or delete any files or navigate to a diff
 First, enter the following commands one after the other:
 
 ```
-aws configure set aws_access_key_id **ACCESSKEYIDFROMTHEBROWSERTRIXCHANNEL**
-aws configure set aws_secret_access_key **secretaccesskeyfromthebrowsertrixchannel**
+aws configure set aws_access_key_id ACCESSKEYIDFROMTHEBROWSERTRIXCHANNEL
+aws configure set aws_secret_access_key secretaccesskeyfromthebrowsertrixchannel
 aws configure set default.region eu-central-1
 ```
 
@@ -55,7 +55,7 @@ aws s3 ls s3://sucho-wacz-upload/
 
 Then, run the command:
 ```
-aws s3 cp **yourfilename**.wacz s3://sucho-wacz-upload/
+aws s3 cp yourfilename.wacz s3://sucho-wacz-upload/
 ```
 
 The upload should start now and you should be able to see the progress.
