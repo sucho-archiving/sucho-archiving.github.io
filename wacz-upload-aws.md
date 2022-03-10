@@ -6,7 +6,7 @@ title: Uploading WACZ to AWS
 
 If you have a big WACZ file that you can't submit via the form, follow these instructions to upload your WACZ directly to AWS.
 
-**Note:** See the *#uploading* channel in Slack to find the credentials in the pinned post.
+**Note:** See the *#browsertrix* channel in Slack to find the credentials in the pinned post.
 
 First, go to https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
@@ -20,8 +20,8 @@ First, enter the following command and fill in the data as follows:
 
 $ `aws configure`
 
-- AWS Access Key ID [None]: *Use the AWS Access Key from the uploading channel here*
-- AWS Secret Access Key [None]: *Use the secret key from the uploading channel here*
+- AWS Access Key ID [None]: *Use the AWS Access Key from the browsertrix channel here*
+- AWS Secret Access Key [None]: *Use the secret key from the browsertrix channel here*
 - Default region name [None]:  eu-central-1
 - Default output format [None]: json
 
