@@ -6,3 +6,8 @@
   background-image: none;
 }
 
+#archives td {
+  max-width: 200px;
+  text-overflow: clip;
+  overflow: hidden;
+}
