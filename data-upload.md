@@ -11,7 +11,11 @@ If you're using the [WebRecorder plugin](/webrecorder-plugin-instructions) or [W
 
 If you have a WACZ file, go to the [WACZ upload form](https://forms.gle/N18MxWgoHtPB2xpz8). Enter the metadata and upload the WACZ file.
 
-The WACZ form only accepts files up to 10 GB, so if you have a larger archive, you'll need to [upload WACZ to AWS](/wacz-upload-aws)
+The WACZ form only accepts files up to 10 GB, so if you have a larger archive, you'll need to [upload WACZ to AWS](/wacz-upload-aws).
+
+## AWS Upload folder
+
+If you have more complicated data, such as the results of a custom scrape or a failed crawl, you will need to request AWS access credentials to receive access to your own [AWS upload folder](/folder-upload-aws).
 
 ## PDFs, images, other files
 SUCHO now has a collection on the Internet Archive! If you put *sucho-id-* at the beginning of the Page URL field, it will automatically be added to the collection. (This only applies to files you're uploading -- PDFs, images, DJVU, etc. Wayback Machine links don't go in a collection.)
