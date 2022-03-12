@@ -1,10 +1,12 @@
 ---
 layout: default
-permalink: publicity
-title: Publicity
+permalink: /press    
+title: Press Coverage
 ---
 
-Media inquiries can be directed to the project admins at info@sucho.org.
+Media inquiries can be directed to the project admins at **info@sucho.org**.
+
+**March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 
 ### Articles
