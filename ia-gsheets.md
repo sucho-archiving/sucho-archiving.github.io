@@ -15,7 +15,7 @@ There are instructions in the sheet for how to proceed, but generally you should
    - If the site looks pretty much functioning as you click around and you don't see any 400 or 300 errors, then you can mark it as done and start on the next one.
 2. If the site is either not listed or the last snapshots were older than a few months, you should go ahead and start copying links into a new google spreadsheet. You can name the spreadsheet anything you like, and all you need is one column where you paste each of the URLs. These should generally be top level URLs (so ones you see in your browser bar when you move around the site).
 3. Also be sure to include URLs for files that are downloadable, like PDFs, images, etc.
-   - **You do not need to download files**. Previously we had been suggesting that you do download these, and then upload them manually, but that is no longer our suggestion unless the file is not supported by the Internet archive. If you're unsure freel free to ask questions in either the `#waybackmachine` or `#internetarchive` Slack channels.
+   - **You do not need to download files**. Previously we had been suggesting that you do download these, and then upload them manually, but that is no longer our suggestion unless the file is not supported by the Internet archive. If you're unsure feel free to ask questions in either the `#waybackmachine` or `#internetarchive` Slack channels.
 4. Once you're done you can submit the file to be processed by the Internet Archive (instructions below).
 
 **If you are seeing a lot of similar patterned links and there are more links than you can easily capture in an hour or so, then you might consider flagging the site as "Needs Scraping" and then we can try to scrape the links programmatically.** But this is for mostly exceptional cases, so do your best and also know that you can first submit a subset of links to the wayback machine and then go back to add additional links as you find them.
@@ -32,8 +32,8 @@ Some of the other individual task tutorials for SUCHO involve building spreadshe
 - Underneath the gray box at the top of the page, there's a field for *Google Spreadsheet URL*. Paste the URL of your spreadsheet with links in that box.
 - Check the "Capture outlinks" box
 - You can keep the "Capture only if not archived within 6 hours" option enabled
-- You can also keep the "Delay the availability of new captures for ~10 hours" option on too
+- You can also keep the "Delay the availability of new captures for ~10 hours" option on too. (**Note**: in practice, under the current load, it can take multiple days for new captures to show up, so don't worry if things you've captured aren't there the next day.)
 - Hit the green "Archive" button
 - You'll get an email that the Internet Archive is processing the spreadsheet, and you can watch the progress in the gray box. You'll get an email when it's done. The spreadsheet will also be updated with info about the status of all the links and what was captured.
-- You may need to submit the sheet again after it's done; often things that time out or aren't available can get picked up on a second archiving run (and it won't re-run things it just did, because of that 'Capture only if not archived within 6 hours' option).
+- **Do not resubmit the whole sheet** after it's done. If there are links that have errors *other than 200 codes* (which means the page got captured, but the index may not have been created), copy them into a new tab, make that tab the first tab in the sheet, and then resubmit with just the things that weren't captured.
 - Also if you are using tabs in your Google sheets, the Wayback-GSheets service will only process the first tab so make sure to organize accordingly.
