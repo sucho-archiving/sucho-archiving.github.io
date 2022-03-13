@@ -28,6 +28,7 @@ Some of the other individual task tutorials for SUCHO involve building spreadshe
 
 - [Log into your Internet Archive account](https://archive.org/account/login) (or [create one](https://archive.org/account/signup))
 - Go to the [Wayback-GSheets service page](https://archive.org/services/wayback-gsheets/) and log in with whatever Google account you used to create your spreadsheet. Grant it the necessary permissions.
+  - If the sheet is 'view only' for you, request edit-access or make a copy of it. This will allow Internet Archive to log import-errors to the sheet via your Google account.
 - Once you've authenticated, you'll see 3 large green buttons: *Archive URLs*, *Check if URLs are archived in the Wayback Machine*, and *Check if URLs are available in the Live Web*. We'll be using **Archive URLs**, so click that button.
 - Underneath the gray box at the top of the page, there's a field for *Google Spreadsheet URL*. Paste the URL of your spreadsheet with links in that box.
 - Check the "Capture outlinks" box
