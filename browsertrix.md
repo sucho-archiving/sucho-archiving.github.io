@@ -127,6 +127,18 @@ If the crawl fails for any number of reasons, change the status to Failed and ad
 ### Timeouts
 If webpages fail to load and timeout, you may need to manually set browsertrix to a longer timeout limit by adding to the end of your command `--timeout 300`. Timeouts are tricky, so if you can't get it working, make a comment and move on to another open item. 
 
+### Exclusions
+
+If you have a crawl that seems to not be finishing and appears to be stuck in a loop, you can interrupt it, and add an exclusion regular expression, and then continue! It's a bit cumbersome, but you can:
+
+1. Interrupt the crawl with ctrl+c (except probably windows, see note below for windows)
+2. This should interrupt the crawl and save the state to a yaml file and it should print "Saving crawl state to: /crawls/collections..."
+3. Open that yaml file in a text editor ./crawls/collections/...
+4. Add an `exclude: <regex>` field, can be at the beginning in the root of the yaml file. eg, to exclude any url that contains a query ?, you might add `exclude: "\\?"` (to escape the ? for the regex). At this point you probably have an idea of the pattern that should be excluded, maybe its just a specific part of the URL
+5. Restart the crawl by running it with `--config /crawls/collections/...` pointing to the edited yaml file (it'll be in the crawls volume so will be accessible from /crawls)
+6. The restarted crawl will apply the new exclusion rules to the crawl and filter out any urls in the crawl state, so hopefully now your crawl can finish.
+You can do this as many times as needed to update the exclusion rules.
+
 ## Final Step: Uploading the WACZ file
 The directory that has your *crawl-config.yaml* file will generate a *crawls* directory the first time you run the command to crawl a site. To find the WACZ file containg the archive of the website, open the  *crawls* folder, then the *collections* folder. Inside *collections*, you should see a folder for each collection you've crawled. Inside the collection folder is a .wacz file.
 
