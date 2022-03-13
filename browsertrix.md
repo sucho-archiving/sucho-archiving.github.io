@@ -131,7 +131,7 @@ If webpages fail to load and timeout, you may need to manually set browsertrix t
 
 If you have a crawl that seems to not be finishing and appears to be stuck in a loop, you can interrupt it, and add an exclusion regular expression, and then continue! It's a bit cumbersome, but you can:
 
-1. Interrupt the crawl with ctrl+c (except probably windows, see note below for windows)
+1. Interrupt the crawl with ctrl+c (except probably windows)
 2. This should interrupt the crawl and save the state to a yaml file and it should print "Saving crawl state to: /crawls/collections..."
 3. Open that yaml file in a text editor ./crawls/collections/...
 4. Add an `exclude: <regex>` field, can be at the beginning in the root of the yaml file. eg, to exclude any url that contains a query ?, you might add `exclude: "\\?"` (to escape the ? for the regex). At this point you probably have an idea of the pattern that should be excluded, maybe its just a specific part of the URL
