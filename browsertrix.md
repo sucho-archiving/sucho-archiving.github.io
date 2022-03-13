@@ -156,13 +156,7 @@ Please mark in the spreadsheet the row's status as "Submitted," and continue on 
 ### For uploads of less than 10 GB
 If your Google Drive account doesn't have enough free space for the uploaded file, you will get a "Server Rejected" error message.  First, see if you can delete any previously submitted wacz files from your drive.  If you can, this may free up enough space.  If the upload still fails, try to upload it to your Drive first, and then use the "add from google drive" option in the form.  If that still doesn't work, see the section for "For uploads greater than 10GB".
 ### For uploads greater than 10GB
-DM (direct/private message) @Seb in slack for sftp credentials. Transfer the file directly with sftp and update the Google Sheets worksheet with the metadata you would have entered in the Google form.
-The stfp command will look like this
-
-  `rsync -aRv --rsh='ssh -p<port>' crawls/collections/<coll>/<coll.wacz> <username>@<server_address>:.`
-  
-Replace the <port>, <username> and <server_address> with the credentails Seb will provide, and <site-collection>, <site-collection.wacz> sections with the file address of the file you'd like to upload. 
-Enter your provided password when prompted.
+For WACZ files that are larger than 10GB, please follow these [instructions to upload with the AWS tool](/wacz-upload-aws).
 
 ## Recreating the WACZ file
 
