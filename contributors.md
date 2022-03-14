@@ -17,6 +17,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 
 - Danielle Adamowitz
 - Nicky Agate, University of Pennsylvania Libraries
+- Christina Agramonte, Georgia College
 - Olha Aleksic, Ukrainian Research Institute, Harvard University
 - John Ayliff
 - Elton Barker, The Open University, UK
@@ -30,6 +31,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Yuri Cantrell
 - Brendan Ciecko, Cuseum
 - Kristina Conroy, Ukrainian Research Institute, Harvard University
+- Holly Croft, Georgia College
 - Jackie Davis, MLIS (ret.)
 - Colleen Sheehan Deatherage, St. Stephen's College
 - Kaylen Dwyer, Institute for Digital Research in the Humanities, University of Kansas
@@ -44,6 +46,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Sasha Goryl, Indiana University
 - Allison Graham, MI student, University of Toronto
 - Paulina Guerrero, Indiana University
+- Dr. Daniel K. Gullo, Malta Study Center, Hill Museum & Manuscript Library
 - Maggie Heeschen
 - Rutger Helmers, University of Amsterdam / Harvard Ukrainian Research Institute
 - Gernot Howanitz, U of Innsbruck

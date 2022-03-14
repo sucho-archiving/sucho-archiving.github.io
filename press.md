@@ -16,5 +16,6 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - Krücken, Markus. ["Kölner Digital-Guru (30) rettet Kulturerbe der Ukraine,"](https://www.report-k.de/koelner-digital-guru-30-rettet-kulturerbe-der-ukraine/) *Report-K,* March 9, 2022.
 
 ### Interviews 
+- ["The art world has come under Russia's attack, but the community is fighting back to keep Ukraine's cultural identity alive"](https://www.abc.net.au/news/2022-03-12/russia-ukraine-war-artists-fight-for-cultural-identity/100899202) *ABC News (Australia)*. March 11, 2022.
 - ["Digital archivists race to preserve Ukrainian heritage,"](https://www.marketplace.org/shows/marketplace-tech/) *Marketplace Tech, NPR.* March 11, 2022.
 - ["Ukraine: Rettungsaktion für digitales Kulturerbe,"](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-scala-aktuelle-kultur/audio-ukraine-rettungsaktion-fuer-digitales-kulturerbe-100.html) *WDR.* March 11, 2022.
