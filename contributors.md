@@ -12,6 +12,18 @@ SUCHO is grateful to the [Association for Computers and the Humanities (ACH)](ht
 
 We are also grateful to Amazon Web Services an Digital Ocean, who are hosting our server infrastructure pro bono. A special thanks to Brendan Ciecko from Cuseum, David Nuñez from MIT and Starchy Grantfor connecting us with AWS and DO.
 
+
+### Coordinators
+
+- Quinn Dombrowski, Stanford University
+- Anna Kijas, Tufts University
+- Sebastian Majstorovic, Austrian Center for Digital Humanities & Cultural Heritage
+
+**With support from**
+
+- Dena Strong (Community Engagement Coordinator)
+
+
 ### The team
 Thank you to everyone who's volunteered their time for the project -- we've had a thousand people join our Slack workspace! The following is a very incomplete, alphabetical list of the team:
 
@@ -97,7 +109,6 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Caitlin Staples, Westborough Public Library
 - Jennifer A. Stern
 - Jadranka Stojanovski, University of Zadar/Ruđer Bošković Institute, Croatia
-- Dena Strong
 - Kathleen Tabak, University of Oklahoma
 - Aubree Tillett, Minnesota Historical Society
 - Emmy Tither
