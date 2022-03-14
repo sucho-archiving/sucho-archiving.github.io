@@ -87,6 +87,8 @@ Here's the fields you should modify each time:
 * `collection:` this should be basically the URL that you scrape, but with hyphens instead of periods in the URL. So *http://archangel.kiev.ua* becomes `collection: archangel-kiev-ua`
 * `url:` this is just the base URL in the SUCHO spreadsheet for the URL you're scraping
 
+(**Tip:** If you're not sure if the site (and everything in it) uses http or https, you can write the URL with a question mark after the s, like so: `https?://www.examplesite.ua`)
+
 Save the YAML file as `crawl-config.yaml` somewhere easy to navigate to on your computer -- on a Mac, the Documents folder is a good one. You will need to be able to change your directory using the command line to where your *crawl-config.yaml* file is saved on your computer to run the Docker command from that directory when you crawl the site. 
 
 For examples of `crawl-config.yaml` files used for the SUCHO project, see our separate Github repository, [browsertrix-yaml-examples](https://github.com/sucho-archiving/browsertrix-yaml-examples).
@@ -134,10 +136,24 @@ If you have a crawl that seems to not be finishing and appears to be stuck in a 
 1. Interrupt the crawl with ctrl+c (except probably windows)
 2. This should interrupt the crawl and save the state to a yaml file and it should print "Saving crawl state to: /crawls/collections..."
 3. Open that yaml file in a text editor ./crawls/collections/...
-4. Add an `exclude: <regex>` field, can be at the beginning in the root of the yaml file. eg, to exclude any url that contains a query ?, you might add `exclude: "\\?"` (to escape the ? for the regex). At this point you probably have an idea of the pattern that should be excluded, maybe its just a specific part of the URL
+4. Add an `exclude: <regex>` field, can be at the beginning in the root of the yaml file. See below for examples of how to set up the regex.
 5. Restart the crawl by running it with `--config /crawls/collections/...` pointing to the edited yaml file (it'll be in the crawls volume so will be accessible from /crawls)
 6. The restarted crawl will apply the new exclusion rules to the crawl and filter out any urls in the crawl state, so hopefully now your crawl can finish.
 You can do this as many times as needed to update the exclusion rules.
+
+#### Exclusion examples and tips
+
+* To exclude everything that comes after /directory/ (e.g. `/directory/thing1`, `directory/thing2`), you can use: `https?://www.site.ua/directory/.*`
+* If you have a list of paths you want to exclude you can add one regex per path, or you can combine them into one regex; the former is likely to be cleaner, easier to follow, and less error-prone, e.g.:
+
+```
+ - url: https://example.site.com
+    scopeType: domain
+    exclude:
+      - https?://example.site.com/path1/.*
+      - https?://example.site.com/path2/.*
+      - https?://example.site.com/path3/.*`
+```
 
 ## Final Step: Uploading the WACZ file
 The directory that has your *crawl-config.yaml* file will generate a *crawls* directory the first time you run the command to crawl a site. To find the WACZ file containg the archive of the website, open the  *crawls* folder, then the *collections* folder. Inside *collections*, you should see a folder for each collection you've crawled. Inside the collection folder is a .wacz file.
