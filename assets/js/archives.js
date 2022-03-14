@@ -70,7 +70,11 @@ function viewArchiveIcon(archiveUrl, websiteUrl) {
     link.href = archiveUrl;
     img.src = "/assets/images/ia.png";
   } else if (archiveUrl.match(/wacz$/)) {
-    link.href = `https://replayweb.page/?source=${archiveUrl}#view=pages&url=${websiteUrl}`;
+    if (archiveUrl.match(/replayweb/)) {
+      link.href = archiveUrl;
+    } else {
+      link.href = `https://replayweb.page/?source=${archiveUrl}#view=pages&url=${websiteUrl}`;
+    }
     img.src = "/assets/images/wacz.png";
   } else {
     // didn't recognize the archive link!
