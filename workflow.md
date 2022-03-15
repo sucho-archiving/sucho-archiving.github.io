@@ -4,7 +4,12 @@ permalink: workflow
 title: Workflow
 ---
 
-How we've organized things (last updated end-of-day March 2nd).
+How we've organized things (last updated March 15th).
+
+## Sending links to SUCHO
+
+You don't have to fill out the volunteer form to help SUCHO archive Ukrainian cultural heritage websites! Anyone [can submit a link](https://docs.google.com/forms/d/e/1FAIpQLSffa64-l6qXqEumAcf38OEOrTFeYZEmF531PNv9ZgzNFbcgxQ/viewform) via our webform, and volunteers will make sure it's not a duplicate, and then send it into our archiving workflow.
+
 
 ## Acquiring and capturing links
 
