@@ -33,6 +33,8 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Olha Aleksic, Ukrainian Research Institute, Harvard University
 - John Ayliff
 - Elton Barker, The Open University, UK
+- Andrea Bernardini
+- Peter Binkley, U of Alberta Library
 - Aaron Bittel, Wesleyan University Library
 - Marcus Bitzl
 - Jeff Blackadar
@@ -44,7 +46,9 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Brendan Ciecko, Cuseum
 - Kristina Conroy, Ukrainian Research Institute, Harvard University
 - Holly Croft, Georgia College
+- Elizabeth Daneau
 - Jackie Davis, MLIS (ret.)
+- Taylor Diken
 - Colleen Sheehan Deatherage, St. Stephen's College
 - Kaylen Dwyer, Institute for Digital Research in the Humanities, University of Kansas
 - Catherine Emerson, National University of Ireland Galway
@@ -66,7 +70,9 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Andy Janco, Haverford College
 - Sara Janes, Lakehead University 
 - Martin Jefferies, Smartify
+- Lunja Jeschke, Bayerische Staatsbibliothek
 - Eric Kansa, OpenContext.org
+- Brandon Katzir, Oklahoma State University
 - Allison King, Mat-Su College, UAA
 - Kate Kisselstein, Baldwinsville Public Library
 - Anne Klammt, Deutsches Forum für Kunstgeschichte Paris
@@ -78,10 +84,12 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Christine Lee
 - Roberto Ledesma Avila, Sculptor E.C.R.I.P, Europeana Cultural Research
 - Elisabeth Leonard, MSLS, MBA
+- Shane Lin
 - Tori Maches
 - Dawson MacPhee, University of Guelph
 - Dennette McDermott, DMA Professor of Music Northwestern State Univ of Louisiana
 - Valerie A. Metzler
+- Chris Millson, University of Manchester
 - Luke Morris
 - Alice Mumford, University of Cambridge student
 - Stefan Münnich, University of Basel
@@ -90,10 +98,14 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Amy Nelson, Virginia Tech
 - Kathryn Newbould
 - Sheilah O'Connor, Librarian
+- Inna Orly
 - Gregory Palermo, Brandeis University
 - Katelin Marit Parsons, Árni Magnússon Institute for Icelandic Studies (Reykjavík)
+- Erica E. Peaslee, ALM, Centurion Solutions, LLC
 - Joakim Philipson, Stockholm University
+- Carrie Pirmann, Bucknell University
 - Liz Pringi
+- Lisa Rabey
 - Anna Rakityanskaya, Harvard University
 - Justin Richards -  SEARCH, Inc.
 - Alexander Roberts
@@ -106,10 +118,12 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Agata Sobczak, Leo Baeck Institute 
 - Polina Solonets, Max Planck Institute for Legal History and Legal Theory
 - Sarah Stang, Librarian
+- Irina Stanishevskaya, Metadata Librarian, University of Alabama at Birmingham
 - Caitlin Staples, Westborough Public Library
 - Jennifer A. Stern
 - Jadranka Stojanovski, University of Zadar/Ruđer Bošković Institute, Croatia
 - Kathleen Tabak, University of Oklahoma
+- Lydia Tang, LYRASIS
 - Aubree Tillett, Minnesota Historical Society
 - Emmy Tither
 - William Vaughan, Special Collections, University College London
