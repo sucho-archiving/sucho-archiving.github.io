@@ -66,6 +66,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Maggie Heeschen
 - Rutger Helmers, University of Amsterdam / Harvard Ukrainian Research Institute
 - Gernot Howanitz, U of Innsbruck
+- Lynda Howell, University of Vermont Libraries
 - Tom Hull
 - Andy Janco, Haverford College
 - Sara Janes, Lakehead University 

@@ -10,6 +10,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ### Articles
+- Guyomard, Fanny. ["Des bibliothécaires ambassadeurs de la culture numérique ukrainienne"](https://livreshebdo.fr/article/des-bibliothecaires-ambassadeurs-de-la-culture-numerique-ukrainienne). March 14, 2022.
 - Cascone, Sarah. ["How Tech Experts in the West Are Rushing to Save the Digital Archives of Ukraine’s Museums"](https://news.artnet.com/art-world/saving-ukrainian-cultural-heritage-online-2084036) *Artnet News*. March 14, 2022.
 - Barbara, Fasseur. ["Ukraine: des volontaires au secours du patrimoine numérique,"](https://actualitte.com/article/105097/ressources/ukraine-des-volontaires-au-secours-du-patrimoine-numerique) *Les univers du livre Actualitté.* March 10, 2022.
 - Cascone, Sarah. ["How Tech Experts in the West Are Rushing to Save the Digital Archives of Ukraine’s Museums,"](https://news.artnet.com/art-world/saving-ukrainian-cultural-heritage-online-2084036) *Artnet.* March 14, 2022.
