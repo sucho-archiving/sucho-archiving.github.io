@@ -11,13 +11,22 @@ Browsertrix Cloud enables you to run automated web crawls using SUCHO's cloud se
 The [command-line version of Browsertrix](https://www.sucho.org/browsertrix) gives you more control over things like path exclusions (e.g. to avoid crawling through lots of empty past-event calendar pages) and timeout rules (which help with very slow sites), so if you're comfortable working with the command line, we encourage you to use that route. Otherwise, read on for how to run automated crawls on Browsertrix Cloud!
 
 ## Sign up for an account
-(Ilya explains this)
+If you don't have an account yet, click *Sign Up* in the top right. You will then see a sign-up box where you can enter your e-mail, password and name.
+(The name will be shown in the UI and a lowercase, no-spaces version will be added to the crawl filenames)
+
+Once you click Sign Up, you will be automatically logged in and ready to start archiving!
+
+You will see an archive called *Your-Name's Archive*.
+
+(A confirmation e-mail will also be sent to you. For now, it is not required to use the service)
 
 ## Log in
 Go to [crawls.sucho.org](https://crawls.sucho.org) and log in with the credentials you used to sign up.
 
 ## Archives
-Once you've logged in, you'll see *SUCHO Shared Archive's Archive* and *Your-Name's Archive*. Click on "SSSSSSS"
+Once you've logged in, you'll see *Your-Name's Archive*. Click on this link and you'll be taken to your personal archive.
+
+(If others have invited you to join their archive, its possible other archives will appear in the list as well. For Sucho, all data is going in the same place, so we're giving everyone their own archive to make it easier to organize).
 
 This will take you to a page with tabs at the top for "Crawls" (where you can see currently active crawls) and "Crawl Templates". Click on "Crawl Templates", which is where you can configure the setup for capturing a website.
 
