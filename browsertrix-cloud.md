@@ -67,7 +67,18 @@ Once the crawl is done, the 'View Crawl' link will show you the replay using an 
 
 ### Downloading the WACZ
 
-From the download tab, you can download the WACZ file if you would like to have a copy or test it locally. Note that you *do not* need to upload it, as it is automatically added to the SUCHO cloud storage.
+From the download tab, you can download the WACZ file if you would like to have a copy or test it locally. **Note that you *do not* need to upload it, as it is automatically added to the SUCHO cloud storage.**
+
+
+## Completing the crawl job
+Verify the website was captured by using the 'View Crawl' link on the crawl page to check the output. Focus on verifying that the main subcomponents of the site were saved, especially pages listed in the navbar. Many links on the site may be external to the domain you preserved, so don't worry if those are broken.
+
+Make sure to add info the Notes field about any errors you encountered and any concerns you have about the quality of the archive file. The Quality Control team can verify your lingering questions.
+
+At this point, your crawl is complete! Thank you for your work.
+
+Please mark in the spreadsheet the row’s status as “Submitted,” and continue on to the next item. 
+
 
 ## Adding more crawl templates
 We recommend that you have no more than 10 crawl templates running at a given time, and that you keep an eye on them to make sure they're successfully running. You can add more crawl templates as crawls complete.
