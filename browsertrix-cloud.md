@@ -61,6 +61,14 @@ the site can handle this load.
 
 In the crawl view, you can also click on each browser to zoom in.
 
+## Viewing the Replay
+
+Once the crawl is done, the 'View Crawl' link will show you the replay using an embedded version of replayweb.page.
+
+### Downloading the WACZ
+
+From the download tab, you can download the WACZ file if you would like to have a copy or test it locally. Note that you *do not* need to upload it, as it is automatically added to the SUCHO cloud storage.
+
 ## Adding more crawl templates
 We recommend that you have no more than 10 crawl templates running at a given time, and that you keep an eye on them to make sure they're successfully running. You can add more crawl templates as crawls complete.
 
