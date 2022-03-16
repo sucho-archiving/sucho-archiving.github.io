@@ -10,9 +10,7 @@ Browsertrix Cloud enables you to run automated web crawls using SUCHO's cloud se
 
 The [command-line version of Browsertrix](https://www.sucho.org/browsertrix) gives you more control over things like path exclusions (e.g. to avoid crawling through lots of empty past-event calendar pages) and timeout rules (which help with very slow sites), so if you're comfortable working with the command line, we encourage you to use that route. Otherwise, read on for how to run automated crawls on Browsertrix Cloud!
 
-## Crawling Site
-
-Go to [crawls.sucho.org](https://crawls.sucho.org) and sign-up or log in with the credentials you used to sign up.
+**To start using Browsertrix Cloud, you can go to: [crawls.sucho.org](https://crawls.sucho.org) and sign-up or log in with the credentials you used to sign up.**
 
 ## Sign up for an account
 If you don't have an account yet, click *Sign Up* in the top right. You will then see a sign-up box where you can enter your e-mail, password and name.
@@ -59,7 +57,9 @@ Crawls take 1-2 minutes to start, and you'll be able to see their status on the 
 Currently, the crawl is configured to run 8 browsers, and can be scaled up to 16 or 24 browsers. We suggest starting with 8 and only scaling up if it seems that
 the site can handle this load.
 
-SCREENSHOT
+<img src="/assets/images/browsertrix-cloud-crawl-view.png" width="800px"/>
+
+In the crawl view, you can also click on each browser to zoom in.
 
 ## Adding more crawl templates
 We recommend that you have no more than 10 crawl templates running at a given time, and that you keep an eye on them to make sure they're successfully running. You can add more crawl templates as crawls complete.
