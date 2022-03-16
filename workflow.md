@@ -94,4 +94,4 @@ Sometimes the Browsertrix workflow isn’t (fully) successful, because there are
 
 The custom scraping workflow (4c) varies depending on the site; it may produce a set of links that go to the Wayback Machine (3b), or it may produce a set of files (images, PDFs, etc.) that get uploaded to the SUCHO collection at the Internet Archive (5). Volunteers then enhance the metadata for uploaded files (6).
 
-![The SUCHO spreadsheet with tabs highlighted](/assets/images/sucho-workflow-mar15.png)
+![The SUCHO workflow as of March 15](/assets/images/sucho-workflow-mar15.png)
