@@ -16,6 +16,8 @@ By the end of a crawl, you will have generated a zipped file of a a series of [W
 
 **If you have questions**, don't hesitate to ask on the #browsertrix Slack channel. This sort of work often requires help for troubleshooting.
 
+For a 20-minute video overview of installing Docker and setting up Browsertrix, watch this [introduction to running Browsertrix locally](https://stanford.zoom.us/rec/share/lK7V534b7hoGfYQiH_Idhotpr0FAH-azo6EVfGvbq56HCn79JX3GtotEtiWOasFq.7BzPPj_PLzZmPbYx?startTime=1646784320000).
+
 ### Browsertrix
 [Browsertrix](https://github.com/webrecorder/browsertrix-crawler) is a simplified browser and crawling system that can create web archive files for entire sites. It's distributed as a *Docker container*. 
 
