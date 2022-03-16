@@ -51,6 +51,9 @@ This command downloads and sets up Browsertrix using Docker.
 
 **Note**: If this command throws an error, you might not have administrative permissions. Try the above command again, but put `sudo` at the front, so the command would be: `sudo docker pull webrecorder/browsertrix-crawler`
 
+If you installed Browsertrix a while ago, you may want to update your version with the following command:
+`docker pull webrecorder/browsertrix-crawler:latest`
+
 Now that you've installed Docker and configured the Docker image, you shouldn't need to redo these first setup steps again. 
 
 ## Picking a website from the spreadsheet
@@ -120,14 +123,28 @@ Depending on the size of the site, the crawl could take anywhere from a couple m
 ### Interruptions
 If the crawl gets interrupted, or you need to interrupt the execution in the command line, browsertrix should be able pick up where it left off if you run a slightly different crawl command. 
 
-This is an example you would need to modify for your case: `docker run -v $PWD/crawls/collections/history-org-ua/crawls/crawl-20220305161714-00e289c2da70.yaml:/app/crawl-config.yaml -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ --timeout 120`
+To interrupt the crawl, for Mac and Linux, simply press Cntrl+C in the terminal. For Windows, Cntrl+Break may work, or try `docker ps` and then `docker kill -s SIGINT <container ID>`. 
 
-The first argument now points to crawls/collections/....../crawl-[LOTSOFNUMBERS].yaml
+Interrupting the crawl should save the state to a .yaml file and it should print "Saving crawl state to: /crawls/collections...". Find that .yaml file and open it with a text editor. 
 
-If the crawl fails for any number of reasons, change the status to Failed and add notes about the errors and problems in the Comments field. Another person can try recrawling the site later with more complex parameters, or we may turn it over to manual webrecording tools. 
+In the yaml file, add an `exclude: <regex>` at the beginning in the root of the yaml file, to exclude any url that contains a query `?`. You can also add `exclude:"\\?"` to escape the ? for the regex. The pattern of the url that should be excluded may be a specific part of the URL.
+
+Restart the crawl by running it with `--config /crawls/collections/...` pointing to the edited yaml file (it'll be in the crawls volume, accessible from /crawls). The restarted crawl will apply new exclusion rules to the crawl and filter out any urls in the crawl state, so the crawl can hopefully finish. You can repeat this process as many times as necessary.
+
+See more info on Exclusions below. 
+
+Here is an example of a full command that would need to be modified to your crawl-[UNIQUEID].yaml: `docker run -v $PWD/crawls/collections/history-org-ua/crawls/crawl-20220305161714-00e289c2da70.yaml:/app/crawl-config.yaml -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ --timeout 120`
 
 ### Timeouts
 If webpages fail to load and timeout, you may need to manually set browsertrix to a longer timeout limit by adding to the end of your command `--timeout 300`. Timeouts are tricky, so if you can't get it working, make a comment and move on to another open item. 
+
+If the crawl consistently fails for any number of reasons, change the status to Failed and add notes about the errors and problems in the Comments field. Another person can try recrawling the site later with more complex parameters, or we may turn it over to manual webrecording tools. 
+
+*Note*: Just because during a crawl you receive error messages relating to timeouts, it dooesn't always mean the URL couldn't be captured (it may have been a single resource on the page, such as an image from a non-existent third party site). View the final .wacz file in ReplayWeb to see what failed about any given page.
+
+#### Scraping Failed Pages
+
+For advanced users, if specific pages fail during your crawl, you can use this [script](https://github.com/ZoeLeBlanc/sucho_scripts) to take the failed links from your crawl, check if they exist in the Wayback Machine, and if not, you can either save it to a csv and upload it to Google Sheets to send to the Wayback service, or save it directly to the Wayback Machine. 
 
 ### Exclusions
 
