@@ -48,8 +48,16 @@ Click the big button that reads *Create New Crawl Template*. This will take you 
 
 Once you've filled out this form, hit the big blue *Save Crawl Template* button at the bottom.
 
+### Advanced Options / JSON Editor
+
+You can also click the *Use JSON Editor* toggle, which will show a JSON editor. Here you can enter a custom Browsertrix Crawler config file as JSON.
+We don't recommend using this to start, but if you have advanced options, or were previously using Browsertrix Crawler via command-line, you can enter your config here.
+
 ## Monitoring the crawl
 Crawls take 1-2 minutes to start, and you'll be able to see their status on the Archives page. You can click on a crawl to look at the details. On the left-hand tabs, you can click "View Crawl" to watch the web browser(s) and what they're currently capturing.
+
+Currently, the crawl is configured to run 8 browsers, and can be scaled up to 16 or 24 browsers. We suggest starting with 8 and only scaling up if it seems that
+the site can handle this load.
 
 SCREENSHOT
 
@@ -60,3 +68,7 @@ WACZ files (the web archives produced through this workflow) are already automat
 
 ## Troubleshooting crawl templates
 If a crawl template completes with only 1 page, something went wrong in the crawl template configuration. A common error is using http instead of https, or vice-versa. You can try it again, or otherwise, mark it as incomplete in the SUCHO working spreadsheet and someone else will try it.
+
+## Limitations
+
+It is not currently possible to stop a crawl, edit the config (for example, to add exclusions) and continue. You can stop or cancel a crawl, but not start it again with different rules.
