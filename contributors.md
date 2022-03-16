@@ -34,6 +34,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - John Ayliff
 - Elton Barker, The Open University, UK
 - Andrea Bernardini
+- Jeremi Bigosinski, PLA, Norwalk Community College
 - Peter Binkley, U of Alberta Library
 - Aaron Bittel, Wesleyan University Library
 - Marcus Bitzl
@@ -55,6 +56,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Claudia Engel
 - Julia Fallon, Europeana Foundation
 - Matthew Fisher
+- Curtis Forte, Archival MLIS Student - University of Alabama Tuscaloosa
 - Kristina Gerhardt, MLIS Student, San Jose State University 
 - Alex Gil
 - Felipe Gómez, Carnegie Mellon University
@@ -90,6 +92,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Dawson MacPhee, University of Guelph
 - Dennette McDermott, DMA Professor of Music Northwestern State Univ of Louisiana
 - Valerie A. Metzler
+- Barbara Miller
 - Chris Millson, University of Manchester
 - Luke Morris
 - Alice Mumford, University of Cambridge student
@@ -111,6 +114,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Justin Richards -  SEARCH, Inc.
 - Alexander Roberts
 - Emanuele Sanna
+- Alex Savage
 - Lesia Savedchuk
 - Tina Schneider, The Ohio State University
 - Andreas Segerberg, University of Gothenburg and ESSolutions 
@@ -129,6 +133,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Emmy Tither
 - William Vaughan, Special Collections, University College London
 - Iryna Voloshyna, Department of Folklore and Ethnomusicology, Indiana University
+- Andreas Wagner, MPI for Legal History and Legal Theory/Academy of Sciences and Literature | Mainz
 - Cosima Wagner, Freie Universität Berlin, University Library
 - Shane Watson, AppState Music Library Manager, University of North Carolina MLIS Student
 - Sophie Wehtje
