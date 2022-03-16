@@ -65,7 +65,7 @@ There are other areas of Slack that don't have to do with tasks:
 
 Our work is coordinated through an enormous Google Sheet with many tabs:
 
-![The SUCHO spreadsheet with tabs highlighted](/assets/images/sucho-workflow-mar15.png)
+![The SUCHO spreadsheet with tabs highlighted](/assets/images/sucho-tabs.png)
 
 If you look at the bottom of that screen shot, there are Browsertrix, Manual WebRecorder, and InternetArchive tabs visible; we have about 12 other tabs coordinating other sections of the work. 
 
