@@ -22,7 +22,7 @@ The link to the SUCHO status tracking sheet is pinned in the #situation-monitori
 
 Scroll to the bottom of the Ukraine NOW page, where the newest updates get posted, then scroll up a little until you find the Ukraine NOW update that corresponds to the most recent thing in the SUCHO situation monitoring spreadsheet. (e.g. for the example above, if I'm in California, I'd want to look for an update with a timestamp of 16:14, corresponding to 4:14 PM in California or 23:14 UTC.)
 
-You may want to use the [Google Translate Chrome plugin](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb/RK%3D2/RS%3DBBFW_pnWkPY0xPMYsAZI5xOgQEE-) to machine-translate Ukraine NOW. The updates we're particularly paying atteion to usually begin with the characters "_**‼️**_" in red, then the name of a city, province, or region, and then "тривога" (alert) or "повітряна тривога" (air raid alert).
+You may want to use the [Google Translate Chrome plugin](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb/RK%3D2/RS%3DBBFW_pnWkPY0xPMYsAZI5xOgQEE-) to machine-translate Ukraine NOW. The updates we're particularly paying attention to usually begin with the characters "_**‼️**_" in red, then the name of a city, province, or region, and then "тривога" (alert) or "повітряна тривога" (air raid alert).
 
 ## Update the SUCHO situation monitoring sheet
 
