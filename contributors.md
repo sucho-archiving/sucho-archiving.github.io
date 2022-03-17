@@ -8,10 +8,9 @@ title: Contributors
 
 ### Financial supporters
 
-SUCHO is grateful to the [Association for Computers and the Humanities (ACH)](https://ach.org/) and the [European Association for Digital Humanities](https://eadh.org/) for emergency project grants.
+SUCHO is grateful to the [Association for Computers and the Humanities (ACH)](https://ach.org/), the [European Association for Digital Humanities](https://eadh.org/) and the [Europeana Foundation](https://pro.europeana.eu/about-us/foundation) for emergency project grants.
 
-We are also grateful to Amazon Web Services an Digital Ocean, who are hosting our server infrastructure pro bono. A special thanks to Brendan Ciecko from Cuseum, David Nuñez from MIT and Starchy Grantfor connecting us with AWS and DO.
-
+We are also grateful to Amazon Web Services and Digital Ocean, who are hosting our server infrastructure. A special thanks to Brendan Ciecko from Cuseum, David Nuñez from MIT and Starchy Grant for connecting us with AWS and DO.
 
 ### Coordinators
 
