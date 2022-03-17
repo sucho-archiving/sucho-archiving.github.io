@@ -28,7 +28,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - Vilkišienė, Agnė. ["Archyvarai savanoriai vienijasi, kad padėtų išsaugoti Ukrainos kultūros paveldą."](http://www.voruta.lt/archyvarai-savanoriai-vienijasi-kad-padetu-issaugoti-ukrainos-kulturos-pavelda/) *Voruta*. March 14, 2022.
 - ["Ουκρανία: Νέα πρωτοβουλία σπεύδει να σώσει τα ψηφιακά αρχεία των ουκρανικών μουσείων."](https://www.monopoli.gr/2022/03/14/promotional-items/gallery-promo-items/564729/oukrania-nea-protovoulia-speydei-na-sosei-ta-psifiaka-arxeia-ton-oukranikon-mouseion/) *Monopoli*. March 14, 2022.
 - ["SUCHO: Η πρωτοβουλία που προσπαθεί να σώσει τα ψηφιακά αρχεία των ουκρανικών μουσείων."](https://avant-garde.com.cy/articles/nea/news/sucho-i-protoboylia-poy-prospathei-na-sosei-ta-psifiaka-arheia-ton-oykranikon) *Avant Garde*. March 16, 2022.
-- ["V živo iz Ukrajine: kako varovati arhive v času vojne?"](https://reporter.si/clanek/magazin/v-zivo-iz-ukrajine-kako-varovati-arhive-v-casu-vojne-951880), *Reporter.si*. March 17, 2022.
+- ["V živo iz Ukrajine: kako varovati arhive v času vojne?."](https://reporter.si/clanek/magazin/v-zivo-iz-ukrajine-kako-varovati-arhive-v-casu-vojne-951880) *Reporter.si*. March 17, 2022.
 
 ## Interviews 
 - ["The art world has come under Russia's attack, but the community is fighting back to keep Ukraine's cultural identity alive."](https://www.abc.net.au/news/2022-03-12/russia-ukraine-war-artists-fight-for-cultural-identity/100899202) *ABC News (Australia)*. March 11, 2022.
