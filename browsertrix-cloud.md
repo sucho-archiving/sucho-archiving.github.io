@@ -10,7 +10,7 @@ Browsertrix Cloud enables you to run automated web crawls using SUCHO's cloud se
 
 The [command-line version of Browsertrix](https://www.sucho.org/browsertrix) gives you more control over things like path exclusions (e.g. to avoid crawling through lots of empty past-event calendar pages) and timeout rules (which help with very slow sites), so if you're comfortable working with the command line, we encourage you to use that route. Otherwise, read on for how to run automated crawls on Browsertrix Cloud!
 
-**To start using Browsertrix Cloud, you can go to: [crawls.sucho.org](https://crawls.sucho.org) and sign-up or log in with the credentials you used to sign up.**
+*To start using Browsertrix Cloud, you can go to the cluster site and sign-up or log in with the credentials you used to sign up. (Please contact us if you need the URL)*
 
 ## Sign up for an account
 If you don't have an account yet, click *Sign Up* in the top right. You will then see a sign-up box where you can enter your e-mail, password and name.
