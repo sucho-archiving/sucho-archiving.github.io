@@ -77,7 +77,7 @@ Make sure to add info the Notes field about any errors you encountered and any c
 
 At this point, your crawl is complete! Thank you for your work.
 
-Please mark in the spreadsheet the row’s status as “Submitted,” and continue on to the next item. 
+Please mark in the spreadsheet the row’s status as “Done” and continue on to the next item. 
 
 
 ## Adding more crawl templates
