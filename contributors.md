@@ -21,6 +21,8 @@ We are also grateful to Amazon Web Services an Digital Ocean, who are hosting ou
 
 **With support from**
 
+- Kim Martin, University of Guelph (Metadata Coordinator)
+- Erica Peaslee, ALM, Centurion Solutions, LLC (Situation Monitoring Coordinator)
 - Dena Strong (Community Engagement Coordinator)
 
 
@@ -105,7 +107,6 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Inna Orly
 - Gregory Palermo, Brandeis University
 - Katelin Marit Parsons, Árni Magnússon Institute for Icelandic Studies (Reykjavík)
-- Erica E. Peaslee, ALM, Centurion Solutions, LLC
 - Joakim Philipson, Stockholm University
 - Carrie Pirmann, Bucknell University
 - Liz Pringi
@@ -139,6 +140,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Sophie Wehtje
 - Alex Wermer-Colan, Temple University
 - Marian Whalen, The University of Edinburgh 
+- Kate Whittaker
 - Alex Wingate, Indiana University Bloomington
 - Laura Wrubel, Stanford University
 - Talia Zajac, University of Manchester
