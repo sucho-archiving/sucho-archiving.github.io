@@ -67,7 +67,9 @@ Go to the Browsertrix tab of the SUCHO working spreadsheet and pick a site to wo
 
 To avoid downloading malware, the first thing you should do when you find a URL to crawl is run a security check by copying the link into this [security checker](https://sitecheck.sucuri.net/). See the [security guidelines](https://www.sucho.org/security) for more information on this process. Generally speaking, a "Medium" risk shouldn't pose a threat to you if the security check verifies that no "malware" or "injected spam" is detectable on the site.
 
-Prioritize sites with links ending in `.ua`. Check where they are hosted and focus on sites in Ukraine and environs using [Hosting Checker](https://hostingchecker.com) or [IP-Lookup](https://www.iplocation.net/ip-lookup). You may also want to double check the site is still live by loading the 'Collection Url' in your browser to see if it's working. 
+Prioritize sites with links ending in `.ua`. Check where they are hosted and focus on sites in Ukraine and environs using [Hosting Checker](https://hostingchecker.com) or [IP-Lookup](https://www.iplocation.net/ip-lookup). Just because a site shows it is hosted in San Francisco on Cloudflare doesn't mean it's not hosted Ukraine, just that Cloudflare's CDN is serving the site through a reverse proxy cache. 
+
+Besides verifying its server location, you should double check the site is still live by loading the 'Collection Url' in your browser. 
 
 ## Configuring the YAML file 
 A YAML file is a plain-text file for storing configuration information about how a programming script will run. YAML files are very picky about spaces, how many, and where they're located. Each time you conduct a crawl, you can edit a yaml file to configure the crawl for a website and its subdomains.
