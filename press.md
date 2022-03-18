@@ -9,6 +9,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Schwartz, Madeleine. ["Ukraine’s ballet dancers are a ‘voice of resistance’ amid a greater struggle"](https://www.nationalgeographic.com/history/article/ukraines-ballet-dancers-are-a-voice-of-resistance-amid-a-greater-struggle). *National Geographic*. March 17, 2022.
 - Αdamopoulou, Mairi. ["Ουκρανία: SOS για τους ανεκτίμητους πολιτιστικούς θησαυρούς."](https://www.in.gr/2022/03/17/world/oukrania-sos-gia-tous-anektimitous-politistikous-thisayrous/) *In.gr*. March 14, 2022.
 - Capozucca, Roberta. ["Guerra in Ucraina è catastrofe culturale."](https://www.ilsole24ore.com/art/guerra-ucraina-e-catastrofe-culturale-AEu6lBIB) *Il Sole 24 Ore*. 
 - Cascone, Sarah. ["How Tech Experts in the West Are Rushing to Save the Digital Archives of Ukraine’s Museums."](https://news.artnet.com/art-world/saving-ukrainian-cultural-heritage-online-2084036) *Artnet News*. March 14, 2022.
