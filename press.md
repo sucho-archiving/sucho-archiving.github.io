@@ -38,4 +38,4 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Talks
-- Quinn Dombrowski, "[Libraries, Laboratories, Back Alleys](https://archive.org/details/applications-of-web-archive-research-archives-unleashed)" (begins 2:54 in recording). *Internet Archive*. March 16, 2022.
+- Dombrowski, Quinn. ["Libraries, Laboratories, Back Alleys."](https://archive.org/details/applications-of-web-archive-research-archives-unleashed) (begins 2:54 in recording). *Internet Archive*. March 16, 2022.
