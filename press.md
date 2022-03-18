@@ -10,8 +10,8 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 ## Articles
 - Αdamopoulou, Mairi. ["Ουκρανία: SOS για τους ανεκτίμητους πολιτιστικούς θησαυρούς."](https://www.in.gr/2022/03/17/world/oukrania-sos-gia-tous-anektimitous-politistikous-thisayrous/) *In.gr*. March 14, 2022.
-- Cascone, Sarah. ["How Tech Experts in the West Are Rushing to Save the Digital Archives of Ukraine’s Museums."](https://news.artnet.com/art-world/saving-ukrainian-cultural-heritage-online-2084036) *Artnet News*. March 14, 2022.
 - Capozucca, Roberta. ["Guerra in Ucraina è catastrofe culturale."](https://www.ilsole24ore.com/art/guerra-ucraina-e-catastrofe-culturale-AEu6lBIB) *Il Sole 24 Ore*. 
+- Cascone, Sarah. ["How Tech Experts in the West Are Rushing to Save the Digital Archives of Ukraine’s Museums."](https://news.artnet.com/art-world/saving-ukrainian-cultural-heritage-online-2084036) *Artnet News*. March 14, 2022.
 - Curry, Andrew. [“You can’t get back specimens”: Ukrainian scientists rush to save irreplaceable collections."](https://www.science.org/content/article/you-can-t-get-back-specimens-ukrainian-scientists-rush-save-irreplaceable-collections) *Science*. March 9, 2022.
 - Fasseur, Barbara. ["Ukraine: des volontaires au secours du patrimoine numérique."](https://actualitte.com/article/105097/ressources/ukraine-des-volontaires-au-secours-du-patrimoine-numerique) *Les univers du livre Actualitté*. March 10, 2022.
 - Guyomard, Fanny. ["Des bibliothécaires ambassadeurs de la culture numérique ukrainienne."](https://livreshebdo.fr/article/des-bibliothecaires-ambassadeurs-de-la-culture-numerique-ukrainienne) *Livres Hebdo*. March 14, 2022.
