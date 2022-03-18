@@ -38,3 +38,15 @@ Some of the other individual task tutorials for SUCHO involve building spreadshe
 - You'll get an email that the Internet Archive is processing the spreadsheet, and you can watch the progress in the gray box. You'll get an email when it's done. The spreadsheet will also be updated with info about the status of all the links and what was captured.
 - **Do not resubmit the whole sheet** after it's done. If there are links that have errors *other than 200 codes* (which means the page got captured, but the index may not have been created), copy them into a new tab, make that tab the first tab in the sheet, and then resubmit with just the things that weren't captured.
 - Also if you are using tabs in your Google sheets, the Wayback-GSheets service will only process the first tab so make sure to organize accordingly.
+- Additionally, the service will only capture 50,000 links per sheet, and each account is only allowed 100,000 captures per day (days reset on GMT)
+
+## Updates to Google Sheet after Submission
+
+After you've submitted the Google Sheet to the Internet Archive, the sheet will automatically be updated after every 80 rows that are processed. The Internet Archive Google Sheets Service adds the following columns:
+
+- Column B: Did IA have it before? (Y/N)
+- Column C: HTTP status code (200 is good)
+- Column D: Wayback Machine URL
+- Column E: Number of archived outlink URLs from that URL
+- Column F: First archive (or blank if the had it before)
+- Column G: Screenshot, if captured
