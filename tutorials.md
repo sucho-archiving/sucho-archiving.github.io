@@ -20,6 +20,7 @@ What we need most right now is people to help us run Browsertrix for full-site a
 
 * [Guide to using Browsertrix Cloud (easy, web-based)](/browsertrix-cloud)
 * [Guide to installing and using Browsertrix (for intermediate-tech volunteers)](/browsertrix)
+* [Browsertrix on a Raspberry Pi](/raspberry-pi)
 
 **Internet Archive tasks**
 
