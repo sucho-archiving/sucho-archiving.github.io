@@ -38,11 +38,11 @@ Click the big button that reads *Create New Crawl Template*. This will take you 
 * **Basic settings**: The name should be the base URL of the website you're working on, with periods replaced by hyphens. So if you're working on http://dcvisu.sikorsky.kiev.ua, the name should be `dcvisu-sikorsky-kiev-ua`. This name will be used for the web archive file that gets created at the end, so using this convention to name your crawl template will make it easier for us to match it up with site metadata for QC.
 * **Crawl settings**
   * **Crawl scale**: This setting determines how many browsers will be used to simultaneously capture different pages on the site. Start with the default "Standard" (which launches 8 simultaneous browsers), but if the site is responding quickly and appears to have many pages, you can change this setting even as the crawl is running. "Big" launches 16 simultaneous browsers, and "Bigger" launches 24.
-  * **Seed URLs**: This should be the base URL of the site you want to capture (e.g. `http://dcvisu.sikorsky.kiev.ua`)
+  * **Seed URLs**: This should be the base URL of the site you want to capture (e.g. `http://dcvisu.sikorsky.kiev.ua`.) If you see a URL in the sheet that has text after the base domain (e.g. `http://dcvisu.sikorsky.kiev.ua/page/something/else.html`), just use the base domain and leave off everything after the first slash.
   * **Scope type**: We usually recommend "Domain" for this setting, which will also capture any subdomains (e.g. http://thing1.site.ua and http://thing2.site.ua along with http://site.ua)
   * **Do not check** the box for external links -- Browsertrix Cloud will crawl the pages of the site just fine without it
   * **Page limit** should stay with the default "unlimited"
-* **Crawl schedule**: use the default settings (not recurring, run imediately on save)
+* **Crawl schedule**: use the default settings (not recurring, run immediately on save)
 
 Once you've filled out this form, hit the big blue *Save Crawl Template* button at the bottom.
 
