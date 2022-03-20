@@ -13,6 +13,8 @@ Installation: `docker pull webrecorder/browsertrix-crawler`
 
 Crawling: `docker run -v $PWD/crawl-config.yaml:/app/crawl-config.yaml -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ`
 
+Upload that .wacz file to our [WACZ uploads form](https://forms.gle/N18MxWgoHtPB2xpz8). 
+
 Please read the full tutorial below. **If you have questions**, don't hesitate to ask on the #browsertrix Slack channel. This sort of work often requires help for troubleshooting.
 
 ## Web Crawling 
@@ -54,7 +56,9 @@ Now that Docker is running, we can set up the web crawler from the command line.
 ### Getting the Docker image for Browsertrix
 
 To download and set up Browsertrix using Docker, in your command line, type or paste this:
-`docker pull webrecorder/browsertrix-crawler`
+```
+docker pull webrecorder/browsertrix-crawler
+```
 
 **Note**: If this command throws an error, you might not have administrative permissions. Try the above command again, but put `sudo` at the front, so the command would be: `sudo docker pull webrecorder/browsertrix-crawler`
 
@@ -102,9 +106,9 @@ Open up the command line again, if you closed it before.
 *For Mac*: this will by default put you in your home directory (i.e. /Users/your-user-name). If you saved your *crawl-config.yaml* in the Documents folder, type `cd Documents`, and your command line will put you in the Documents folder. (If you put it somewhere else, you can put in that path after the `cd`, e.g. `cd Documents/some-subfolder/another-subfolder`).
 
 Once you're in the same location as your *crawl-config.yaml*, paste this command into the Mac terminal and press enter to start the crawling:
-
-`docker run -v $PWD/crawl-config.yaml:/app/crawl-config.yaml -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ`
-
+```
+docker run -v $PWD/crawl-config.yaml:/app/crawl-config.yaml -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ
+```
 *For Windows*: after navigating to the right directory in the command prompt using `cd`, type the following command:
 `docker run -v %cd%/crawl-config.yaml:/app/crawl-config.yaml -v %cd%/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ`
 
@@ -161,9 +165,9 @@ If that won't work, you could try installying Python, and then installing pip3 a
 sudo apt install python3-pip && pip install wacz
 ```
 Then you can generate the WACZ by running
-
-  `wacz create --split-seeds -f ./crawls/collections/<coll>/archive/*.warc.gz -p ./crawls/collections/<coll>/pages/pages.jsonl`
-
+```
+wacz create --split-seeds -f ./crawls/collections/<coll>/archive/*.warc.gz -p ./crawls/collections/<coll>/pages/pages.jsonl
+```
 If this fails (it may do so for larger archives), contact Admin on the #Browsertrix slack channel for sftp credentials and upload the entire collections/<coll> folder to a suitably named desination folder with the following command
 
   `rsync -aRv --rsh='ssh -p<port>' crawls/collections/<coll> <username>@<server_address>:./<coll>`
