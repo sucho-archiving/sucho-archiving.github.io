@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: Homepage
+title: Saving Ukrainian Cultural Heritage Online
 ---
 
 # Saving Ukrainian Cultural Heritage Online (SUCHO)
