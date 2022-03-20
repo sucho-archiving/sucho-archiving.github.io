@@ -33,6 +33,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Christina Agramonte, Georgia College
 - Olha Aleksic, Ukrainian Research Institute, Harvard University
 - John Ayliff
+- Clarisse Bardiot, University of Rennes 2, France
 - Elton Barker, The Open University, UK
 - Andrea Bernardini
 - Jeremi Bigosinski, PLA, Norwalk Community College
@@ -45,6 +46,8 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Kostyantyn Bondarenko, Ukrainian Research Institute, Harvard University
 - Robin Burke, University of Colorado Boulder
 - Yuri Cantrell
+- Elisa Cecchetto, Bayerische Staatsbibliothek, München
+- Sharon Cheslow
 - Brendan Ciecko, Cuseum
 - Kristina Conroy, Ukrainian Research Institute, Harvard University
 - Holly Croft, Georgia College
@@ -88,6 +91,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Christine Lee
 - Roberto Ledesma Avila, Sculptor E.C.R.I.P, Europeana Cultural Research
 - Elisabeth Leonard, MSLS, MBA
+- Lesia Letnyanchyn, Bayerische Staatsbibliothek, München
 - Shane Lin
 - Tori Maches
 - Dawson MacPhee, University of Guelph
@@ -96,12 +100,14 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Barbara Miller
 - Chris Millson, University of Manchester
 - Luke Morris
+- Ludwig Mueller, Bayerische Staatsbibliothek, Muenchen
 - Alice Mumford, University of Cambridge student
 - Stefan Münnich, University of Basel
 - Dina Murokh, PhD Candidate, Art History, USC
 - Maryam Mustafa
 - Amy Nelson, Virginia Tech
 - Kathryn Newbould
+- Delfi Nieto-Isabel, Harvard University
 - Sheilah O'Connor, Librarian
 - Inna Orly
 - Gregory Palermo, Brandeis University
@@ -124,6 +130,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Polina Solonets, Max Planck Institute for Legal History and Legal Theory
 - Sarah Stang, Librarian
 - Irina Stanishevskaya, Metadata Librarian, University of Alabama at Birmingham
+- Arnost Stanzel, BSB München
 - Caitlin Staples, Westborough Public Library
 - Jennifer A. Stern
 - Jadranka Stojanovski, University of Zadar/Ruđer Bošković Institute, Croatia
@@ -141,5 +148,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Marian Whalen, The University of Edinburgh 
 - Kate Whittaker
 - Alex Wingate, Indiana University Bloomington
+- Sean M. Winslow, University of Graz
+- Dr. Gudrun Wirtz, Bayerische Staatsbibliothek, München
 - Laura Wrubel, Stanford University
 - Talia Zajac, University of Manchester
