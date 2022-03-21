@@ -6,29 +6,26 @@ title: Browsertrix Cloud
 
 ## Overview
 
-Browsertrix Cloud enables you to run automated web crawls using SUCHO's cloud servers, without having to install Docker and use the command line. 
+Browsertrix Cloud enables you to run automated web crawls using SUCHO's cloud servers, without having to install anything on your computer.
 
 The [command-line version of Browsertrix](https://www.sucho.org/browsertrix) gives you more control over things like path exclusions (e.g. to avoid crawling through lots of empty past-event calendar pages) and timeout rules (which help with very slow sites), so if you're comfortable working with the command line, we encourage you to use that route. Otherwise, read on for how to run automated crawls on Browsertrix Cloud!
 
-*To start using Browsertrix Cloud, you can go to the cluster site and sign-up or log in with the credentials you used to sign up. (Please contact us if you need the URL)*
+*To start using Browsertrix Cloud, you can go to the SUCHO Browsertrix Cloud site and sign-up, or log in with the credentials you used to sign up before. (Please contact us if you need the URL.)*
 
 ## Sign up for an account
-If you don't have an account yet, click *Sign Up* in the top right. You will then see a sign-up box where you can enter your e-mail, password and name.
-(The name will be shown in the UI and a lowercase, no-spaces version will be added to the crawl filenames)
+If you don't have an account yet, click *Sign Up* in the top right. You will then see a sign-up box where you can enter your e-mail, password and name. The name you use will show up in the UI, and will be part of the filename of the archives you create.
 
 Once you click Sign Up, you will be automatically logged in and ready to start archiving!
 
 You will see an archive called *Your-Name's Archive*.
 
-(A confirmation e-mail will also be sent to you. For now, it is not required to use the service)
+A confirmation e-mail will also be sent to you. For now, it is not required to use the service.
 
 ## Log in
 If you've already signed-up, you can log in with existing credentials. You can also request a password reset if needed.
 
 ## Archives
-Once you've logged in, you'll see *Your-Name's Archive*. Click on this link and you'll be taken to your personal archive.
-
-(If others have invited you to join their archive, its possible other archives will appear in the list as well. For Sucho, all data is going in the same place, so we're giving everyone their own archive to make it easier to organize).
+Once you've logged in, you'll see *Your-Name's Archive*. Click on this link and you'll be taken to your personal archive. (If others have invited you to join their archive, its possible other archives will appear in the list as well. For SUCHO, all data is going in the same place, so we're giving everyone their own archive to make it easier to organize).
 
 This will take you to a page with tabs at the top for "Crawls" (where you can see currently active crawls) and "Crawl Templates". Click on "Crawl Templates", which is where you can configure the setup for capturing a website.
 
@@ -48,14 +45,14 @@ Once you've filled out this form, hit the big blue *Save Crawl Template* button 
 
 ### Advanced Options / JSON Editor
 
-You can also click the *Use JSON Editor* toggle, which will show a JSON editor. Here you can enter a custom Browsertrix Crawler config file as JSON.
+You can also click the *Use JSON Editor* toggle, which will show a JSON editor. Here you can enter a custom Browsertrix Crawler config file using JSON syntax.
+
 We don't recommend using this to start, but if you have advanced options, or were previously using Browsertrix Crawler via command-line, you can enter your config here.
 
 ## Monitoring the crawl
 Crawls take 1-2 minutes to start, and you'll be able to see their status on the Archives page. You can click on a crawl to look at the details. On the left-hand tabs, you can click "View Crawl" to watch the web browser(s) and what they're currently capturing.
 
-Currently, the crawl is configured to run 8 browsers, and can be scaled up to 16 or 24 browsers. We suggest starting with 8 and only scaling up if it seems that
-the site can handle this load.
+Currently, the crawl is configured to run 8 browsers, and can be scaled up to 16 or 24 browsers. We suggest starting with 8 and only scaling up if it seems that the site can handle this load.
 
 <img src="/assets/images/browsertrix-cloud-crawl-view.png" width="800px"/>
 
@@ -89,5 +86,4 @@ WACZ files (the web archives produced through this workflow) are already automat
 If a crawl template completes with only 1 page, something went wrong in the crawl template configuration. A common error is using http instead of https, or vice-versa. You can try it again, or otherwise, mark it as incomplete in the SUCHO working spreadsheet and someone else will try it.
 
 ## Limitations
-
 It is not currently possible to stop a crawl, edit the config (for example, to add exclusions) and continue. You can stop or cancel a crawl, but not start it again with different rules.
