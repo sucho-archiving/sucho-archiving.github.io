@@ -137,7 +137,7 @@ Verify the website was captured by uploading the .wacz file to the Webrecorder's
 
 Upload that .wacz file to our [WACZ uploads form](https://forms.gle/N18MxWgoHtPB2xpz8). Make sure to change the Status to "Done" and add info to the Notes field about any errors you encountered and any concerns you have aboaut the quality of the .wacz file. The Quality Control team can verify your lingering questions. 
 
-Once you've submitted the Google Form, your crawl is complete! Thank you for your work.  Please mark in the spreadsheet the row's status as "Submitted," and continue on to the next item.
+Once you've submitted the Google Form, your crawl is complete! Thank you for your work.  Please mark in the spreadsheet the row's status as "Done," and continue on to the next item.
 
 # Common Problems
 
