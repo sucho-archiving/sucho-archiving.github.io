@@ -9,7 +9,8 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
-- Schwartz, Madeleine. ["Ukraine’s ballet dancers are a ‘voice of resistance’ amid a greater struggle"](https://www.nationalgeographic.com/history/article/ukraines-ballet-dancers-are-a-voice-of-resistance-amid-a-greater-struggle). *National Geographic*. March 17, 2022.
+- Stephenson, Heather. ["Preserving Ukraine’s Cultural Heritage Online."](https://now.tufts.edu/articles/preserving-ukraine-s-cultural-heritage-online) *TuftsNow*. March 22, 2022.
+- Schwartz, Madeleine. ["Ukraine’s ballet dancers are a ‘voice of resistance’ amid a greater struggle."](https://www.nationalgeographic.com/history/article/ukraines-ballet-dancers-are-a-voice-of-resistance-amid-a-greater-struggle) *National Geographic*. March 17, 2022.
 - ["V živo iz Ukrajine: kako varovati arhive v času vojne?."](https://reporter.si/clanek/magazin/v-zivo-iz-ukrajine-kako-varovati-arhive-v-casu-vojne-951880) *Reporter.si*. March 17, 2022.
 - Capozucca, Roberta. ["Guerra in Ucraina è catastrofe culturale."](https://www.ilsole24ore.com/art/guerra-ucraina-e-catastrofe-culturale-AEu6lBIB) *Il Sole 24 Ore*. 
 - Häntzschel, Jörg. ["Freiwillige retten ukrainische Kultur im Internet."](https://www.sueddeutsche.de/kultur/ukrainische-kultur-digitale-rettung-1.5548234) *Süddeutsche Zeitung*. March 16, 2022.
@@ -30,15 +31,15 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - Krücken, Markus. ["Kölner Digital-Guru (30) rettet Kulturerbe der Ukraine."](https://www.report-k.de/koelner-digital-guru-30-rettet-kulturerbe-der-ukraine/) *Report-K*. March 9, 2022.
 - Curry, Andrew. [“You can’t get back specimens”: Ukrainian scientists rush to save irreplaceable collections."](https://www.science.org/content/article/you-can-t-get-back-specimens-ukrainian-scientists-rush-save-irreplaceable-collections) *Science*. March 9, 2022.
 - Harding, Luke and Harriet Sherwood. ["Ukrainians in race to save cultural heritage."](https://www.theguardian.com/world/2022/mar/09/ukrainians-in-race-to-save-a-nations-cultural-heritage) *The Guardian*. March 9, 2022.
-- Cook, Stacey Myers. ["OSU Lima Campus Librarians assisting in the efforts to save Ukrainian Online Culture"](https://www.hometownstations.com/news/osu-lima-campus-librarians-assisting-in-the-efforts-to-save-ukrainian-online-culture/article_61f9d2f0-9f30-11ec-ba23-53e6afa09991.html). March 8, 2022.
-- Moyer, Josh. ["Looking to support Ukraine? Here’s how Centre County residents and other Pennsylvanians can help"](https://www.centredaily.com/news/local/community/article258930603.html). *Centre Daily Times* March 2, 2022.
+- Cook, Stacey Myers. ["OSU Lima Campus Librarians assisting in the efforts to save Ukrainian Online Culture."](https://www.hometownstations.com/news/osu-lima-campus-librarians-assisting-in-the-efforts-to-save-ukrainian-online-culture/article_61f9d2f0-9f30-11ec-ba23-53e6afa09991.html) March 8, 2022.
+- Moyer, Josh. ["Looking to support Ukraine? Here’s how Centre County residents and other Pennsylvanians can help."](https://www.centredaily.com/news/local/community/article258930603.html) *Centre Daily Times* March 2, 2022.
 
 
 ## Interviews 
+- ["Die ukrainische Kultur bewahren: Digitale Kunstwerke sichern."](https://www.ndr.de/kultur/kunst/Die-ukrainische-Kultur-bewahren-digitales-Kulturgut-sichern,ukrainischekultur100.html) *NDR Kultur.* March 16, 2022.
 - ["The art world has come under Russia's attack, but the community is fighting back to keep Ukraine's cultural identity alive."](https://www.abc.net.au/news/2022-03-12/russia-ukraine-war-artists-fight-for-cultural-identity/100899202) *ABC News (Australia)*. March 11, 2022.
 - ["Digital archivists race to preserve Ukrainian heritage."](https://www.marketplace.org/shows/marketplace-tech/) *Marketplace Tech, NPR.* March 11, 2022.
 - ["Ukraine: Rettungsaktion für digitales Kulturerbe."](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-scala-aktuelle-kultur/audio-ukraine-rettungsaktion-fuer-digitales-kulturerbe-100.html) *Scala, WDR 5.* March 11, 2022.
-- ["Die ukrainische Kultur bewahren: Digitale Kunstwerke sichern."](https://www.ndr.de/kultur/kunst/Die-ukrainische-Kultur-bewahren-digitales-Kulturgut-sichern,ukrainischekultur100.html) *NDR Kultur.* March 16, 2022.
 
 
 ## Talks
