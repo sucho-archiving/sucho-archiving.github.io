@@ -10,6 +10,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 ## Articles
 - Stephenson, Heather. ["Preserving Ukraine’s Cultural Heritage Online."](https://now.tufts.edu/articles/preserving-ukraine-s-cultural-heritage-online) *TuftsNow*. March 22, 2022.
+- ["Rescuing Music Data: Saving Ukrainian Cultural Heritage Online (SUCHO)."(https://rism.info/electronic_resources/2022/03/22/rescuing-music-data-saving-ukrainian-cultural-heritage-online-sucho.html) *RISM Editorial Center.* March 22, 2022.
 - Schwartz, Madeleine. ["Ukraine’s ballet dancers are a ‘voice of resistance’ amid a greater struggle."](https://www.nationalgeographic.com/history/article/ukraines-ballet-dancers-are-a-voice-of-resistance-amid-a-greater-struggle) *National Geographic*. March 17, 2022.
 - ["V živo iz Ukrajine: kako varovati arhive v času vojne?."](https://reporter.si/clanek/magazin/v-zivo-iz-ukrajine-kako-varovati-arhive-v-casu-vojne-951880) *Reporter.si*. March 17, 2022.
 - Capozucca, Roberta. ["Guerra in Ucraina è catastrofe culturale."](https://www.ilsole24ore.com/art/guerra-ucraina-e-catastrofe-culturale-AEu6lBIB) *Il Sole 24 Ore*. 
