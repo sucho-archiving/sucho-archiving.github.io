@@ -29,6 +29,16 @@ Once you've logged in, you'll see *Your-Name's Archive*. Click on this link and 
 
 This will take you to a page with tabs at the top for "Crawls" (where you can see currently active crawls) and "Crawl Templates". Click on "Crawl Templates", which is where you can configure the setup for capturing a website.
 
+## Selecting a website to crawl
+
+Once you receive access to the SUCHO spreadsheet, before you click on a link and open it in your browser, please read our [security guidelines](https://www.sucho.org/security). To be on the safe side, you may want to backup your personal files stored on your computer.
+
+Go to the Browsertrix tab of the SUCHO working spreadsheet and pick a site to work on that no one has claimed yet. To claim the site, on that row of the spreadsheet, add your name to the ‘Claimed By’ column, and update the ‘Status’ column to ‘in progress.’
+
+To avoid downloading malware, run a security check by copying the link into this [security checker](https://sitecheck.sucuri.net/). A “Medium” risk shouldn’t pose a threat to you if the security check verifies that no “malware” or “injected spam” is detectable on the site.
+
+Prioritize sites with links ending in .ua. Check where they are hosted and focus on sites in Ukraine and environs using [Hosting Checker](https://hostingchecker.com/) or [IP-Lookup](https://www.iplocation.net/ip-lookup). Just because a site shows it is hosted in San Francisco on Cloudflare doesn’t mean it’s not hosted Ukraine. Besides verifying its server location, you might want to double check the site is still live by loading the ‘Collection Url’ in your browser.
+
 ## Configuring crawl templates
 Click the big button that reads *Create New Crawl Template*. This will take you to a form you'll need to fill out. 
 
@@ -66,7 +76,6 @@ Once the crawl is done, the 'View Crawl' link will show you the replay using an 
 
 From the download tab, you can download the WACZ file if you would like to have a copy or test it locally. **Note that you *do not* need to upload it, as it is automatically added to the SUCHO cloud storage.**
 
-
 ## Completing the crawl job
 Verify the website was captured by using the 'View Crawl' link on the crawl page to check the output. Focus on verifying that the main subcomponents of the site were saved, especially pages listed in the navbar. Many links on the site may be external to the domain you preserved, so don't worry if those are broken.
 
@@ -75,7 +84,6 @@ Make sure to add info the Notes field about any errors you encountered and any c
 At this point, your crawl is complete! Thank you for your work.
 
 Please mark in the spreadsheet the row’s status as “Done” and continue on to the next item. 
-
 
 ## Adding more crawl templates
 We recommend that you have no more than 10 crawl templates running at a given time, and that you keep an eye on them to make sure they're successfully running. You can add more crawl templates as crawls complete.
