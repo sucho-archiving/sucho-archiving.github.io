@@ -9,6 +9,8 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Brya, Cindy. ["iSchool alumni play instrumental role in saving Ukranian cultural heritage online"](https://ischool.illinois.edu/news-events/news/2022/03/ischool-alumni-play-instrumental-role-saving-ukranian-cultural-heritage). *UIUC School of Information Sciences*. March 23, 2022.
+- Adams, Caralee. ["Volunteers Rally to Archive Ukrainian Web Sites"](http://blog.archive.org/2022/03/22/volunteers-rally-to-archive-ukrainian-web-sites/). *Internet Archive Blogs*. March 22, 2022.
 - Stephenson, Heather. ["Preserving Ukraine’s Cultural Heritage Online."](https://now.tufts.edu/articles/preserving-ukraine-s-cultural-heritage-online) *TuftsNow*. March 22, 2022.
 - ["Rescuing Music Data: Saving Ukrainian Cultural Heritage Online (SUCHO)."(https://rism.info/electronic_resources/2022/03/22/rescuing-music-data-saving-ukrainian-cultural-heritage-online-sucho.html) *RISM Editorial Center.* March 22, 2022.
 - Schwartz, Madeleine. ["Ukraine’s ballet dancers are a ‘voice of resistance’ amid a greater struggle."](https://www.nationalgeographic.com/history/article/ukraines-ballet-dancers-are-a-voice-of-resistance-amid-a-greater-struggle) *National Geographic*. March 17, 2022.
@@ -39,7 +41,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 ## Interviews 
 - ["Die ukrainische Kultur bewahren: Digitale Kunstwerke sichern."](https://www.ndr.de/kultur/kunst/Die-ukrainische-Kultur-bewahren-digitales-Kulturgut-sichern,ukrainischekultur100.html) *NDR Kultur.* March 16, 2022.
 - ["The art world has come under Russia's attack, but the community is fighting back to keep Ukraine's cultural identity alive."](https://www.abc.net.au/news/2022-03-12/russia-ukraine-war-artists-fight-for-cultural-identity/100899202) *ABC News (Australia)*. March 11, 2022.
-- ["Digital archivists race to preserve Ukrainian heritage."](https://www.marketplace.org/shows/marketplace-tech/) *Marketplace Tech, NPR.* March 11, 2022.
+- ["Digital archivists race to preserve Ukrainian heritage."](https://www.marketplace.org/shows/marketplace-tech/digital-archivists-race-to-preserve-ukrainian-heritage/) *Marketplace Tech, NPR.* March 11, 2022.
 - ["Ukraine: Rettungsaktion für digitales Kulturerbe."](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-scala-aktuelle-kultur/audio-ukraine-rettungsaktion-fuer-digitales-kulturerbe-100.html) *Scala, WDR 5.* March 11, 2022.
 
 
