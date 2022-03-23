@@ -38,7 +38,8 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - Moyer, Josh. ["Looking to support Ukraine? Here’s how Centre County residents and other Pennsylvanians can help."](https://www.centredaily.com/news/local/community/article258930603.html) *Centre Daily Times* March 2, 2022.
 
 
-## Interviews 
+## Interviews / Podcasts
+- Jenny Mathiasson. "[S11E01: Conservation and Conflict](https://thecword.show/2022/03/23/s11e01-conservation-and-conflict/)" (starting 32:08). *The C-Word: The Conservators' Podcast*. March 23, 2022.
 - ["Die ukrainische Kultur bewahren: Digitale Kunstwerke sichern."](https://www.ndr.de/kultur/kunst/Die-ukrainische-Kultur-bewahren-digitales-Kulturgut-sichern,ukrainischekultur100.html) *NDR Kultur.* March 16, 2022.
 - ["The art world has come under Russia's attack, but the community is fighting back to keep Ukraine's cultural identity alive."](https://www.abc.net.au/news/2022-03-12/russia-ukraine-war-artists-fight-for-cultural-identity/100899202) *ABC News (Australia)*. March 11, 2022.
 - ["Digital archivists race to preserve Ukrainian heritage."](https://www.marketplace.org/shows/marketplace-tech/digital-archivists-race-to-preserve-ukrainian-heritage/) *Marketplace Tech, NPR.* March 11, 2022.
