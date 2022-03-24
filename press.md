@@ -9,7 +9,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
-- van Ringelestijn, Tonie. ["Musea Oekraïne digitaal gered: 'Voordat de servers plat gaan'"](https://www.rtlnieuws.nl/tech/artikel/5294976/oekraine-digitaal-erfgoed-musea-archivering). *RTL Nieuws*. March 24, 2022.
+- van Ringelestijn, Tonie. ["Musea Oekraïne digitaal gered: 'Voordat de servers plat gaan'"](https://www.rtlnieuws.nl/tech/artikel/5294976/oekraine-digitaal-erfgoed-musea-archivering). *BRIGHT*. March 24, 2022.
 - Brya, Cindy. ["iSchool alumni play instrumental role in saving Ukrainian cultural heritage online"](https://ischool.illinois.edu/news-events/news/2022/03/ischool-alumni-play-instrumental-role-saving-ukranian-cultural-heritage). *UIUC School of Information Sciences*. March 23, 2022.
 - Adams, Caralee. ["Volunteers Rally to Archive Ukrainian Web Sites"](http://blog.archive.org/2022/03/22/volunteers-rally-to-archive-ukrainian-web-sites/). *Internet Archive Blogs*. March 22, 2022.
 - Stephenson, Heather. ["Preserving Ukraine’s Cultural Heritage Online."](https://now.tufts.edu/articles/preserving-ukraine-s-cultural-heritage-online) *TuftsNow*. March 22, 2022.
