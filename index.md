@@ -2,6 +2,7 @@
 layout: default
 permalink: /
 title: Saving Ukrainian Cultural Heritage Online
+title_image: "https://www.sucho.org/assets/images/sucho-poster-landscape-medium.jpg"
 ---
 
 # Saving Ukrainian Cultural Heritage Online (SUCHO)
