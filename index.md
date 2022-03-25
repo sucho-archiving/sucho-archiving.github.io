@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 title: Saving Ukrainian Cultural Heritage Online
-description: SUCHO is saving digitised culture from Ukrainian museums, libraries and archives.
+description: We are saving digitised collections from Ukrainian museums, libraries and archives.
 image: /assets/images/sucho-poster-landscape-medium.jpg
 ---
 
