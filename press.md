@@ -41,6 +41,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Interviews / Podcasts
+- ["How a Collective is Saving Ukainian Cultural Treasurers"](https://www.youtube.com/watch?v=TdXocTUfmbU). *DW Shift*. March 26, 2022.
 - Mathiasson, Jenny. "[S11E01: Conservation and Conflict](https://thecword.show/2022/03/23/s11e01-conservation-and-conflict/)" (starting 32:08). *The C-Word: The Conservators' Podcast*. March 23, 2022.
 - ["Die ukrainische Kultur bewahren: Digitale Kunstwerke sichern."](https://www.ndr.de/kultur/kunst/Die-ukrainische-Kultur-bewahren-digitales-Kulturgut-sichern,ukrainischekultur100.html) *NDR Kultur.* March 16, 2022.
 - ["The art world has come under Russia's attack, but the community is fighting back to keep Ukraine's cultural identity alive."](https://www.abc.net.au/news/2022-03-12/russia-ukraine-war-artists-fight-for-cultural-identity/100899202) *ABC News (Australia)*. March 11, 2022.
