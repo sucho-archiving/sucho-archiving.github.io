@@ -12,7 +12,7 @@ image: /assets/images/sucho-poster-landscape-medium.jpg
 
 We are a group of more than 1,300 cultural heritage professionals – librarians, archivists, researchers, programmers – working together to identify and archive at-risk sites, digital content, and data in Ukrainian cultural heritage institutions while the country is under attack. We are using a combination of technologies to crawl and archive sites and content, including the [Internet Archive’s Wayback Machine](https://archive.org/web/), the [Browsertrix crawler](https://github.com/webrecorder/browsertrix-crawler) and the [ArchiveWeb.page browser extension and app](https://archiveweb.page/) of the [Webrecorder project](https://webrecorder.net/). So far we have saved more than 20TB of scanned documents, artworks and many other digital materials from 3,000+ websites of Ukrainian museums, libraries and archives.
 
-**Для людей в Україні**: [Що робить SUCHO (Saving Ukrainian Cultural Heritage Online)?](/ukraina)
+**Для людей в Україні**: [Що робить SUCHO?](/ukraina)
 
 **March 8, 2022 press release:** [Volunteers Unite to Archive Ukrainian Cultural Heritage](press-release-20220308-volunteers-unite)
 
