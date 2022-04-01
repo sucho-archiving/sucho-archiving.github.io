@@ -22,16 +22,16 @@ You'll need to wait until we add you to the Slack to actually get started, but i
 
 **Visit our [OpenCollective page](https://opencollective.com/sucho) to support us financially.**
 
-SUCHO and [WebRecorder](https://webrecorder.net/) are  looking raising funds for a **Browsertrix support engineer** position to actively help volunteers troubleshoot web archiving work, and improve the open-source tools and documentation. Our aim is to put web archiving in the hands of anyone who wants to participate in preserving digital cultural heritage.
+SUCHO and [WebRecorder](https://webrecorder.net/) are raising funds for a **Browsertrix support engineer** position to actively help volunteers troubleshoot web archiving work, and improve the open-source tools and documentation. Our aim is to put web archiving in the hands of anyone who wants to participate in preserving digital cultural heritage.
 Additionally, we are looking for monthly supporters to help us rent a 100TB storage server from where we can back up the data we have collected to academic institutions around the world for safekeeping.
 
-# Contact us
+# About us
 
 ## Coordinators
 - [Quinn Dombrowski](https://twitter.com/quinnanya), Stanford University
 - [Anna E. Kijas](https://twitter.com/anna_kijas), Tufts University
 - [Sebastian Majstorovic](https://twitter.com/storytracer), Austrian Centre for Digital Humanities and Cultural Heritage
 
-You can reach all the admins at [info@sucho.org](mailto:info@sucho.org). If you are a Ukrainian scholar who needs free storage for your research materials, please email [storage@sucho.org](mailto:storage@sucho.org) to be connected with our partners at the Harvard Ukrainian Research Institute and the University of Alberta.
+You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org). If you are a Ukrainian researcher or institution who needs backup storage for your research materials or collections, please email [storage@sucho.org](mailto:storage@sucho.org) to be connected with our partners at the Harvard Ukrainian Research Institute and the University of Alberta.
 
 Please see our [contributors](/contributors) page for more info on the entire team and our financial supporters!
