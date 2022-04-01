@@ -14,6 +14,8 @@ We are a group of cultural heritage professionals – librarians, archivists, re
 
 **Для людей в Україні**: [Що робить SUCHO (Saving Ukrainian Cultural Heritage Online)?](/ukraina)
 
+**Supporting SUCHO**: SUCHO and [WebRecorder](https://webrecorder.net/) are currently raising funds for a *WebRecorder support engineer* position to actively help volunteers troubleshoot web archiving work, and improve the open-source tools and documentation to put web archiving in the hands of anyone who wants to participate in preserving digital cultural heritage. For details, see our [OpenCollective page](https://opencollective.com/sucho).
+
 **March 8, 2022 press release:** [Volunteers Unite to Archive Ukrainian Cultural Heritage](press-release-20220308-volunteers-unite)
 
 
