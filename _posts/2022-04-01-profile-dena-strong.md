@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Volunteer Profile: Dena Strong
+title: Volunteer Profile - Dena Strong
 author: Megan Zembower
 category: profile
 ---
