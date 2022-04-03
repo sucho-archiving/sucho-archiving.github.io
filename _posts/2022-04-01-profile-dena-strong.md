@@ -9,7 +9,7 @@ category: profile
 
 Dena Strong, Senior Information Design Specialist at the University of Illinois at Urbana Champaign, has her master's degree in Library and Information Sciences as well as a dual bachelor's degree in English and Technical Theatre. What's been most helpful for her involvement in SUCHO so far? "The technical theatre degree has been really valuable here, in many more ways than you would expect – in terms of improvising things on the go, high speed information, figure it out on the fly, go go go," Strong stated. "I've always had this tension living in my head between high speed improv and long-term digital preservation." Working with SUCHO has been the perfect opportunity for her to balance said tension.
   
-<img src="/assets/images/DenaStrongHeadshot.jpg" width="200px" style="float:right;" title="Credit: Photograph by Dena Strong">
+<img src="/assets/images/DenaStrongHeadshot.jpg" width="200px" style="float:right;" alt="photo of Dena Strong" title="Credit: Photograph by Dena Strong">
   
 Dena Strong has worked in Technology Services at the University of Illinois at Urbana Champaign for twenty years. She began volunteering with SUCHO in early March. 
 
@@ -17,9 +17,10 @@ When she received an email call for volunteers in early March, Strong felt empow
 
 The Google Colab interface that developed from this collaboration has allowed volunteers across the globe to gather URLs from hundreds of DSpace repositories for contribution to the Browsertrix and Internet Archive collections. That was just one morning out of two weeks of mostly twelve-hour days; the rest of the time, she was designing and documenting workflows and carrying information across fifteen channels of volunteers. Additionally, Dena devoted much of her time to training people across several continents on processes that may have been invented less than a day earlier, or custom-developed tools that may have had a new release that same day.
 
-<img src="/assets/images/icon-mother-of-god.jpg" width="200px" style="float:left;" title="Credit: Image courtesy of monasteries.org.ua">
+<img src="/assets/images/icon-mother-of-god.jpg" width="400px" style="float:left;" class="center" alt="image of Ion Mother of God monastery" title="Credit: Image courtesy of monasteries.org.ua">
 
-Throughout her work with SUCHO, Strong discovered the vast number and rich histories of monasteries and convents throughout Ukraine. Pictured above is the Icon of the Mother of God Convent in the Kyiv region. </p>
+Throughout her work with SUCHO, Strong discovered the vast number and rich histories of monasteries and convents throughout Ukraine. Pictured above is the Icon of the Mother of God Convent in the Kyiv region.
+
 For Strong, this digital conservation provides an important safeguard for tangible cultural patrimony, well-demonstrated in the reconstruction of Notre Dame based on the 3D scans of an art historian. Perhaps, the web records collected through SUCHO will help with similar preservation efforts across Ukraine. "We have terabytes of records – we don't know all that we have captured so far, but we must capture it: because what the bombs don't take out now, unpaid [web] hosting providers may take out next month. And people who are physically there have got much higher concerns than what is happening to their websites – but this is a thing that I can do, from where I am, with what I can physically do – I can take care of this for them, so that they can focus on staying alive and preserving their physical treasures in the museums and their libraries as much as possible." 
 
 Any advice for others, who also want to help from a distance? "I've heard some people say 'Oh I don't know, I would love to be able to help but I can't' – trust me, you can. I can't even read Cyrillic. Chris [Millson]'s 6-year-old daughter was running Browsertrix Cloud rescues. All you really need is enthusiasm, eyeballs, and a web browser. Really, for anybody who wants to help, we can find something for you to do." 
