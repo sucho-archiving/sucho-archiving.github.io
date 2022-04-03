@@ -25,4 +25,4 @@ For Strong, this digital conservation provides an important safeguard for tangib
 
 Any advice for others, who also want to help from a distance? "I've heard some people say 'Oh I don't know, I would love to be able to help but I can't' – trust me, you can. I can't even read Cyrillic. Chris [Millson]'s 6-year-old daughter was running Browsertrix Cloud rescues. All you really need is enthusiasm, eyeballs, and a web browser. Really, for anybody who wants to help, we can find something for you to do." 
 
-*Learn more about volunteering and become involved in SUCHO [here](https://www.sucho.org/orientation).*
+*Learn more about volunteering and become involved in SUCHO on the [site's orientation page](https://www.sucho.org/orientation).*
