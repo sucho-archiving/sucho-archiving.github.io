@@ -17,7 +17,7 @@ When she received an email call for volunteers in early March, Strong felt empow
 
 The Google Colab interface that developed from this collaboration has allowed volunteers across the globe to gather URLs from hundreds of DSpace repositories for contribution to the Browsertrix and Internet Archive collections. That was just one morning out of two weeks of mostly twelve-hour days; the rest of the time, she was designing and documenting workflows and carrying information across fifteen channels of volunteers. Additionally, Dena devoted much of her time to training people across several continents on processes that may have been invented less than a day earlier, or custom-developed tools that may have had a new release that same day.
 
-<img src="/assets/images/icon-mother-of-god.jpg" width="400px" style="float:left;" class="center" alt="image of Ion Mother of God monastery" title="Credit: Image courtesy of monasteries.org.ua">
+<img src="/assets/images/icon-mother-of-god.jpg" width="400px" style="float:left;padding-right:25px" class="center" alt="image of Ion Mother of God monastery" title="Credit: Image courtesy of monasteries.org.ua">
 
 Throughout her work with SUCHO, Strong discovered the vast number and rich histories of monasteries and convents throughout Ukraine. Pictured above is the Icon of the Mother of God Convent in the Kyiv region.
 
