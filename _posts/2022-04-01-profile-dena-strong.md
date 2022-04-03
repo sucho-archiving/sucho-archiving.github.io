@@ -9,7 +9,7 @@ category: profile
 
 Dena Strong, Senior Information Design Specialist at the University of Illinois at Urbana Champaign, has her master's degree in Library and Information Sciences as well as a dual bachelor's degree in English and Technical Theatre. What's been most helpful for her involvement in SUCHO so far? "The technical theatre degree has been really valuable here, in many more ways than you would expect – in terms of improvising things on the go, high speed information, figure it out on the fly, go go go," Strong stated. "I've always had this tension living in my head between high speed improv and long-term digital preservation." Working with SUCHO has been the perfect opportunity for her to balance said tension.
   
-<img src="/assets/images/DenaStrongHeadshot.jpg" width="200px" style="float:right;" alt="photo of Dena Strong" title="Credit: Photograph by Dena Strong">
+<img src="/assets/images/DenaStrongHeadshot.jpg" width="200px" style="float:right;padding-left:25px" alt="photo of Dena Strong" title="Credit: Photograph by Dena Strong">
   
 Dena Strong has worked in Technology Services at the University of Illinois at Urbana Champaign for twenty years. She began volunteering with SUCHO in early March. 
 
