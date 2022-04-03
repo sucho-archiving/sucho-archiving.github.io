@@ -55,6 +55,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Jackie Davis, MLIS (ret.)
 - Taylor Diken
 - Colleen Sheehan Deatherage, St. Stephen's College
+- Sam Dombrowski, Malcolm X Elementary
 - Kaylen Dwyer, Institute for Digital Research in the Humanities, University of Kansas
 - Catherine Emerson, National University of Ireland Galway
 - Claudia Engel
@@ -86,6 +87,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Franziska Klemstein, Bauhaus-Universität Weimar
 - Georgii Korotkov, Stanford University
 - Ilya Kreymer, Webrecorder Software
+- Mara Kurlandsky
 - Amanda Leary, University of Notre Dame
 - Zoe LeBlanc, UIUC
 - Christine Lee
@@ -96,6 +98,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Tori Maches
 - Dawson MacPhee, University of Guelph
 - Dennette McDermott, DMA Professor of Music Northwestern State Univ of Louisiana
+- Roksi McVi
 - Valerie A. Metzler
 - Barbara Miller
 - Chris Millson, University of Manchester
@@ -111,7 +114,10 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Sheilah O'Connor, Librarian
 - Inna Orly
 - Gregory Palermo, Brandeis University
+- Martin Malmsten
 - Katelin Marit Parsons, Árni Magnússon Institute for Icelandic Studies (Reykjavík)
+- Alissa McLean
+- Emily McLean
 - Joakim Philipson, Stockholm University
 - Carrie Pirmann, Bucknell University
 - Liz Pringi
@@ -119,10 +125,12 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Anna Rakityanskaya, Harvard University
 - Justin Richards -  SEARCH, Inc.
 - Alexander Roberts
+- Christina Sabol, MHP, Architectural Historian/Historic Preservationist
 - Emanuele Sanna
 - Alex Savage
 - Lesia Savedchuk
 - Tina Schneider, The Ohio State University
+- Katharina Schmid, Bayerische Staatsbibliothek, München
 - Andreas Segerberg, University of Gothenburg and ESSolutions 
 - Amanda Simmons
 - Giuli Šlapkova
