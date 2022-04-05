@@ -9,6 +9,8 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Florea, Christina. [Opinion: Putin knows that controlling history is the key to total power](https://edition.cnn.com/2022/04/04/opinions/putin-destroying-ukraine-history-archives-florea/index.html). *CNN*, April 4, 2022.
+- Serrano, Jody. [How to Stop Ukrainian Websites From Vanishing During War](https://gizmodo.com/how-sucho-stops-ukrainian-websites-vanishing-in-russias-1848737441). *Gizmodo*. April 2, 2022.
 - Fitzwilliam, Helen. ["Saving Ukraine's art and soul"](https://www.chathamhouse.org/publications/the-world-today/2022-04/saving-ukraines-art-and-soul). *Chatham House*. April 1, 2022.
 - Patin, Katia. ["The race to save everything as war threatens the internet in Ukraine and Russia](https://www.codastory.com/authoritarian-tech/destruction-internet-russia-ukraine/). *.coda*. March 31, 2022.
 - Röshammar, Martin. [Ukrainskt kulturarv räddas med svensk hjälp](https://www.biblioteksbladet.se/nyheter/internationellt/ukrainskt-kulturarv-sparas-med-svensk-hjalp/) *Biblioteks Bladet* . March 31, 2022.
