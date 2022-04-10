@@ -9,6 +9,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Markovich, Ally. ["The Berkeley archivist on a mission to save Ukrainian digital history￼"](https://www.berkeleyside.org/2022/04/10/berkeley-archivist-mission-save-ukrainian-digital-history). *Berkeleyside*. April 10, 2022.
 - Verma, Pranshu. ["Meet the 1,300 librarians racing to back up Ukraine’s digital archives."](https://www.washingtonpost.com/technology/2022/04/08/ukraine-digital-history/) *Washington Post*. April 8, 2022.
 - McQuaid, Cate. ["As the war unfolds, this Boston Public Library curator is helping preserve Ukraine’s cultural treasures."](https://www.bostonglobe.com/2022/04/07/arts/boston-public-library-curator-is-training-cultural-heritage-first-responders-protect-historical-treasures) *Boston Globe*. April 8, 2022.
 - Ting-Wei, Lin. ["3000個網站的備份之戰，她們的另類烏克蘭救援."](https://www.sehseh.world/article/4276068) *Sehseh*. April 7, 2022.
