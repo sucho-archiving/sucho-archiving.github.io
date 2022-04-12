@@ -10,7 +10,7 @@ image: /assets/images/sucho-poster-landscape-medium.jpg
 
 <img src="/assets/images/suchoposter-small.jpg" width="200px" style="float:right;" title="Credit: Vlad Kholodnyi (@kholodnyi_vlad)">
 
-We are a group of more than 1,300 cultural heritage professionals – librarians, archivists, researchers, programmers – working together to identify and archive at-risk sites, digital content, and data in Ukrainian cultural heritage institutions while the country is under attack. We are using a combination of technologies to crawl and archive sites and content, including the [Internet Archive’s Wayback Machine](https://archive.org/web/), the [Browsertrix crawler](https://github.com/webrecorder/browsertrix-crawler). So far we have saved more than 20TB of scanned documents, artworks and many other digital materials from 2,500+ websites of Ukrainian museums, libraries and archives.
+We are a group of more than 1,300 cultural heritage professionals – librarians, archivists, researchers, programmers – working together to identify and archive at-risk sites, digital content, and data in Ukrainian cultural heritage institutions while the country is under attack. We are using a combination of technologies to crawl and archive sites and content, including the [Internet Archive’s Wayback Machine](https://archive.org/web/), the [Browsertrix crawler](https://github.com/webrecorder/browsertrix-crawler). So far we have saved more than 30TB of scanned documents, artworks and many other digital materials from 3,500+ websites of Ukrainian museums, libraries and archives.
 
 **Visit our [OpenCollective page](https://opencollective.com/sucho) to support us financially.**
 
