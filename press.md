@@ -9,6 +9,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Gollom, Mark. ["Canadian archivists go down the digital rabbit hole to help save Ukrainian culture"](https://www.cbc.ca/news/world/ukraine-digital-cultural-archives-librarians-servers-1.6417367). *CBC*. April 13, 2022.
 - Farooqui, Salman. ["With Ukraine’s digital history risking erasure, Canadians join efforts to preserve it"](https://www.theglobeandmail.com/canada/article-canadians-join-global-efforts-to-save-ukraines-digital-archives). *The Globe and Mail*. April 11, 2022.
 - Kiebuzinski, Ksenya. ["Libraries around the world are helping safeguard Ukrainian books and culture"](https://theconversation.com/libraries-around-the-world-are-helping-safeguard-ukrainian-books-and-culture-179525). *The Conversation*. April 10, 2022.
 - Markovich, Ally. ["The Berkeley archivist on a mission to save Ukrainian digital history￼"](https://www.berkeleyside.org/2022/04/10/berkeley-archivist-mission-save-ukrainian-digital-history). *Berkeleyside*. April 10, 2022.
