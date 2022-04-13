@@ -54,6 +54,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Interviews / Podcasts
+- [Ottawa At Work - Carrie Pirmann Interview "If the print and digital copies are destroyed, that piece of history is gone forever"](https://omny.fm/shows/580-cfra/ottawa-at-work-carrie-pirmann-interview-if-the-pri). *580 CFRA - Omny.fm*. April 13, 2022.
 - Schwartz, Elin. ["Svenskar sparar ner Ukrainas internet: ”Vill rädda digitala kulturarvet”"](https://www.svt.se/kultur/har-dammsugs-ukrainska-internet-fran-goteborg-vill-radda-det-digitala-kulturarvet) *SVT Nyheter*. April 11, 2022.
 - Kranz, Oliver. ["Krieg und Frieden / Positionen zur Zeit"](https://www.rbb-online.de/rbbkultur/podcasts/krieg-und-frieden/). *RBB Kultur*. March 28, 2022.
 - Svensson, Marcus. ["Svenskarnas insats i kriget: Andreas räddar Ukrainas internet"](https://sverigesradio.se/artikel/svenskarnas-insats-i-kriget-andreas-raddar-ukrainas-internet). *Sveriges Radio*. March 28, 2022.
