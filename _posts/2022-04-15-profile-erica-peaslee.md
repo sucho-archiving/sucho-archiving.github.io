@@ -9,7 +9,7 @@ It seems quite fortuitous that, after a social media hiatus, Erica Peaslee wound
 
 With a background in history and art history – alongside current coursework in terrorism studies – Peaslee saw this as an important opportunity to channel her interests and leverage her experience in heritage risk management. Previously, Peaslee has done archival and curatorial work in museums and now serves in an administrative role at a emergency management firm in Texas. Initially, Peaslee thought that her background in archives management (along with her knowledge of Cyrillic) would help her to contribute to SUCHO’s efforts involving Browsertrix, but after being involved in the project for about a week, she was appointed to the position of Situation Monitoring Coordinator. Peaslee says that in this capacity, her work with SUCHO overlaps significantly with her professional path, where, in addition to administrative work and applying her museum expertise, she performs analyses – including analyzing threats of domestic extremism.
 
-<img src="/assets/images/donetsk-local-history-museum.png” width="400px" style="float:left;padding-right:25px" alt="image from title="Credit: Photograph courtesy of the Donetsk Regional Local History Museum"> 
+<img src="/assets/images/donetsk-local-history-museum.jpg" width="400px" style="float:left;padding-right:25px" alt="image from" title="Credit: Photograph courtesy of the Donetsk Regional Local History Museum"> 
 
 ***Figure 1**: While doing sweeps of smaller museum websites throughout Ukraine, Peaslee has been fascinated by the many unique forms of cultural expression preserved within these institutions. Pictured here is an exhibition at the Donetsk Regional Local History Museum on the region's history of resistance in the 20th century.*
 
@@ -19,7 +19,7 @@ Now, for SUCHO, Peaslee helps to prioritize Ukrainian regions and cultural herit
 
 The rapid escalation of the situation in Ukraine is the biggest change from Peaslee’s previous scholarship on cultural heritage (including her thesis on Nazi art theft in France). When reviewing news images, she employs her analytical mindset to scour the background of images for museums and heritage institutions. These same scenes, though, act as a powerful reminder of the human component of this war. “You quickly realize you’re dealing with a very momentous and violent occasion. I’m so used to having researched cultural heritage being used as a violent measure in the past, in wars throughout history. And although we hear about it and we learn about how bad [the violence] got, it was already filtered. So what we’re doing now is - it’s unfiltered.” Studying the violence depicted in the news, Peaslee is reminded of the conviction that led her down this career path: that cultural heritage is a human right - which, unfortunately, also makes it a vulnerable target of violence and terrorism. 
 
-<img src="/assets/images/IMG_5903.jpg" width="200px" style=float:right;padding-left25px" class="center" alt="Headshot of Erica Peaslee" title="Credit: Photograph by Erica Peaslee">
+<img src="/assets/images/peaslee-photo.jpg" width="200px" style="float:right;padding-left25px" class="center" alt="Headshot of Erica Peaslee" title="Credit: Photograph by Erica Peaslee">
 
 ***Figure 2**: Her involvement in SUCHO has led Peaslee in unexpected directions - currently, she is attempting to transliterate old church Slovanic found in the music book of Lavra, the large cathedral in Kyiv.*
 
