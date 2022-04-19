@@ -45,6 +45,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Ilaria Bortot
 - Kostyantyn Bondarenko, Ukrainian Research Institute, Harvard University
 - Robin Burke, University of Colorado Boulder
+- Karen Butcher, University of Brighton
 - Yuri Cantrell
 - Elisa Cecchetto, Bayerische Staatsbibliothek, München
 - Sharon Cheslow
@@ -132,6 +133,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Tina Schneider, The Ohio State University
 - Katharina Schmid, Bayerische Staatsbibliothek, München
 - Andreas Segerberg, University of Gothenburg and ESSolutions 
+- Masha Semashyna, Central European University, Budapest/Vienna
 - Amanda Simmons
 - Giuli Šlapkova
 - Agata Sobczak, Leo Baeck Institute 
@@ -148,8 +150,9 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Emmy Tither
 - William Vaughan, Special Collections, University College London
 - Iryna Voloshyna, Department of Folklore and Ethnomusicology, Indiana University
-- Andreas Wagner, MPI for Legal History and Legal Theory/Academy of Sciences and Literature | Mainz
+- Andreas Wagner, MPI for Legal History and Legal Theory/Academy of Sciences and Literature, Mainz
 - Cosima Wagner, Freie Universität Berlin, University Library
+- Zach Walton, The Ohio State University
 - Shane Watson, AppState Music Library Manager, University of North Carolina MLIS Student
 - Sophie Wehtje
 - Alex Wermer-Colan, Temple University
