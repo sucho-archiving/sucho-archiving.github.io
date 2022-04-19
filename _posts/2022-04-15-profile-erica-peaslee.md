@@ -9,7 +9,7 @@ It seems quite fortuitous that, after a social media hiatus, Erica Peaslee wound
 
 With a background in history and art history – alongside current coursework in terrorism studies – Peaslee saw this as an important opportunity to channel her interests and leverage her experience in heritage risk management. Previously, Peaslee has done archival and curatorial work in museums and now serves in an administrative role at a emergency management firm in Texas. Initially, Peaslee thought that her background in archives management (along with her knowledge of Cyrillic) would help her to contribute to SUCHO’s efforts involving Browsertrix, but after being involved in the project for about a week, she was appointed to the position of Situation Monitoring Coordinator. Peaslee says that in this capacity, her work with SUCHO overlaps significantly with her professional path, where, in addition to administrative work and applying her museum expertise, she performs analyses – including analyzing threats of domestic extremism.
 
-<img src="/assets/images/donetsk-local-history-museum.jpg" width="400px" style="float:left;padding-right:25px" alt=" title="Credit: Photograph courtesy of the Donetsk Regional Local History Museum"> 
+<img src="/assets/images/donetsk-local-history-museum.jpg" width="400px" style="float:left;padding-right:25px" alt=" title="Credit: Photograph courtesy of the Donetsk Regional Local History Museum">
 
 ***Figure 1**: While doing sweeps of smaller museum websites throughout Ukraine, Peaslee has been fascinated by the many unique forms of cultural expression preserved within these institutions. Pictured here is an exhibition at the Donetsk Regional Local History Museum on the region's history of resistance in the 20th century.*
 
