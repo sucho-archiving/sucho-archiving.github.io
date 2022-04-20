@@ -55,6 +55,9 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Interviews / Podcasts
+- [Berkeley Woman Among Group Preserving Ukraine's History](https://www.nbcbayarea.com/news/local/berkeley-woman-among-group-preserving-ukraines-history/2863069/). *NBC Bay Area*. April 13, 2022.
+- [SUCHO: residente de la Bahía crea proyecto para salvar el patrimonio cultural ucraniano](https://www.telemundoareadelabahia.com/noticias/local/sucho-residente-de-la-bahia-crea-proyecto-para-salvar-el-patrimonio-cultural-ucraniano/2218528/). *Telemundo Area de la Bahía*. April 13, 2022.
+- [Berkeley Woman Leads Effort To Help Save Ukraine’s Digital History Amid Russian Attacks](https://sanfrancisco.cbslocal.com/2022/04/13/ukraine-saving-digital-history-sucho-project-berkeley/). *CBS SF BayArea*. April 13, 2022.
 - [Ottawa At Work - Carrie Pirmann Interview "If the print and digital copies are destroyed, that piece of history is gone forever"](https://omny.fm/shows/580-cfra/ottawa-at-work-carrie-pirmann-interview-if-the-pri). *580 CFRA - Omny.fm*. April 13, 2022.
 - Schwartz, Elin. ["Svenskar sparar ner Ukrainas internet: ”Vill rädda digitala kulturarvet”"](https://www.svt.se/kultur/har-dammsugs-ukrainska-internet-fran-goteborg-vill-radda-det-digitala-kulturarvet) *SVT Nyheter*. April 11, 2022.
 - Kranz, Oliver. ["Krieg und Frieden / Positionen zur Zeit"](https://www.rbb-online.de/rbbkultur/podcasts/krieg-und-frieden/). *RBB Kultur*. March 28, 2022.
