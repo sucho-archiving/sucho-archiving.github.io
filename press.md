@@ -55,6 +55,8 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Interviews / Podcasts
+- [Ottawa woman helps in the effort to save digitized Ukrainian cultural and historic content](https://www.cbc.ca/listen/live-radio/1-92-all-in-a-day/clip/15907873-ottawa-woman-helps-effort-save-digitized-ukrainian-cultural). *All in a Day with Alan Neal on CBC*. April 21, 2022.
+- [Saving digital history: U of A librarian part of global effort to preserve Ukrainian culture amid Russian invasion](https://edmonton.ctvnews.ca/saving-digital-history-u-of-a-librarian-part-of-global-effort-to-preserve-ukrainian-culture-amid-russian-invasion-1.5869573). *CTV News*. April 20, 2022.
 - [Berkeley Woman Among Group Preserving Ukraine's History](https://www.nbcbayarea.com/news/local/berkeley-woman-among-group-preserving-ukraines-history/2863069/). *NBC Bay Area*. April 13, 2022.
 - [SUCHO: residente de la Bahía crea proyecto para salvar el patrimonio cultural ucraniano](https://www.telemundoareadelabahia.com/noticias/local/sucho-residente-de-la-bahia-crea-proyecto-para-salvar-el-patrimonio-cultural-ucraniano/2218528/). *Telemundo Area de la Bahía*. April 13, 2022.
 - [Berkeley Woman Leads Effort To Help Save Ukraine’s Digital History Amid Russian Attacks](https://sanfrancisco.cbslocal.com/2022/04/13/ukraine-saving-digital-history-sucho-project-berkeley/). *CBS SF BayArea*. April 13, 2022.
