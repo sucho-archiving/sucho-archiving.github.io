@@ -10,7 +10,7 @@ The SUCHO Web Archives are publicly accessible as a dataset on the AWS OpenData 
 
 ## Step 1: Check the Open Data registry
 
-Check the [SUCHO entry of the AWS Open Data registry](https://registry.opendata.aws/sucho/) for the description of the dataset and the S3 bucket name.
+Check the [SUCHO entry of the AWS Open Data registry](https://registry.opendata.aws/sucho/) for the description of the dataset and the S3 bucket name, which is `sucho-opendata`.
 
 ## Step 2: Download and install the AWS CLI
 
