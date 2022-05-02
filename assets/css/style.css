@@ -11,3 +11,7 @@
   text-overflow: clip;
   overflow: hidden;
 }
+
+.main-content a {
+  white-space: normal;
+}
