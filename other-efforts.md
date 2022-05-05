@@ -15,3 +15,4 @@ These are other current initiatives that we know about. If you're running one th
 - Internet Archive Global Events: discussion is under way for a [web archiving project on the war in Ukraine](https://archive-it.org/home/IAGlobalEvents).
 - American Folklore Society: backups of research and collection data for folklorists, ethnologists, and heritage institutions in Ukraine. We welcome colleagues in need to email: storage@sucho.org.
 - University of Alberta's U-ART project: data backup for archival institutions, research institutions, individual scholars in all disciplines. [Contact U-ART](https://docs.google.com/forms/d/e/1FAIpQLSfPMKZkTizOJsa4mj1HSmsB7fb07SbnHjjylYOmfENtluPBeg/viewform?usp=send_form).
+- ["Backup Ukraine"](https://poly.cam/ukraine) project by the Danish UNESCO National Commission and Blue Shield Denmark. Volunteers can digitally preserve important architecture, landmarks, and monuments using an app that creates a 3D scan.
