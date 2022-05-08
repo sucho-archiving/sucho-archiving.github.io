@@ -11,6 +11,7 @@ After a week of being involved in the project, Martin focused her efforts on coo
 When asked about the importance of conserving cultural heritage in this way, Martin notes the urgency of the war in Ukraine and the importance of keeping and maintaining digital records. “We put a lot of stuff on the web, assuming that once it’s on the internet, it stays there, but that’s not true - {information} doesn’t just live on the web; it doesn’t just stay there. I think this is an important outcome of SUCHO - it’s showing how impermanent some of these things are and we don’t give enough thought up front to sustaining and maintaining these sites.” 
 
 <img src="/assets/images/Polyphony_Project_Image.png" width="400px" style="float: center;padding-left:50px" alt="Screengrab image of the Polyphony Project website" title="Image Courtesy of the Polyphony Project">
+
 ***Figure 1:** One of the first sites that Martin collected was the Polyphony Project, a collection of Ukrainian folk songs sung by individuals across Ukraine. Recently, she's enjoyed listening to the site while working, a reminder of the importance of collecting heritage in this way.*
 
 
