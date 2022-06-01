@@ -61,7 +61,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Interviews / Podcasts
-- [Saving Ukrainian Heritage: Ep 1: Data Rescue!](https://www.npr.org/podcasts/811625591/augmented-humanity) *Augmented Humanity*. May 2, 2022.
+- [Saving Ukrainian Heritage: Episodes 1 to 4](https://www.npr.org/podcasts/811625591/augmented-humanity) *Augmented Humanity*. May 2 - 23, 2022.
 - [Preserving Ukraine's cultural treasures with digital tools](https://www.pbs.org/newshour/show/preserving-ukraines-cultural-treasures-with-digital-tools). *PBS NewsHour*. April 28, 2002.
 - [Ottawa woman helps in the effort to save digitized Ukrainian cultural and historic content](https://www.cbc.ca/listen/live-radio/1-92-all-in-a-day/clip/15907873-ottawa-woman-helps-effort-save-digitized-ukrainian-cultural). *All in a Day with Alan Neal on CBC*. April 21, 2022.
 - [Saving digital history: U of A librarian part of global effort to preserve Ukrainian culture amid Russian invasion](https://edmonton.ctvnews.ca/saving-digital-history-u-of-a-librarian-part-of-global-effort-to-preserve-ukrainian-culture-amid-russian-invasion-1.5869573). *CTV News*. April 20, 2022.
