@@ -9,6 +9,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Zourou, K., Oikonomou, S. [“Resilience and action-taking: a vision of crowd initiatives for cultural heritage preservation in an armed conflict”](https://web2learn.eu/resilience-and-action-taking-a-vision-of-crowd-initiatives-for-cultural-heritage-preservation-in-an-armed-conflict/). *Web2Learn*. May 30, 2022.
 - Moises, Jürgen. ["Wie die Bayerische Staatsbibliothek in München dabei hilft digitales Kulturgut aus der Ukraine zu schützen"](https://www.sueddeutsche.de/muenchen/muenchen-bayerische-staatsbibliothek-digitales-kulturgut-websites-ukraine-1.5584863). *Süddeutsche Zeitung*. May 16, 2022.
 - Alcala, Ronald. ["Ukraine Symposium - the Ukraine Conflict and the Future of Digital Cultural Property"](https://lieber.westpoint.edu/ukraine-conflict-future-digital-cultural-property/). *Articles of War* blog from Lieber Institute, West Point Academy. May 13, 2022. 
 - Boehringer, Hans. ["Das große Backup"](https://taz.de/Digitale-Kulturgueter-in-der-Ukraine/!5844619/). *Taz*. May 2, 2022.
