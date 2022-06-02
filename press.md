@@ -61,6 +61,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Interviews / Podcasts
+- [Podcast: GLAM International Series – Saving Ukrainian Cultural Heritage Online (SUCHO)](https://museum.bc.ca/brain/glam-international-sucho/). *BC Museums Association*. June 2, 2022.
 - [Saving Ukrainian Heritage: Episodes 1 to 4](https://www.npr.org/podcasts/811625591/augmented-humanity) *Augmented Humanity*. May 2 - 23, 2022.
 - [Preserving Ukraine's cultural treasures with digital tools](https://www.pbs.org/newshour/show/preserving-ukraines-cultural-treasures-with-digital-tools). *PBS NewsHour*. April 28, 2002.
 - [Ottawa woman helps in the effort to save digitized Ukrainian cultural and historic content](https://www.cbc.ca/listen/live-radio/1-92-all-in-a-day/clip/15907873-ottawa-woman-helps-effort-save-digitized-ukrainian-cultural). *All in a Day with Alan Neal on CBC*. April 21, 2022.
