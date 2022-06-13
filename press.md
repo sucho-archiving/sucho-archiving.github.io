@@ -9,9 +9,10 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Jones, Edgar. ["Interview with Volunteers for Saving Ukrainian Cultural Heritage Online (SUCHO)"](https://doi.org/10.1080/01639374.2022.2077496). *Cataloging & Classification Quarterly*. June 8, 2022.
 - Zourou, K., Oikonomou, S. [“Resilience and action-taking: a vision of crowd initiatives for cultural heritage preservation in an armed conflict”](https://web2learn.eu/resilience-and-action-taking-a-vision-of-crowd-initiatives-for-cultural-heritage-preservation-in-an-armed-conflict/). *Web2Learn*. May 30, 2022.
 - Moises, Jürgen. ["Wie die Bayerische Staatsbibliothek in München dabei hilft digitales Kulturgut aus der Ukraine zu schützen"](https://www.sueddeutsche.de/muenchen/muenchen-bayerische-staatsbibliothek-digitales-kulturgut-websites-ukraine-1.5584863). *Süddeutsche Zeitung*. May 16, 2022.
-- Alcala, Ronald. ["Ukraine Symposium - the Ukraine Conflict and the Future of Digital Cultural Property"](https://lieber.westpoint.edu/ukraine-conflict-future-digital-cultural-property/). *Articles of War* blog from Lieber Institute, West Point Academy. May 13, 2022. 
+- Alcala, Ronald. ["Ukraine Symposium - the Ukraine Conflict and the Future of Digital Cultural Property"](https://lieber.westpoint.edu/ukraine-conflict-future-digital-cultural-property/). *Articles of War* blog from Lieber Institute, West Point Academy. May 13, 2022.
 - Boehringer, Hans. ["Das große Backup"](https://taz.de/Digitale-Kulturgueter-in-der-Ukraine/!5844619/). *Taz*. May 2, 2022.
 - Coleman, Flynn. ["Op-Ed: The race to save Ukrainian culture, in the real world and online"](https://www.latimes.com/opinion/story/2022-05-01/ukraine-save-historical-artifacts-russia-war). *Los Angeles Times*. May 1, 2022.
 - Bacchi, Umberto. ["Online army deploys to save Ukraine's art and heritage"](https://news.trust.org/item/20220425155755-jvh6k/). *Thomas Reuters Foundation News*. April 27, 2022.
@@ -37,7 +38,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - ["Rescuing Music Data: Saving Ukrainian Cultural Heritage Online (SUCHO)."](https://rism.info/electronic_resources/2022/03/22/rescuing-music-data-saving-ukrainian-cultural-heritage-online-sucho.html) *RISM Editorial Center.* March 22, 2022.
 - Schwartz, Madeleine. ["Ukraine’s ballet dancers are a ‘voice of resistance’ amid a greater struggle."](https://www.nationalgeographic.com/history/article/ukraines-ballet-dancers-are-a-voice-of-resistance-amid-a-greater-struggle) *National Geographic*. March 17, 2022.
 - ["V živo iz Ukrajine: kako varovati arhive v času vojne?."](https://reporter.si/clanek/magazin/v-zivo-iz-ukrajine-kako-varovati-arhive-v-casu-vojne-951880) *Reporter.si*. March 17, 2022.
-- Capozucca, Roberta. ["Guerra in Ucraina è catastrofe culturale."](https://www.ilsole24ore.com/art/guerra-ucraina-e-catastrofe-culturale-AEu6lBIB) *Il Sole 24 Ore*. 
+- Capozucca, Roberta. ["Guerra in Ucraina è catastrofe culturale."](https://www.ilsole24ore.com/art/guerra-ucraina-e-catastrofe-culturale-AEu6lBIB) *Il Sole 24 Ore*.
 - Häntzschel, Jörg. ["Freiwillige retten ukrainische Kultur im Internet."](https://www.sueddeutsche.de/kultur/ukrainische-kultur-digitale-rettung-1.5548234) *Süddeutsche Zeitung*. March 16, 2022.
 - Plumet, Alexandre. ["Guerre en Ukraine : un millier de «monument men» au secours du patrimoine culturel numérique."](https://www.lefigaro.fr/culture/guerre-en-ukraine-un-millier-de-benevoles-au-secours-du-patrimoine-culturel-numerique-20220316) *Le Figaro*. March 16, 2022.
 - ["SUCHO: Η πρωτοβουλία που προσπαθεί να σώσει τα ψηφιακά αρχεία των ουκρανικών μουσείων."](https://avant-garde.com.cy/articles/nea/news/sucho-i-protoboylia-poy-prospathei-na-sosei-ta-psifiaka-arheia-ton-oykranikon) *Avant Garde*. March 16, 2022.
@@ -74,7 +75,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - Kranz, Oliver. ["Krieg und Frieden / Positionen zur Zeit"](https://www.rbb-online.de/rbbkultur/podcasts/krieg-und-frieden/). *RBB Kultur*. March 28, 2022.
 - Svensson, Marcus. ["Svenskarnas insats i kriget: Andreas räddar Ukrainas internet"](https://sverigesradio.se/artikel/svenskarnas-insats-i-kriget-andreas-raddar-ukrainas-internet). *Sveriges Radio*. March 28, 2022.
 - ["How a Collective is Saving Ukainian Cultural Treasurers"](https://www.youtube.com/watch?v=TdXocTUfmbU). *DW Shift*. March 26, 2022.
-- Mathiasson, Jenny. "[S11E01: Conservation and Conflict](https://thecword.show/2022/03/23/s11e01-conservation-and-conflict/)" (starting 32:08). *The C-Word: The Conservators' Podcast*. March 23, 2022.
+- ["S11E01: Conservation and Conflict](https://thecword.show/2022/03/23/s11e01-conservation-and-conflict/)" (starting 32:08). *The C-Word: The Conservators' Podcast*. March 23, 2022.
 - ["Die ukrainische Kultur bewahren: Digitale Kunstwerke sichern."](https://www.ndr.de/kultur/kunst/Die-ukrainische-Kultur-bewahren-digitales-Kulturgut-sichern,ukrainischekultur100.html) *NDR Kultur.* March 16, 2022.
 - ["The art world has come under Russia's attack, but the community is fighting back to keep Ukraine's cultural identity alive."](https://www.abc.net.au/news/2022-03-12/russia-ukraine-war-artists-fight-for-cultural-identity/100899202) *ABC News (Australia)*. March 11, 2022.
 - ["Digital archivists race to preserve Ukrainian heritage."](https://www.marketplace.org/shows/marketplace-tech/digital-archivists-race-to-preserve-ukrainian-heritage/) *Marketplace Tech, NPR.* March 11, 2022.
@@ -82,4 +83,8 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Talks
+- Segerberg, Andreas. ["SUCHO A global community of volunteers."](https://vimeo.com/719772025) INOS Webinar (Cultural Heritage Threats and the Role of Citizen Engagement Inside and Outside Universities). June 10, 2022.
+- Segerberg, Andreas. "Saving Ukrainian Cultural Heritage Online: An Archiving Race Against Time." CIDOC conference Tallinn. May 26, 2022.
+- Kijas, Anna, Sebastian Majstorovic, Quinn Dombrowski, Dena Strong, Ilya Kreymer, Kim Martin, Erica Peaslee. [Session 17 Q&A: Saving Ukrainian Cultural Heritage Online.](https://www.youtube.com/watch?v=u61_opP9TWk) International Internet Preservation Consortium Web Archiving Conference 2022. May 25, 2022.
+- Segerberg, Andreas. ["SUCHO A global community of volunteers"](https://fai.nu/arsmote-och-temadag-med-internationell-utblick/) (begins at 59:00 in recording). The Society of Archives and Records Management in Sweden (FAI). May 20, 2022.
 - Dombrowski, Quinn. ["Libraries, Laboratories, Back Alleys."](https://archive.org/details/applications-of-web-archive-research-archives-unleashed) (begins 2:54 in recording). *Internet Archive*. March 16, 2022.
