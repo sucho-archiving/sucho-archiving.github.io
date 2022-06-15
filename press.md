@@ -9,6 +9,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Emdén, Fredrik. ["Internationellt nätverk ska rädda Ukrainas digitala kulturarv" Omvärld och Insikt](https://www.raa.se/omvarld-och-insikt/internationella-natverk-ska-radda-ukrainas-digitala-kulturarv/). *Swedish National Heritage Board*. June 22, 2022.
 - Jones, Edgar. ["Interview with Volunteers for Saving Ukrainian Cultural Heritage Online (SUCHO)"](https://doi.org/10.1080/01639374.2022.2077496). *Cataloging & Classification Quarterly*. June 8, 2022.
 - Zourou, K., Oikonomou, S. [“Resilience and action-taking: a vision of crowd initiatives for cultural heritage preservation in an armed conflict”](https://web2learn.eu/resilience-and-action-taking-a-vision-of-crowd-initiatives-for-cultural-heritage-preservation-in-an-armed-conflict/). *Web2Learn*. May 30, 2022.
 - Moises, Jürgen. ["Wie die Bayerische Staatsbibliothek in München dabei hilft digitales Kulturgut aus der Ukraine zu schützen"](https://www.sueddeutsche.de/muenchen/muenchen-bayerische-staatsbibliothek-digitales-kulturgut-websites-ukraine-1.5584863). *Süddeutsche Zeitung*. May 16, 2022.
