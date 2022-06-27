@@ -4,6 +4,7 @@ permalink: /
 title: Saving Ukrainian Cultural Heritage Online
 description: We are saving digitised collections from Ukrainian museums, libraries and archives.
 image: /assets/images/sucho-poster-landscape-medium.jpg
+youtubeID: 7PG1C5_SSd8
 ---
 
 # Saving Ukrainian Cultural Heritage Online (SUCHO)
@@ -18,7 +19,7 @@ We are a group of more than 1,300 cultural heritage professionals – librarians
 
 **Для людей в Україні**: [Що робить SUCHO?](/ukraina)
 
-{% include youtubePlayer.html id=page.7PG1C5_SSd8 %}
+{% include youtubePlayer.html id=page.youtubeID %}
 
 # How can I help?
 
