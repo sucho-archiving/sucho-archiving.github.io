@@ -89,6 +89,6 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 ## Talks
 - Segerberg, Andreas. ["SUCHO A global community of volunteers."](https://vimeo.com/719772025) INOS Webinar (Cultural Heritage Threats and the Role of Citizen Engagement Inside and Outside Universities). June 10, 2022.
 - Segerberg, Andreas. "Saving Ukrainian Cultural Heritage Online: An Archiving Race Against Time." CIDOC conference Tallinn. May 26, 2022.
-- Kijas, Anna, Sebastian Majstorovic, Quinn Dombrowski, Dena Strong, Ilya Kreymer, Kim Martin, Erica Peaslee. [Session 17 Q&A: Saving Ukrainian Cultural Heritage Online.](https://www.youtube.com/watch?v=u61_opP9TWk) International Internet Preservation Consortium Web Archiving Conference 2022. May 25, 2022.
+- Kijas, Anna, Sebastian Majstorovic, Quinn Dombrowski, Dena Strong, Ilya Kreymer, Kim Martin, Erica Peaslee. [Presentations and Q&A for Session 17: Saving Ukrainian Cultural Heritage Online](https://www.youtube.com/playlist?list=PL5AWMCpp1DigoUCo5bxJXEhc3-sRgotI5). International Internet Preservation Consortium Web Archiving Conference 2022. May 25, 2022.
 - Segerberg, Andreas. ["SUCHO A global community of volunteers"](https://fai.nu/arsmote-och-temadag-med-internationell-utblick/) (begins at 59:00 in recording). The Society of Archives and Records Management in Sweden (FAI). May 20, 2022.
 - Dombrowski, Quinn. ["Libraries, Laboratories, Back Alleys."](https://archive.org/details/applications-of-web-archive-research-archives-unleashed) (begins 2:54 in recording). *Internet Archive*. March 16, 2022.
