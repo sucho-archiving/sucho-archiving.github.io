@@ -38,9 +38,9 @@ View the [SUCHO Gallery Suggestions spreadsheet](https://docs.google.com/spreads
    * If there is a local identifier used by the host institution present on the webpage, include this in another input. Describe it as 'Exhibit registration number:'' or 'Object identifier:'' or in whatever way represents the verbiage used by the host institution to define what that local identifier is.
 11. **Contributor**: Add your name to the contributor field to indicate that you created the record. This information will not be shown on the front-end.
 12. Select the **Item Type Metadata** tab: Select 'SUCHO' from the drop-down 'Item Type' list.
-  * **Host institution**: input the host institution's name in the original language first and a transliteration or officially used English name second. (In the case that an organization uses an official English name, e.g. Київський Зоопарк uses the official English name of 'Kyiv Zoo,' include this instead of a transliteration.)
-  * **Institution location**: Indicate the location of the host institution.
-  * **Institution type**: select an option from the drop down menu. If an appropriate type is not in the list, suggest a new type in the “Proposed Institution Type entries” tab of the SUCHO Gallery Suggestions spreadsheet.
+   * **Host institution**: input the host institution's name in the original language first and a transliteration or officially used English name second. (In the case that an organization uses an official English name, e.g. Київський Зоопарк uses the official English name of 'Kyiv Zoo,' include this instead of a transliteration.)
+   * **Institution location**: Indicate the location of the host institution.
+   * **Institution type**: select an option from the drop down menu. If an appropriate type is not in the list, suggest a new type in the “Proposed Institution Type entries” tab of the SUCHO Gallery Suggestions spreadsheet.
 13. Select the **Files** tab
    * Choose file
    * Select the appropriate file from your computer and click 'Open.'' This will then show the file name displayed beside the 'Choose File' option.
