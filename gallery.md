@@ -21,7 +21,7 @@ View the [SUCHO Gallery Suggestions spreadsheet](https://docs.google.com/spreads
 * If you would like to identify an object from an archived website that is not yet on this list, go to the [insert spreadsheet info](insert link) to find a web site with objects that you would like to include in the gallery.
 
   * Select a specific object from an archived website and enter in the information based on the column headings.
-  * For example: if you select the '[Donetsk Academic Regional Drama Theater]( http://www.donetsk-region-theater.in.ua)' as the archived website you would then identify a single object from that website to include in the gallery, such as a 19th c. photograph of the theater](http://www.donetsk-region-theater.in.ua/storya_teatru_).
+  * For example: if you select the '[Donetsk Academic Regional Drama Theater](http://www.donetsk-region-theater.in.ua)' as the archived website you would then identify a single object from that website to include in the gallery, such as a [19th c. photograph of the theater](http://www.donetsk-region-theater.in.ua/storya_teatru_).
 
 ## Create an Item Record
 1. Go to [https://gallery.sucho.org/admin/](https://gallery.sucho.org/admin/)
