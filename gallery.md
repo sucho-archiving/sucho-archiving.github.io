@@ -11,7 +11,7 @@ We are curating web archived content by the SUCHO volunteers in Omeka, an open-s
 If you don't have admin access to the gallery, join the #gallery channel in Slack and request an account. Once an account is created you will receive a confirmation email instructing you to create a passcode and log in. (Check your junk or spam folder if you don't see it in your inbox). You'll then be able to log in at [https://gallery.sucho.org/admin/](https://gallery.sucho.org/admin/).
 
 ## Log in
-If you've already signed-up, you can log in with existing credentials. You can also request a password reset if needed. When you are logged in you will see a dashboard displaying the number of items and other statistics. Click on the "Items" tab in the left sidebar to view all of the item records in Omeka.
+If you've already signed-up, you can log in with existing credentials. You can also request a password reset if needed. When you are logged in you will see a dashboard displaying the number of items and other statistics. Click on the 'Items' tab in the left sidebar to view all of the item records in Omeka.
 
 ## Selecting an object to curate
 View the [SUCHO Gallery Suggestions spreadsheet](https://docs.google.com/spreadsheets/d/1tn830D2kJ__ihWYbrRsZr15Y3LU0pDUXyE2qdiepPSk/edit?usp=sharing) from which you can select objects that have not been added to Omeka.
