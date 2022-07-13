@@ -41,7 +41,7 @@ The [metadata spreadsheet](https://docs.google.com/spreadsheets/d/1QtMHY8ZxJQbmS
 
 5. If you have questions or confusion over the Ukrainian text, please use the Status dropdown to mark the row as **Translation** and ping the folks in the #translation channel in Slack.
 
-6. Wherever possible, fill in **Columns F to O**, using the details in the [metadata template](insert link). Please keep the following in mind:
+6. Wherever possible, fill in **Columns F to O**, using the details in the [metadata template](https://docs.google.com/document/d/1qpax1HQmWOVXqbA9NTCU4WBZNWKfLPhUTqxs7s94Jas/edit#heading=h.9d7dgmo8j5y4). Please keep the following in mind:
       * Subject headings should be selected from Column A in the [Subject Headings List tab](https://docs.google.com/spreadsheets/d/1QtMHY8ZxJQbmS9KNXrz4oIrfoaHk6GdLjSlNkkfS77k/edit#gid=140170532). If you need a term that isn’t currently available there, please see our [FAQs](https://docs.google.com/document/d/1qpax1HQmWOVXqbA9NTCU4WBZNWKfLPhUTqxs7s94Jas/edit#heading=h.81330kcris8v) for details on how to add one.
       * If the item has subject headings (SH) in Ukrainian, please add or move that to **Column F original_subject_heading**.
       * If the item has a description in Ukrainian, please add or move that to **Column N original_description**.
