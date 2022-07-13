@@ -12,4 +12,4 @@ You can reach all three project admins at info@sucho.org, and/or on Twitter at:
 - Anna Kijas: [@anna_kijas](https://twitter.com/anna_kijas)
 - Sebastian Majstorovic: [@storytracer](https://twitter.com/storytracer)
 
-If you are a Ukrainian scholar who needs free storage for your research materials, please email storage@sucho.org to be connected with our partners at the Harvard Ukrainian Research Institute and the University of Alberta.
+If you are a Ukrainian scholar who needs free storage for your research materials, please email storage@sucho.org to be connected with our partners at the American Folklore Society or University of Alberta's U-ART project.
