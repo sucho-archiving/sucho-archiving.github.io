@@ -11,9 +11,9 @@ youtubeID: 7PG1C5_SSd8
 
 <img src="/assets/images/sucho-logo.png" width="200px" style="float:right;" title="Saving Ukrainian Cultural Heritage Online">
 
-SUCHO is an international initiative of 1,300+ volunteers who are collaborating online to safeguard Ukrainian cultural heritage. Since the start of the invasion, SUCHO has archived more than 5,000 websites and 50TB of data of Ukrainian libraries, archives and museums, in case their servers go offline. These websites range from national archives to local museums, from 3D tours of churches to children’s art centers.
+SUCHO is an international initiative of 1,300+ volunteers who are collaborating online to safeguard Ukrainian cultural heritage. Since the start of the invasion, SUCHO has web-archived more than 5,000 websites and 50TB of data of Ukrainian cultural institutions, in case their servers go offline. These websites range from national archives to local museums, from 3D tours of churches to children’s art centers.
 
-Since then we have received several requests from various Ukrainian cultural institutions who need help to digitize their collections. Ukrainian librarians, archivists and curators need digitization equipment, such as scanners and computers, and training in digitization methods in order to save Ukraine's cultural memory. To support this effort, SUCHO is moving into a new phase of the project, defined by three goals: **Donate, Curate, Educate**. In Phase 2, SUCHO will coordinate aid shipments of digitization hardware, exhibit Ukrainian culture online and offer training for Ukrainian cultural workers in digitization methods.
+Stepping beyond web-archiving, SUCHO is now moving into a new phase of the project, defined by three goals: **Donate, Curate, Educate**. In Phase 2, SUCHO will coordinate aid shipments of digitization hardware, exhibit Ukrainian culture online and offer training for Ukrainian cultural workers in digitization methods.
 
 ## Donating
 We're currently raising funds for digitization equipment to send to Ukrainian libraries, archives, and museums that have requested it. [Donate to the Ukrainian digitization equipment fund here](https://opencollective.com/sucho/projects/equipment).
