@@ -36,10 +36,9 @@ We have created a virtual exhibition space to raise awareness for Ukrainian cult
 # How can you help?
 
 ## Donate
-You can help us pay for our server costs by donating to our [Open Collective)[https://opencollective.com/sucho]. If you would like to specifically help buy digitization equipment to send to Ukrainian libraries, archives, and museums, you can donate to our new [digitization equipment fund](https://opencollective.com/sucho/projects/equipment). 
+You can help us pay for our server costs by donating to our [Open Collective][https://opencollective.com/sucho]. If you would like to specifically help buy digitization equipment to send to Ukrainian libraries, archives, and museums, you can donate to our new [digitization equipment fund](https://opencollective.com/sucho/projects/equipment).
 
-[Support us on OpenCollective](https://opencollective.com/sucho){: .btn }
-[Donate to the digitization equipment fund](https://opencollective.com/sucho/projects/equipment){: .btn }
+[Donate to the equipment fund](https://opencollective.com/sucho/projects/equipment){: .btn }
 
 ## Volunteer 
 Since May, we've been at capacity for volunteers, but we'll be adding everyone from the standby list to the project by the end of July 2022. We're currently working on a new set of tasks as part of our *Phase 2: Curate, Donate, Educate*. If you're interested in volunteering, please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform) and we'll be in touch by the end of the month. 
