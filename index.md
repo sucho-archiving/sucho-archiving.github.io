@@ -14,12 +14,12 @@ youtubeID: 7PG1C5_SSd8
 SUCHO is an initiative of 1,300+ international volunteers who are collaborating online to safeguard Ukrainian cultural heritage. Since the start of the invasion, SUCHO has web-archived more than 5,000 websites and 50TB of data of Ukrainian cultural institutions, to prevent these websites from going offline. The websites range from national archives to local museums, from 3D tours of churches to children’s art centers.
 {: .text-justify }
 
-SUCHO is now moving into a new phase of the project, defined by three goals: **Donate, Curate, Educate**. In Phase 2, SUCHO will coordinate aid shipments of digitization hardware, exhibit Ukrainian culture online and organize training for Ukrainian cultural workers in digitization methods.
+SUCHO is now moving into a new phase of the project, defined by three goals: **Curate, Donate, Educate**. In Phase 2, SUCHO will coordinate aid shipments of digitization hardware, exhibit Ukrainian culture online and organize training for Ukrainian cultural workers in digitization methods.
 {: .text-justify }
 
 ## Where can you see the SUCHO data?
 
-We are currently in the process of curating the full 50TB of web archives we have collected. The raw files are publicly accessible from the AWS Open Data registry: [SUCHO Web Archives on AWS Data](https://registry.opendata.aws/sucho/). Once they have been minimally curated, we will make them viewable in a user-friendly way on this website.
+We are currently in the process of curating the full 50TB of web archives we have collected. The raw files are publicly accessible from the [AWS Open Data registry](https://registry.opendata.aws/sucho/). Once they have been minimally curated, we will make them viewable in a user-friendly way on our website.
 
 ### SUCHO Meme Wall
 
