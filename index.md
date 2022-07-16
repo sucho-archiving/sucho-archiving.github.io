@@ -7,7 +7,7 @@ image: /assets/images/sucho-poster-landscape-medium.jpg
 youtubeID: 7PG1C5_SSd8
 ---
 
-# Saving Ukrainian Cultural Heritage Online (SUCHO)
+# Saving Ukrainian Cultural Heritage Online
 
 <img src="/assets/images/sucho-logo.png" width="200px" style="float:right;" title="Saving Ukrainian Cultural Heritage Online">
 
