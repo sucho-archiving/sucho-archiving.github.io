@@ -12,13 +12,27 @@ youtubeID: 7PG1C5_SSd8
 <img src="/assets/images/sucho-logo.png" width="150px" style="float:right; margin-left: 10px;" title="Saving Ukrainian Cultural Heritage Online">
 
 
-SUCHO is an initiative of 1,300+ international volunteers who are collaborating online to safeguard Ukrainian cultural heritage. Since the start of the invasion, SUCHO has web-archived more than 5,000 websites and 50TB of data of Ukrainian cultural institutions, to prevent these websites from going offline. These websites range from national archives to local museums, from 3D tours of churches to children’s art centers.
+SUCHO is an initiative of 1,300+ international volunteers who are collaborating online to safeguard Ukrainian cultural heritage. Since the start of the invasion, SUCHO has web-archived more than 5,000 websites and 50TB of data of Ukrainian cultural institutions, to prevent these websites from going offline. The websites range from national archives to local museums, from 3D tours of churches to children’s art centers.
+{: .text-justify }
 
 SUCHO is now moving into a new phase of the project, defined by three goals: **Donate, Curate, Educate**. In Phase 2, SUCHO will coordinate aid shipments of digitization hardware, exhibit Ukrainian culture online and organize training for Ukrainian cultural workers in digitization methods.
 {: .text-justify }
 
-[SUCHO Gallery](https://gallery.sucho.org/){: .btn }
-[SUCHO Meme Wall](https://memes.sucho.org/){: .btn }
+# Where can you see the SUCHO data?
+
+We are currently in the process of curating the full 50TB of web archives we have collected. The raw files are publicly accessible from the AWS Open Data registry: [SUCHO Web Archives on AWS Data](https://registry.opendata.aws/sucho/). Once they have been minimally curated, we will make them viewable in a user-friendly way on this website.
+
+## SUCHO Meme Wall
+
+A dedicated team of volunteers has worked tirelessly to collect the many war memes created by Ukrainians across the internet. The SUCHO Meme Wall is a growing collection and we are looking for more contributions.
+
+[Visit the SUCHO Meme Wall](https://memes.sucho.org/){: .btn }
+
+## SUCHO Gallery
+
+We have created a virtual exhibition space to raise awareness for Ukrainian culture. Right now, we have taken samples from our web archives and are exhibiting them there. The goal is to make this space available to Ukrainian institutions to upload selected digitized holdings and 
+
+[Visit the SUCHO Gallery](https://gallery.sucho.org/){: .btn }
 
 # How can you help?
 
