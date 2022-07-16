@@ -29,7 +29,7 @@ A dedicated team of volunteers has worked tirelessly to collect the many war mem
 
 ### SUCHO Gallery
 
-We have created a virtual exhibition space to raise awareness for Ukrainian culture. Right now, we have taken samples from our web archives and are exhibiting them there. The goal is to make this space available to Ukrainian institutions to upload selected digitized holdings and 
+We have created a virtual exhibition space to raise awareness for Ukrainian culture. Right now, we have taken samples from our web archives and are exhibiting them there. The goal is to make this space available to Ukrainian institutions to upload holdings that they have digitized with equipment provided by our donors.
 
 [Visit the SUCHO Gallery](https://gallery.sucho.org/){: .btn }
 
