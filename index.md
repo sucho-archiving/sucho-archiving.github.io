@@ -11,12 +11,14 @@ youtubeID: 7PG1C5_SSd8
 
 <img src="/assets/images/sucho-logo.png" width="200px" style="float:right;" title="Saving Ukrainian Cultural Heritage Online">
 
-SUCHO is an international initiative of 1,300+ volunteers who are collaborating online to safeguard Ukrainian cultural heritage. Since the start of the invasion, SUCHO has web-archived more than 5,000 websites and 50TB of data of Ukrainian cultural institutions, in case their servers go offline. These websites range from national archives to local museums, from 3D tours of churches to children’s art centers.
+SUCHO is an initiative of 1,300+ international volunteers who are collaborating online to safeguard Ukrainian cultural heritage. Since the start of the invasion, SUCHO has web-archived more than 5,000 websites and 50TB of data of Ukrainian cultural institutions, to prevent these websites from going offline. These websites range from national archives to local museums, from 3D tours of churches to children’s art centers.
 
 Stepping beyond web-archiving, SUCHO is now moving into a new phase of the project, defined by three goals: **Donate, Curate, Educate**. In Phase 2, SUCHO will coordinate aid shipments of digitization hardware, exhibit Ukrainian culture online and offer training for Ukrainian cultural workers in digitization methods.
 
-## Donating
-We're currently raising funds for digitization equipment to send to Ukrainian libraries, archives, and museums that have requested it. [Donate to the Ukrainian digitization equipment fund here](https://opencollective.com/sucho/projects/equipment).
+# How can you help?
+
+## Donations
+We're currently raising funds for digitization equipment to send to Ukrainian libraries, archives, and museums that have requested it. **[Donate to the Ukrainian digitization equipment fund here](https://opencollective.com/sucho/projects/equipment).**
 
 ## Volunteering 
 Since May, we've been at capacity for volunteers, but we'll be adding everyone from the standby list to the project by the end of July 2022. We're currently working on a new set of tasks as part of our *Phase 2: Curate, Donate, Educate*. If you're interested in volunteering, please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform) and we'll be in touch by the end of the month. 
