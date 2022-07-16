@@ -35,7 +35,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 
 # Enable or disable the site search
 # Supports true (default) or false
-search_enabled: true
+search_enabled: false
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
@@ -65,11 +65,11 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Tutorials":
-    - "tutorials"
+  "Donate":
+    - "https://opencollective.com/sucho"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
