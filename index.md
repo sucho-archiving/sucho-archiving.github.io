@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 title: Saving Ukrainian Cultural Heritage Online
-description: We are saving digitised collections from Ukrainian museums, libraries and archives.
+description: Volunteer initiative digitizing and backing up Ukrainian culture.
 image: /assets/images/sucho-poster-landscape-medium.jpg
 youtubeID: 7PG1C5_SSd8
 ---
@@ -11,7 +11,9 @@ youtubeID: 7PG1C5_SSd8
 
 <img src="/assets/images/suchoposter-small.jpg" width="200px" style="float:right;" title="Credit: Vlad Kholodnyi (@kholodnyi_vlad)">
 
-Since its launch on March 1, 2022, Saving Ukrainian Cultural Heritage Online (SUCHO) has brought together over 1,300 volunteers to create high-fidelity web archives of around 4,500 Ukrainian cultural heritage websites, amassing over 52 TB of data. These websites range from national archives to local museums, from 3D tours of churches to children’s art centers. We have identified these websites in many ways: crowdsourcing, examining DNS records for all websites registered in the Ukrainian namespace or with Ukrainian contact info, and manually walking through Google Maps for cities under attack, looking for the museum icon. We've used both the [Internet Archive’s Wayback Machine](https://archive.org/web/), the [Browsertrix crawler](https://github.com/webrecorder/browsertrix-crawler) to create these archives. As we find fewer and fewer new websites to archive, SUCHO is moving into a new phase of the project with three goals: **Curate, Donate, Educate**.
+SUCHO is an international initiative of 1,300+ volunteers who are collaborating online to safeguard Ukrainian cultural heritage. Since the start of the invasion SUCHO ve archived more than 5,000 websites and 50TB of data of Ukrainian libraries, archives and museums, in case their servers go offline. These websites range from national archives to local museums, from 3D tours of churches to children’s art centers.
+
+Since then we have received several requests from various Ukrainian cultural institutions who need help to digitize their collections. Ukrainian librarians, archivists and curators need digitization equipment, such as scanners and computers, and training in digitization methods in order to save Ukraine's cultural memory. To support this effort, SUCHO is moving into a new phase of the projects, defined by three goals: **Donate, Curate, Educate**. In Phase 2, SUCHO will coordinate aid shipments of digitization hardware, raise awareness for Ukrainian culture online and offer training for Ukrainian cultural workers in digitization methods.
 
 ## Donating
 We're currently raising funds for digitization equipment to send to Ukrainian libraries, archives, and museums that have requested it. [Donate to the Ukrainian digitization equipment fund here](https://opencollective.com/sucho/projects/equipment).
