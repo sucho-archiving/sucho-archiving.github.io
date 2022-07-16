@@ -11,25 +11,22 @@ youtubeID: 7PG1C5_SSd8
 
 <img src="/assets/images/suchoposter-small.jpg" width="200px" style="float:right;" title="Credit: Vlad Kholodnyi (@kholodnyi_vlad)">
 
-We are a group of more than 1,300 cultural heritage professionals – librarians, archivists, researchers, programmers – working together to identify and archive at-risk sites, digital content, and data in Ukrainian cultural heritage institutions while the country is under attack. We are using a combination of technologies to crawl and archive sites and content, including the [Internet Archive’s Wayback Machine](https://archive.org/web/), the [Browsertrix crawler](https://github.com/webrecorder/browsertrix-crawler). So far we have saved more than 50TB of scanned documents, artworks and many other digital materials from 5,000+ websites of Ukrainian museums, libraries and archives.
+Since its launch on March 1, 2022, Saving Ukrainian Cultural Heritage Online (SUCHO) has brought together over 1,300 volunteers to create high-fidelity web archives of around 4,500 Ukrainian cultural heritage websites, amassing over 52 TB of data. These websites range from national archives to local museums, from 3D tours of churches to children’s art centers. We have identified these websites in many ways: crowdsourcing, examining DNS records for all websites registered in the Ukrainian namespace or with Ukrainian contact info, and manually walking through Google Maps for cities under attack, looking for the museum icon. We've used both the [Internet Archive’s Wayback Machine](https://archive.org/web/), the [Browsertrix crawler](https://github.com/webrecorder/browsertrix-crawler) to create these archives. As we find fewer and fewer new websites to archive, SUCHO is moving into a new phase of the project with three goals: **Curate, Donate, Educate**.
 
-**Visit our [OpenCollective page](https://opencollective.com/sucho) to support us financially.**
+## Donating
+We're currently raising funds for digitization equipment to send to Ukrainian libraries, archives, and museums that have requested it. [Donate to the Ukrainian digitization equipment fund here](https://opencollective.com/sucho/projects/equipment).
 
-**March 8, 2022 press release:** [Volunteers Unite to Archive Ukrainian Cultural Heritage](press-release-20220308-volunteers-unite)
 
-**Для людей в Україні**: [Що робить SUCHO?](/ukraina)
 
 {% include youtubePlayer.html id=page.youtubeID %}
 
 # How can I help?
 
-## Volunteering 
-0. No clue what's going on? Visit our [orientation page](https://www.sucho.org/orientation).
-1. [Submit](https://docs.google.com/forms/d/e/1FAIpQLSffa64-l6qXqEumAcf38OEOrTFeYZEmF531PNv9ZgzNFbcgxQ/viewform) important URLs for collections in cultural heritage institutions in Ukraine
-2. If you can read Ukrainian or Russian, or if you can run the Browsertrix crawler (check out our [Browsertrix documentation](/browsertrix) to see if it's something you'd be up for trying), fill out the [volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform). 
-3. We are currently at capacity for people to help with Wayback Machine / Internet Archive tasks or manual Webrecorder tasks, but you can still help by submitting URLs.
 
-You'll need to wait until we add you to the Slack to actually get started, but if you want to read about the process, here's our [workflow](/workflow) and a [orientation for new volunteers](/orientation).
+## Volunteering 
+Since May, we've been at capacity for volunteers, but we'll be adding everyone from the standby list to the project by the end of July 2022. We're currently working on a new set of tasks as part of our *Phase 2: Curate, Donate, Educate*. If you're interested in volunteering, please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform) and we'll be in touch by the end of the month. 
+
+We'll need help looking for memes (in many languages) for our [meme wall collection](http://memes.sucho.org/), selecting objects for the [gallery](https://gallery.sucho.org/), and doing quality control and curating our web archives.
 
 # About us
 
