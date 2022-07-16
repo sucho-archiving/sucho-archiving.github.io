@@ -16,19 +16,15 @@ Since its launch on March 1, 2022, Saving Ukrainian Cultural Heritage Online (SU
 ## Donating
 We're currently raising funds for digitization equipment to send to Ukrainian libraries, archives, and museums that have requested it. [Donate to the Ukrainian digitization equipment fund here](https://opencollective.com/sucho/projects/equipment).
 
-
-
-{% include youtubePlayer.html id=page.youtubeID %}
-
-# How can I help?
-
-
 ## Volunteering 
 Since May, we've been at capacity for volunteers, but we'll be adding everyone from the standby list to the project by the end of July 2022. We're currently working on a new set of tasks as part of our *Phase 2: Curate, Donate, Educate*. If you're interested in volunteering, please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform) and we'll be in touch by the end of the month. 
 
 We'll need help looking for memes (in many languages) for our [meme wall collection](http://memes.sucho.org/), selecting objects for the [gallery](https://gallery.sucho.org/), and doing quality control and curating our web archives.
 
-# About us
+# About SUCHO
+
+{% include youtubePlayer.html id=page.youtubeID %}
+
 
 ## Coordinators
 - [Quinn Dombrowski](https://twitter.com/quinnanya), Stanford University
