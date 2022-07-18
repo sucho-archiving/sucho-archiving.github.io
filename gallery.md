@@ -16,7 +16,7 @@ If you've already signed-up, you can log in with existing credentials. You can a
 ## Selecting an object to curate
 View the [SUCHO Gallery Suggestions spreadsheet](https://docs.google.com/spreadsheets/d/1tn830D2kJ__ihWYbrRsZr15Y3LU0pDUXyE2qdiepPSk/edit?usp=sharing) from which you can select objects that have not been added to Omeka.
 
-* Select an object in the spreadsheet that no one has claimed yet. To claim an object, on that row of the spreadsheet, add you name to the 'Item added to gallery by' column.' Go to the instructions to 'Create an Item Record' below.
+* Select an object in the spreadsheet that no one has claimed yet. To claim an object, on that row of the spreadsheet, add your name to the 'Item added to gallery by' column.' Go to the instructions to 'Create an Item Record' below.
 
   * Coming soon: If you would like to identify an object from an archived website that is not yet on this list, go to the [insert spreadsheet info](insert link) to find a web site with objects that you would like to include in the gallery.
     * Select a specific object from an archived website and enter in the information based on the column headings.
