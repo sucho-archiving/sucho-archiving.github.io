@@ -9,6 +9,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Young, Michelle. ["Saving the Artwork of Ukraine"](https://www.wilsonquarterly.com/quarterly/ripples-of-war/saving-the-artwork-of-ukraine). *Wilson Quarterly*. July 18, 2022.
 - Emdén, Fredrik. ["Internationellt nätverk ska rädda Ukrainas digitala kulturarv" Omvärld och Insikt](https://www.raa.se/omvarld-och-insikt/internationella-natverk-ska-radda-ukrainas-digitala-kulturarv/). *Swedish National Heritage Board*. June 22, 2022.
 - Salim, Gisela. ["As the War Drags On, a Race Is Afoot to Preserve Ukraine History"](https://newlinesmag.com/reportage/as-the-war-drags-on-a-race-is-afoot-to-preserve-ukraine-history/). *New/Lines Magazine*. June 21, 2022.
 - Jones, Edgar. ["Interview with Volunteers for Saving Ukrainian Cultural Heritage Online (SUCHO)"](https://doi.org/10.1080/01639374.2022.2077496). *Cataloging & Classification Quarterly*. June 8, 2022.
@@ -64,6 +65,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Interviews / Podcasts
+- [Meet the group seeking to preserve Ukrainian culture by rescuing Ukrainian websites](https://www.cbsnews.com/video/meet-the-group-seeking-to-preserve-ukrainian-culture-by-rescuing-ukrainian-websites/#x). *CBS News*. July 16, 2022.
 - Avaneszadeh, Alex. [Interview with Anna Kijas on the 'Saving Ukrainian Cultural Heritage Online' Project](https://sites.tufts.edu/fletcherrussia/interview-with-anna-kijas-on-the-saving-ukrainian-cultural-heritage-online-project/). Russia and Eurasia Program, The Fletcher School, Tufts University. June 29, 2022.  
 - [Against the Grain Podcast 163 - SUCHO: Saving Ukrainian Cultural Heritage Online](http://atgthepodcast.libsyn.com/atgthepodcast-163-sucho-saving-ukrainian-cultural-heritage-online ). *ATGthePodcast.com*. June 27, 2022.
 - [Podcast: GLAM International Series – Saving Ukrainian Cultural Heritage Online (SUCHO)](https://museum.bc.ca/brain/glam-international-sucho/). *BC Museums Association*. June 2, 2022.
