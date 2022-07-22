@@ -9,7 +9,8 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
-- Young, Michelle. ["Saving the Artwork of Ukraine"](https://www.wilsonquarterly.com/quarterly/ripples-of-war/saving-the-artwork-of-ukraine). *Wilson Quarterly*. July 18, 2022.
+- Young, Michelle. ["Saving the Artwork of Ukraine"](https://www.wilsonquarterly.com/quarterly/ripples-of-war/saving-the-artwork-of-ukraine). *Wilson Quarterly*. July 18, 2022. 
+- LeBlanc, Zoe, et. al. ["A Conversation with the Organizers of Saving Ukrainian Cultural Heritage Online (SUCHO)"](https://iopn.library.illinois.edu/journals/jloe/article/view/969). *Journal of Library Outreach and Engagement* vol. 2, 1, July 13, 2022.
 - Emdén, Fredrik. ["Internationellt nätverk ska rädda Ukrainas digitala kulturarv" Omvärld och Insikt](https://www.raa.se/omvarld-och-insikt/internationella-natverk-ska-radda-ukrainas-digitala-kulturarv/). *Swedish National Heritage Board*. June 22, 2022.
 - Salim, Gisela. ["As the War Drags On, a Race Is Afoot to Preserve Ukraine History"](https://newlinesmag.com/reportage/as-the-war-drags-on-a-race-is-afoot-to-preserve-ukraine-history/). *New/Lines Magazine*. June 21, 2022.
 - Jones, Edgar. ["Interview with Volunteers for Saving Ukrainian Cultural Heritage Online (SUCHO)"](https://doi.org/10.1080/01639374.2022.2077496). *Cataloging & Classification Quarterly*. June 8, 2022.
@@ -89,6 +90,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Talks
+- Rakityanskaya, Anna, Alex Gil, Quinn Dombrowski. ["Saving Ukrainian Cultural Heritage Online & Rapid-Response Digital Humanities"](https://www.youtube.com/watch?v=b-zlp2S7PV8) Coalition for Networked Information, CNI Pre-Recorded Project Briefing Series: July 2022. 
 - Segerberg, Andreas. ["SUCHO A global community of volunteers."](https://vimeo.com/719772025) INOS Webinar (Cultural Heritage Threats and the Role of Citizen Engagement Inside and Outside Universities). June 10, 2022.
 - Segerberg, Andreas. "Saving Ukrainian Cultural Heritage Online: An Archiving Race Against Time." CIDOC conference Tallinn. May 26, 2022.
 - Kijas, Anna, Sebastian Majstorovic, Quinn Dombrowski, Dena Strong, Ilya Kreymer, Kim Martin, Erica Peaslee. [Presentations and Q&A for Session 17: Saving Ukrainian Cultural Heritage Online](https://www.youtube.com/playlist?list=PL5AWMCpp1DigoUCo5bxJXEhc3-sRgotI5). International Internet Preservation Consortium Web Archiving Conference 2022. May 25, 2022.
