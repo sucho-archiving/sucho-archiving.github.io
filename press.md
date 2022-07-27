@@ -90,6 +90,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Talks
+- Martin, Kim, Erica Peaslee, Alex Gil. ["Saving Ukrainian Cultural Heritage Online"]. DH2022 Tokyo. July 25, 2022.
 - Rakityanskaya, Anna, Alex Gil, Quinn Dombrowski. ["Saving Ukrainian Cultural Heritage Online & Rapid-Response Digital Humanities"](https://www.youtube.com/watch?v=b-zlp2S7PV8). Coalition for Networked Information, CNI Pre-Recorded Project Briefing Series: July 2022. 
 - Rakityanskaya, Anna. ["The SUCHO project: a librarian volunteer story"]. Council for Slavonic and East European Library  and Information Services Conference, British Library. June 17, 2022.
 - Segerberg, Andreas. ["SUCHO A global community of volunteers."](https://vimeo.com/719772025) INOS Webinar (Cultural Heritage Threats and the Role of Citizen Engagement Inside and Outside Universities). June 10, 2022.
