@@ -92,6 +92,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 ## Talks
 - Martin, Kim, Erica Peaslee, Alex Gil. "Saving Ukrainian Cultural Heritage Online." DH2022 Tokyo. July 25, 2022.
 - Rakityanskaya, Anna, Alex Gil, Quinn Dombrowski. ["Saving Ukrainian Cultural Heritage Online & Rapid-Response Digital Humanities"](https://www.youtube.com/watch?v=b-zlp2S7PV8). Coalition for Networked Information, CNI Pre-Recorded Project Briefing Series: July 2022. 
+- Kijas, Anna. "Saving Ukrainian Cultural Heritage Online." Preserving Ukraine’s Cultural Heritage and Historical Record, University of Toronto. July 8, 2022.
 - Rakityanskaya, Anna. "The SUCHO project: a librarian volunteer story." Council for Slavonic and East European Library  and Information Services Conference, British Library. June 17, 2022.
 - Segerberg, Andreas. ["SUCHO A global community of volunteers."](https://vimeo.com/719772025) INOS Webinar (Cultural Heritage Threats and the Role of Citizen Engagement Inside and Outside Universities). June 10, 2022.
 - Segerberg, Andreas. "Saving Ukrainian Cultural Heritage Online: An Archiving Race Against Time." CIDOC conference Tallinn. May 26, 2022.
@@ -100,4 +101,8 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - Kreymer, Ilya. ["From Raspberry Pi to Cloud-Distributed Web Archiving with Webrecorder"](https://www.youtube.com/watch?v=x8iI8cHe_0E&list=PL5AWMCpp1DigoUCo5bxJXEhc3-sRgotI5&index=2). International Internet Preservation Consortium Web Archiving Conference 2022. May 25, 2022.
 - Kijas, Anna, Sebastian Majstorovic, Quinn Dombrowski, Ilya Kreymer, Dena Strong, Kim Martin, Erica Peaslee. ["Session 17 Q&A: Saving Ukrainian Cultural Heritage Online"](https://www.youtube.com/watch?v=u61_opP9TWk&list=PL5AWMCpp1DigoUCo5bxJXEhc3-sRgotI5&index=4). International Internet Preservation Consortium Web Archiving Conference 2022. May 25, 2022.
 - Segerberg, Andreas. ["SUCHO A global community of volunteers"](https://fai.nu/arsmote-och-temadag-med-internationell-utblick/) (begins at 59:00 in recording). The Society of Archives and Records Management in Sweden (FAI). May 20, 2022.
+- Dombrowski, Quinn, Anna Kijas. "SUCHO: A Grassroots Approach to Archiving Digital Cultural Heritage." Cultural Leadership Guest Speaker Series, Drexel University. May 16, 2022.
+- Dombrowski, Quinn, Anna Kijas. ["Saving Ukrainian Cultural Heritage Online"](https://vimeo.com/channels/728477#t=0s). San Jose State University King Library Series, May 13, 2022.
+- Kijas, Anna. ["SUCHO: A Grassroots Approach to Archiving Digital Cultural Heritage"](https://doi.org/10.17613/3nhd-av31). Enriching Dialogues of Citizen Science, Kulturhistorisk Museum, Norway. April 29, 2022.
+- Dombrowski, Quinn. "Nimble Tents and Bunkers: Safeguarding Digital Cultural Heritage." Fiesole Retreat. Athens, Greece. April 6, 2022.
 - Dombrowski, Quinn. ["Libraries, Laboratories, Back Alleys."](https://archive.org/details/applications-of-web-archive-research-archives-unleashed) (begins 2:54 in recording). *Internet Archive*. March 16, 2022.
