@@ -6,8 +6,6 @@ title: Sponsors
 
 ## Sponsors
 
-![ACH logo](/assets/images/ach-logo.png) ![European Association of Digital Humanities logo](/assets/images/eadh-logo.png)
-{ .flex-justify-around}
+<img src="/assets/images/ach-logo.png" width="300px" style="float:left"; margin-left: 2px;" title="ACH logo">
 
-![National Library of Sweden logo](/assets/images/KB-logo.png) ![Pearl Jam Vitalogy Foundation logo](/assets/images/vitalogy_foundation_logo.png)
-{ .flex-justify-around}
+<img src="/assets/images/eadh-logo.png" width="300px" style="float:center"; margin-left: 2px;" title="European Association of Digital Humanities logo">
