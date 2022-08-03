@@ -11,8 +11,10 @@ title: Sponsors
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="European Association of Digital Humanities logo" src="/assets/images/eadh-logo.png" width="150px">
   </p>
+  &nbsp; &nbsp; &nbsp; &nbsp;
 
  <p align="center">
   <img alt="National Library of Sweden logo" src="/assets/images/KB-logo.png" width="150px">
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Pearl Jam Vitalogy Foundation logo" src="/assets/images/vitalogy_foundation_logo.png" width="150px">
 </p>
