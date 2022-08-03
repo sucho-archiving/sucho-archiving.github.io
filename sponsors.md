@@ -19,4 +19,7 @@ title: Sponsors
   <a href="https://www.kb.se/in-english.html"><img alt="National Library of Sweden logo" src="/assets/images/KB-logo.png" width="150px">
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://pearljam.com/vitalogy"><img alt="Pearl Jam Vitalogy Foundation logo" src="/assets/images/vitalogy_foundation_logo.png" width="150px">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://fai.nu/summary-in-english/"><img alt="Society of Archives and Records Management in Sweden (FAI) logo" src="/assets/images/fai_logo.png" width="150px">
 </p>
+&nbsp; &nbsp; &nbsp; &nbsp;
