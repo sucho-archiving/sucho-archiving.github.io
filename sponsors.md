@@ -13,6 +13,8 @@ title: Sponsors
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://pro.europeana.eu/about-us/foundation"><img alt="Europeana Foundation logo" src="/assets/images/europeana-logo.png" width="150px"></a>
   </p>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp;
 
  <p align="center">
 
