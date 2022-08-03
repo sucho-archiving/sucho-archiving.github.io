@@ -16,7 +16,7 @@ title: Sponsors
 
  <p align="center">
 
-  <a href="https://fai.nu/summary-in-english/"><img alt="Föreningen för arkiv och informationsförvaltning; Society of Archives and Records Management in Sweden (FAI) logo" src="/assets/images/fai_logo.png" width="150px">
+  <a href="https://fai.nu/summary-in-english/"><img alt="Föreningen för arkiv och informationsförvaltning; Society of Archives and Records Management in Sweden (FAI) logo" src="/assets/images/fai_logo.png" width="200px">
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.kb.se/in-english.html"><img alt="Kungl Biblioteket; National Library of Sweden logo" src="/assets/images/KB-logo.png" width="150px">
   &nbsp; &nbsp; &nbsp; &nbsp;
