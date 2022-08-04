@@ -5,7 +5,7 @@ title: Sponsors
 ---
 
 ## Sponsors
-Saving Ukrainian Cultural Heritage Online initiative is grateful for the financial sponsorship of the following organizations. View a full list of [our sponsors](https://opencollective.com/sucho) and consider becoming a sponsor of this important initiative!
+Saving Ukrainian Cultural Heritage Online initiative is grateful for the financial sponsorship of the following organizations. View a full list of [our sponsors](https://opencollective.com/sucho) and consider [becoming a sponsor](https://opencollective.com/sucho/contribute) of this important initiative!
 
 <p align="center">
   <a href="https://ach.org/"><img alt="Association for Computers and the Humanities logo" src="/assets/images/ach-logo.png" width="150px"></a>
