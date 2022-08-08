@@ -6,8 +6,9 @@ title: Press Coverage
 
 Media inquiries can be directed to the project admins at **info@sucho.org**.
 
-**August 8, 2022 press release**: [Phase 2 of the SUCHO Initiative](/press-release-20220808-phase-2)
-**March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
+- **August 8, 2022 press release**: [Phase 2 of the SUCHO Initiative](/press-release-20220808-phase-2)
+
+- **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
 - Young, Michelle. ["Saving the Artwork of Ukraine"](https://www.wilsonquarterly.com/quarterly/ripples-of-war/saving-the-artwork-of-ukraine). *Wilson Quarterly*. July 18, 2022.
