@@ -4,6 +4,11 @@ permalink: /press-release-20220808-phase-2
 title: Phase 2 of the SUCHO Initiative
 ---
 
+# Phase 2 of the SUCHO initiative
+August 8, 2022
+
+URL: https://www.sucho.org/press-release-20220808-phase-2
+
 Since its launch on March 1, 2022, [Saving Ukrainian Cultural Heritage Online (SUCHO)](https://www.sucho.org/) has brought together over 1,300 volunteers to create high-fidelity web archives of around 4,500 Ukrainian cultural heritage websites, amassing over 52 TB of data. These websites range from national archives to local museums, from 3D tours of churches to children’s art centers. We have identified these websites in many ways: crowdsourcing, examining DNS records for all websites registered in the Ukrainian namespace or with Ukrainian contact info, and manually walking through Google Maps for cities under attack, looking for the museum icon. As we find fewer and fewer new websites to archive, SUCHO is moving into a new phase of the project with three goals: **Curate, Donate, Educate**.
 
 ## Curate
