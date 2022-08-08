@@ -6,10 +6,11 @@ title: Press Coverage
 
 Media inquiries can be directed to the project admins at **info@sucho.org**.
 
+**August 8, 2022 press release**: [Phase 2 of the SUCHO Initiative](/press-release-20220808-phase-2)
 **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
-- Young, Michelle. ["Saving the Artwork of Ukraine"](https://www.wilsonquarterly.com/quarterly/ripples-of-war/saving-the-artwork-of-ukraine). *Wilson Quarterly*. July 18, 2022. 
+- Young, Michelle. ["Saving the Artwork of Ukraine"](https://www.wilsonquarterly.com/quarterly/ripples-of-war/saving-the-artwork-of-ukraine). *Wilson Quarterly*. July 18, 2022.
 - LeBlanc, Zoe, et. al. ["A Conversation with the Organizers of Saving Ukrainian Cultural Heritage Online (SUCHO)"](https://iopn.library.illinois.edu/journals/jloe/article/view/969). *Journal of Library Outreach and Engagement* vol. 2, 1, July 13, 2022.
 - Emdén, Fredrik. ["Internationellt nätverk ska rädda Ukrainas digitala kulturarv" Omvärld och Insikt](https://www.raa.se/omvarld-och-insikt/internationella-natverk-ska-radda-ukrainas-digitala-kulturarv/). *Swedish National Heritage Board*. June 22, 2022.
 - Salim, Gisela. ["As the War Drags On, a Race Is Afoot to Preserve Ukraine History"](https://newlinesmag.com/reportage/as-the-war-drags-on-a-race-is-afoot-to-preserve-ukraine-history/). *New/Lines Magazine*. June 21, 2022.
@@ -91,7 +92,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 ## Talks
 - Martin, Kim, Erica Peaslee, Alex Gil. "Saving Ukrainian Cultural Heritage Online." DH2022 Tokyo. July 25, 2022.
-- Rakityanskaya, Anna, Alex Gil, Quinn Dombrowski. ["Saving Ukrainian Cultural Heritage Online & Rapid-Response Digital Humanities."](https://www.youtube.com/watch?v=b-zlp2S7PV8) Coalition for Networked Information, CNI Pre-Recorded Project Briefing Series: July 2022. 
+- Rakityanskaya, Anna, Alex Gil, Quinn Dombrowski. ["Saving Ukrainian Cultural Heritage Online & Rapid-Response Digital Humanities."](https://www.youtube.com/watch?v=b-zlp2S7PV8) Coalition for Networked Information, CNI Pre-Recorded Project Briefing Series: July 2022.
 - Kijas, Anna. "Saving Ukrainian Cultural Heritage Online." Preserving Ukraine’s Cultural Heritage and Historical Record, University of Toronto. July 8, 2022.
 - Rakityanskaya, Anna. "The SUCHO project: a librarian volunteer story." Council for Slavonic and East European Library  and Information Services Conference, British Library. June 17, 2022.
 - Segerberg, Andreas. ["SUCHO A global community of volunteers."](https://vimeo.com/719772025) INOS Webinar (Cultural Heritage Threats and the Role of Citizen Engagement Inside and Outside Universities). June 10, 2022.
