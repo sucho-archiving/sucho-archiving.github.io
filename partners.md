@@ -8,9 +8,15 @@ title: Partners
 
 SUCHO is partnering with a number of organizations to further the digitization and preservation of Ukrainian cultural heritage.
 
+<ul class="list-style-none">
+  <li class="d-inline-block mr-2">
+    <a href="https://nfdi4culture.de/"><img alt="NFDI4Culture logo" src="/assets/images/nfdi4culture-logo.svg" width="150px"></a>
+  </li>
+  <li class="d-inline-block mr-2">
+    <a href="https://www.unesco.org/"><img alt="UNESCO logo" src="/assets/images/unesco-logo.svg" width="150px"></a>
+  </li>
+</ul>
 <p align="center">
-  <a href="https://ach.org/"><img alt="NFDI4Culture logo" src="/assets/images/nfdi4culture-logo.svg" width="150px"></a>
-  &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
 ## Sponsors
