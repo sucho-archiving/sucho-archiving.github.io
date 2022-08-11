@@ -19,3 +19,12 @@
 .text-justify {
   text-align: justify;
 }
+
+ul.logo-list li a {
+  text-decoration: none;
+  background: none;
+}
+
+ul.logo-list li a img {
+  height: 100px;
+}
