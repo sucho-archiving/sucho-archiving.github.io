@@ -49,6 +49,6 @@ We are very grateful for the financial support by the following organizations. V
     <a href="https://www.kb.se/in-english.html"><img alt="Kungl Biblioteket; National Library of Sweden" src="/assets/images/KB-logo.png"></a>
   </li>
   <li class="d-inline-block mr-6">
-    <a href="https://pearljam.com/vitalogy"><img alt="Pearl Jam Vitalogy Foundation" src="/assets/images/vitalogy-logo.png"></a>
+    <a href="https://pearljam.com/vitalogy"><img alt="Pearl Jam Vitalogy Foundation" src="/assets/images/vitalogy-logo-blk.png"></a>
   </li>
 </ul>
