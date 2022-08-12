@@ -10,7 +10,7 @@ SUCHO is partnering with a number of organizations to further the digitization a
 
 <ul class="list-style-none logo-list">
   <li class="d-inline-block mr-6">
-    <a href="https://www.unesco.org/"><img alt="ULA logo" src="/assets/images/ula-logo.png"></a>
+    <a href="https://ula.org.ua/en/"><img alt="ULA logo" src="/assets/images/ula-logo.png"></a>
   </li>
   <li class="d-inline-block mr-6">
     <a href="https://www.unesco.org/"><img alt="UNESCO logo" src="/assets/images/unesco-logo.svg"></a>
@@ -20,7 +20,7 @@ SUCHO is partnering with a number of organizations to further the digitization a
   </li>
 </ul>
 
-## Sponsors
+# Sponsors
 We are very grateful for the financial support by the following organizations. View a full list of [our donors](https://opencollective.com/sucho) and consider [becoming a sponsor](https://opencollective.com/sucho/) of our initiative.
 
 <ul class="list-style-none logo-list">
