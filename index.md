@@ -55,6 +55,6 @@ We'll need help looking for memes (in many languages) for our [meme wall collect
 - [Anna E. Kijas](https://twitter.com/anna_kijas), Tufts University
 - [Sebastian Majstorovic](https://twitter.com/storytracer), Austrian Centre for Digital Humanities and Cultural Heritage
 
-You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org). If you are a Ukrainian researcher or institution who needs backup storage for your research materials or collections, please email [storage@sucho.org](mailto:storage@sucho.org) to be connected with our partners at the Harvard Ukrainian Research Institute and the University of Alberta.
+You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org). Follow our Twitter account [@sucho_org](https://twitter.com/sucho_org) for updates on the initative.
 
-Please see our [contributors](/contributors) page for more info on the entire team and our financial supporters!
+Please see our [contributors](/contributors) page for more info on the entire team!
