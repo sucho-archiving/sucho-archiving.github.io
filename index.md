@@ -21,17 +21,17 @@ SUCHO is now moving into a new phase of the project, defined by three goals: **C
 
 We are currently in the process of curating the full 50TB of web archives we have collected. The raw files are publicly accessible from the [AWS Open Data registry](https://registry.opendata.aws/sucho/). Once they have been minimally curated, we will make them viewable in a user-friendly way on our website.
 
-### SUCHO Meme Wall
-
-A dedicated team of volunteers has worked tirelessly to collect the many war memes created by Ukrainians across the internet. The SUCHO Meme Wall is a growing collection and we are looking for more contributions.
-
-[Visit the SUCHO Meme Wall](https://memes.sucho.org/){: .btn }
-
 ### SUCHO Gallery
 
 We have created a virtual exhibition space to raise awareness for Ukrainian culture. Right now, we have taken samples from our web archives and are exhibiting them there. The goal is to make this space available to Ukrainian institutions to upload holdings that they have digitized with equipment provided by our donors.
 
 [Visit the SUCHO Gallery](https://gallery.sucho.org/){: .btn }
+
+### SUCHO Meme Wall
+
+A dedicated team of volunteers has worked tirelessly to collect the many war memes created by Ukrainians across the internet. The SUCHO Meme Wall is a growing collection and we are looking for more contributions.
+
+[Visit the SUCHO Meme Wall](https://memes.sucho.org/){: .btn }
 
 # How can you help?
 
