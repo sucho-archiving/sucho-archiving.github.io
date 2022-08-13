@@ -43,7 +43,7 @@ We are very grateful for the financial support by the following organizations. V
 
 <ul class="list-style-none logo-list">
   <li class="d-inline-block mr-6">
-    <a href="https://pearljam.com/vitalogy"><img alt="Pearl Jam Vitalogy Foundation" src="/assets/images/vitalogy-logo.png"></a>
+    <a href="https://pearljam.com/vitalogy"><img alt="Pearl Jam Vitalogy Foundation" src="/assets/images/vitalogy-logo-round.png"></a>
   </li>
   <li class="d-inline-block mr-6">
     <a href="https://pro.europeana.eu/about-us/foundation"><img alt="Europeana Foundation" src="/assets/images/europeana-logo.png"></a>
