@@ -13,16 +13,19 @@ SUCHO is partnering with a number of organizations to further the digitization a
     <a href="https://nfdi4culture.de/"><img alt="NFDI4Culture" src="/assets/images/nfdi4culture-logo.svg"></a>
   </li>
   <li class="d-inline-block mr-6">
-    <a href="https://ula.org.ua/en/"><img alt="ULA" src="/assets/images/ula-logo.png"></a>
-  </li>
-  <li class="d-inline-block mr-6">
-    <a href="https://www.unesco.org/"><img alt="UNESCO" src="/assets/images/unesco-logo.svg"></a>
-  </li>
-  <li class="d-inline-block mr-6">
     <a href="https://www.kb.se/in-english.html"><img alt="Kungl Biblioteket; National Library of Sweden" src="/assets/images/KB-logo.png"></a>
   </li>
   <li class="d-inline-block mr-6">
     <a href="https://fai.nu/summary-in-english/"><img alt="Föreningen för arkiv och informationsförvaltning; Society of Archives and Records Management in Sweden (FAI)" src="/assets/images/fai_logo.png"></a>
+  </li>
+  <li class="d-inline-block mr-6">
+    <a href="https://nid.pl"><img alt="Narodowy Instytut Dziedzictwa; National Heritage Institute (Poland)" src="/assets/images/nid-logo.png"></a>
+  </li>
+  <li class="d-inline-block mr-6">
+    <a href="https://ula.org.ua/en/"><img alt="ULA" src="/assets/images/ula-logo.png"></a>
+  </li>
+  <li class="d-inline-block mr-6">
+    <a href="https://www.unesco.org/"><img alt="UNESCO" src="/assets/images/unesco-logo.svg"></a>
   </li>
   <li class="d-inline-block mr-6">
     <a href="https://aws.amazon.com"><img alt="Amazon Web Services" src="/assets/images/aws-logo.svg"></a>
