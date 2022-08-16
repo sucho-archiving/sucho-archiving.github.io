@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: jobs
-title: jobs
+title: SUCHO Jobs
 ---
 
 # Jobs
