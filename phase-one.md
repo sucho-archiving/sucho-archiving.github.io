@@ -4,7 +4,7 @@ permalink: phase-one
 title: Phase One
 ---
 
-These materials (guides, tutorials, documentation) were prepared as part of SUCHO phase 1 (March 1 - July 15, 2022). Materials for phase 2 will be posted soon!
+These materials (guides, tutorials, documentation) were prepared as part of SUCHO phase 1 (March 1 - July 15, 2022).
 
 
 ## Resources
