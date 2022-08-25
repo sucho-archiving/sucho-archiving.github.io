@@ -40,8 +40,8 @@ You can help us pay for our server costs by donating to our **[Open Collective](
 
 [Donate to the equipment fund](https://opencollective.com/sucho/projects/equipment){: .btn }
 
-## Volunteer 
-Since May, we've been at capacity for volunteers, but we'll be adding everyone from the standby list to the project by the end of July 2022. We're currently working on a new set of tasks as part of our *Phase 2: Curate, Donate, Educate*. If you're interested in volunteering, please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSc6KbhtEOI8zKsQmKT_waE1XlYEF1E6t-HzJ7Gc1EBfMvMg_A/viewform) and we'll be in touch by the end of the month. 
+## Volunteer
+We're currently working on a new set of tasks as part of our *Phase 2: Curate, Donate, Educate*. If you're interested in volunteering, please [fill out our volunteer form](https://forms.gle/toGdykQLGfXKZBKy5).
 
 We'll need help looking for memes (in many languages) for our [meme wall collection](https://memes.sucho.org/), selecting objects for the [gallery](https://gallery.sucho.org/), and doing quality control and curating our web archives.
 
