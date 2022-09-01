@@ -13,12 +13,6 @@ We are very grateful for the financial support by the following organizations. V
 
 <ul class="list-style-none logo-list">
   <li class="d-inline-block mr-6">
-    <a href="https://opencollective.com/sucho/"><img alt="Open Collective Europe" src="/assets/images/open-collective-logo.svg"></a>
-  </li>
-  <li class="d-inline-block mr-6">
-    <a href="https://archive.org/"><img alt="Internet Archive" src="/assets/images/ia-logo.svg"></a>
-  </li>
-  <li class="d-inline-block mr-6">
     <a href="https://aws.amazon.com"><img alt="Amazon Web Services" src="/assets/images/aws-logo.svg"></a>
   </li>
   <li class="d-inline-block mr-6">
@@ -38,6 +32,12 @@ We are very grateful for the financial support by the following organizations. V
 ## Cooperation partners
 
 <ul class="list-style-none logo-list">
+  <li class="d-inline-block mr-6">
+    <a href="https://opencollective.com/sucho/"><img alt="Open Collective Europe" src="/assets/images/open-collective-logo.svg"></a>
+  </li>
+  <li class="d-inline-block mr-6">
+    <a href="https://archive.org/"><img alt="Internet Archive" src="/assets/images/ia-logo.svg"></a>
+  </li>
   <li class="d-inline-block mr-6">
     <a href="https://nfdi4culture.de/"><img alt="NFDI4Culture" src="/assets/images/nfdi4culture-logo.svg"></a>
   </li>
