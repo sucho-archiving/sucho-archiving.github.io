@@ -13,6 +13,12 @@ We are very grateful for the financial support by the following organizations. V
 
 <ul class="list-style-none logo-list">
   <li class="d-inline-block mr-6">
+    <a href="https://opencollective.com/sucho/"><img alt="Open Collective Europe" src="/assets/images/open-collective-logo.svg"></a>
+  </li>
+  <li class="d-inline-block mr-6">
+    <a href="https://archive.org/"><img alt="Internet Archive" src="/assets/images/ia-logo.svg"></a>
+  </li>
+  <li class="d-inline-block mr-6">
     <a href="https://aws.amazon.com"><img alt="Amazon Web Services" src="/assets/images/aws-logo.svg"></a>
   </li>
   <li class="d-inline-block mr-6">
@@ -52,6 +58,9 @@ We are very grateful for the financial support by the following organizations. V
   </li>
   <li class="d-inline-block mr-6">
     <a href="https://www.techtotherescue.org/"><img alt="Tech to the Rescue" src="/assets/images/tttr-logo.svg"></a>
+  </li>
+  <li class="d-inline-block mr-6">
+    <a href="https://kbfus.org/"><img alt="King Baudouin Foundation United States" src="/assets/images/kbfus-logo.svg"></a>
   </li>
 </ul>
 
