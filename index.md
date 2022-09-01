@@ -11,7 +11,7 @@ youtubeID: 7PG1C5_SSd8
 
 <img src="/assets/images/sucho-logo.png" width="150px" style="float:right; margin-left: 10px;" title="Saving Ukrainian Cultural Heritage Online">
 
-SUCHO is an initiative of 1,300+ international volunteers who are collaborating online to safeguard Ukrainian cultural heritage. Since the start of the invasion, SUCHO has web-archived more than 5,000 websites and 50TB of data of Ukrainian cultural institutions, to prevent these websites from going offline. The websites range from national archives to local museums, from 3D tours of churches to children’s art centers.
+SUCHO is an initiative of over 1,500 international volunteers who are collaborating online to safeguard Ukrainian cultural heritage. Since the start of the invasion, SUCHO has web-archived more than 5,000 websites and 50TB of data of Ukrainian cultural institutions, to prevent these websites from going offline. The websites range from national archives to local museums, from 3D tours of churches to children’s art centers.
 {: .text-justify }
 
 SUCHO is now moving into a new phase of the project, defined by three goals: **Curate, [Donate](#donate), Educate**. In Phase 2, SUCHO will coordinate aid shipments of digitization hardware, exhibit Ukrainian culture online and organize training for Ukrainian cultural workers in digitization methods.
