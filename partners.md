@@ -33,7 +33,7 @@ We are very grateful for the financial support by the following organizations. V
 
 <ul class="list-style-none logo-list">
   <li class="d-inline-block mr-6">
-    <a href="https://opencollective.com/sucho/"><img alt="Open Collective Europe" src="/assets/images/open-collective-logo.svg"></a>
+    <a href="https://opencollective.com/sucho/"><img alt="Open Collective Europe" src="/assets/images/oce-logo.png"></a>
   </li>
   <li class="d-inline-block mr-6">
     <a href="https://archive.org/"><img alt="Internet Archive" src="/assets/images/ia-logo.svg"></a>
