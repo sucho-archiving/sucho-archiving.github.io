@@ -33,13 +33,22 @@ We are very grateful for the financial support by the following organizations. V
 
 <ul class="list-style-none logo-list">
   <li class="d-inline-block mr-6">
-    <a href="https://opencollective.com/sucho/"><img alt="Open Collective Europe" src="/assets/images/oce-logo.png"></a>
+    <a href="https://www.oeaw.ac.at/acdh/"><img alt="Austrian Centre for Digital Humanities and Cultural Heritage" src="/assets/images/acdh-ch-logo.svg"></a>
+  </li>
+  <li class="d-inline-block mr-6">
+    <a href="https://library.stanford.edu/"><img alt="Stanford University Libraries" src="/assets/images/stanford-libraries-logo.svg"></a>
   </li>
   <li class="d-inline-block mr-6">
     <a href="https://archive.org/"><img alt="Internet Archive" src="/assets/images/ia-logo.svg"></a>
   </li>
   <li class="d-inline-block mr-6">
+    <a href="https://opencollective.com/sucho/"><img alt="Open Collective Europe" src="/assets/images/oce-logo.png"></a>
+  </li>
+  <li class="d-inline-block mr-6">
     <a href="https://nfdi4culture.de/"><img alt="NFDI4Culture" src="/assets/images/nfdi4culture-logo.svg"></a>
+  </li>
+  <li class="d-inline-block mr-6">
+    <a href="https://www.bsb-muenchen.de/"><img alt="Bavarian State Library" src="/assets/images/bsb-logo.svg"></a>
   </li>
   <li class="d-inline-block mr-6">
     <a href="https://www.kb.se/in-english.html"><img alt="Kungl Biblioteket" src="/assets/images/KB-logo.png"></a>
@@ -67,6 +76,9 @@ We are very grateful for the financial support by the following organizations. V
 ## Technical partners
 
 <ul class="list-style-none logo-list">
+  <li class="d-inline-block mr-6">
+    <a href="https://www.webrecorder.net"><img alt="Webrecorder" src="/assets/images/webrecorder-logo.svg"></a>
+  </li>
   <li class="d-inline-block mr-6">
     <a href="https://www.wasabi.com"><img alt="Wasabi" src="/assets/images/wasabi-logo.svg"></a>
   </li>
