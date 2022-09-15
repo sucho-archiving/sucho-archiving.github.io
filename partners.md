@@ -39,6 +39,12 @@ We are very grateful for the financial support by the following organizations. V
     <a href="https://library.stanford.edu/"><img alt="Stanford University Libraries" src="/assets/images/stanford-libraries-logo.svg"></a>
   </li>
   <li class="d-inline-block mr-6">
+    <a href="https://www.tufts.edu/"><img alt="Tufts University" src="/assets/images/tufts-logo.svg"></a>
+  </li>
+  <li class="d-inline-block mr-6">
+    <a href="https://www.webrecorder.net"><img alt="Webrecorder" src="/assets/images/webrecorder-logo.svg"></a>
+  </li>
+  <li class="d-inline-block mr-6">
     <a href="https://archive.org/"><img alt="Internet Archive" src="/assets/images/ia-logo.svg"></a>
   </li>
   <li class="d-inline-block mr-6">
@@ -77,7 +83,7 @@ We are very grateful for the financial support by the following organizations. V
 
 <ul class="list-style-none logo-list">
   <li class="d-inline-block mr-6">
-    <a href="https://www.webrecorder.net"><img alt="Webrecorder" src="/assets/images/webrecorder-logo.svg"></a>
+    <a href="https://aws.amazon.com"><img alt="Amazon Web Services" src="/assets/images/aws-logo.svg"></a>
   </li>
   <li class="d-inline-block mr-6">
     <a href="https://www.wasabi.com"><img alt="Wasabi" src="/assets/images/wasabi-logo.svg"></a>
