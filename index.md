@@ -29,7 +29,7 @@ We have created a virtual exhibition space to raise awareness for Ukrainian cult
 
 ### SUCHO Meme Wall
 
-A dedicated team of volunteers has worked tirelessly to collect the many war memes created by Ukrainians across the internet. The SUCHO Meme Wall is a growing collection and we are looking for more contributions.
+A dedicated team of volunteers has worked tirelessly to collect the many internet memes created in connection with the war in Ukraine.
 
 [Visit the SUCHO Meme Wall](https://memes.sucho.org/){: .btn }
 
