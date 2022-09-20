@@ -37,6 +37,7 @@ A dedicated team of volunteers has worked tirelessly to collect the many interne
 
 ## Donate
 You can help us pay for our server costs by donating to our **[Open Collective](https://opencollective.com/sucho)**. If you would like to specifically help buy digitization equipment to send to Ukrainian libraries, archives, and museums, you can donate to our new **[digitization equipment fund](https://opencollective.com/sucho/projects/equipment)**.
+- **For U.S. based sponsors and donors**, please use the [SUCHO US Based Donation page]([Volunteer initiative digitizing and backing up Ukrainian culture)](https://kbfus.networkforgood.com/projects/54563-o-kbfus-funds-saving-ukrainian-cultural-heritage-online). These donations are tax-deductible.
 
 [Donate to the equipment fund](https://opencollective.com/sucho/projects/equipment){: .btn }
 
