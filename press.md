@@ -92,6 +92,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Talks
+- Schneider, Tina and Zach Walton. "[Digital Preservation as Activism: Ensuring Access to Ukrainian eResources in Peril](https://www.alaoweb.org/conferences/2022/program)." Academic Library Association of Ohio conference. November 4, 2022.
 - Martin, Kim, Erica Peaslee, Alex Gil. "Saving Ukrainian Cultural Heritage Online." DH2022 Tokyo. July 25, 2022.
 - Rakityanskaya, Anna, Alex Gil, Quinn Dombrowski. ["Saving Ukrainian Cultural Heritage Online & Rapid-Response Digital Humanities."](https://www.youtube.com/watch?v=b-zlp2S7PV8) Coalition for Networked Information, CNI Pre-Recorded Project Briefing Series: July 2022.
 - Kijas, Anna. "Saving Ukrainian Cultural Heritage Online." Preserving Ukraine’s Cultural Heritage and Historical Record, University of Toronto. July 8, 2022.
