@@ -19,6 +19,9 @@ We are very grateful for the financial support by the following organizations. V
     <a href="https://pearljam.com/vitalogy"><img alt="Pearl Jam Vitalogy Foundation" src="/assets/images/vitalogy-logo-round.png"></a>
   </li>
   <li class="d-inline-block mr-6">
+    <a href="https://fai.nu/summary-in-english/"><img alt="Föreningen för arkiv och informationsförvaltning" src="/assets/images/fai_logo.png"></a>
+  </li>
+  <li class="d-inline-block mr-6">
     <a href="https://pro.europeana.eu/about-us/foundation"><img alt="Europeana Foundation" src="/assets/images/europeana-logo.png"></a>
   </li>
   <li class="d-inline-block mr-6">
@@ -26,6 +29,9 @@ We are very grateful for the financial support by the following organizations. V
   </li>
   <li class="d-inline-block mr-6">
     <a href="https://eadh.org/"><img alt="European Association of Digital Humanities" src="/assets/images/eadh-logo.png"></a>
+  </li>
+  <li class="d-inline-block mr-6">
+    <a href="https://www.musiclibraryassoc.org/"><img alt="Music Library Association" src="/assets/images/mla_logo.png"></a>
   </li>
 </ul>
 
@@ -58,9 +64,6 @@ We are very grateful for the financial support by the following organizations. V
   </li>
   <li class="d-inline-block mr-6">
     <a href="https://www.kb.se/in-english.html"><img alt="Kungl Biblioteket" src="/assets/images/KB-logo.png"></a>
-  </li>
-  <li class="d-inline-block mr-6">
-    <a href="https://fai.nu/summary-in-english/"><img alt="Föreningen för arkiv och informationsförvaltning" src="/assets/images/fai_logo.png"></a>
   </li>
   <li class="d-inline-block mr-6">
     <a href="https://nid.pl"><img alt="Narodowy Instytut Dziedzictwa" src="/assets/images/nid-logo.png"></a>
