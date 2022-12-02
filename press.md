@@ -71,6 +71,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - [Meet the group seeking to preserve Ukrainian culture by rescuing Ukrainian websites](https://www.cbsnews.com/video/meet-the-group-seeking-to-preserve-ukrainian-culture-by-rescuing-ukrainian-websites/#x). *CBS News*. July 16, 2022.
 - Avaneszadeh, Alex. [Interview with Anna Kijas on the 'Saving Ukrainian Cultural Heritage Online' Project](https://sites.tufts.edu/fletcherrussia/interview-with-anna-kijas-on-the-saving-ukrainian-cultural-heritage-online-project/). Russia and Eurasia Program, The Fletcher School, Tufts University. June 29, 2022.  
 - [Against the Grain Podcast 163 - SUCHO: Saving Ukrainian Cultural Heritage Online](http://atgthepodcast.libsyn.com/atgthepodcast-163-sucho-saving-ukrainian-cultural-heritage-online ). *ATGthePodcast.com*. June 27, 2022.
+- [Interview with SUCHO Co-founders](https://youtu.be/7PG1C5_SSd8). Created by Coherent Digital for an ALA 2022 breakfast presentation. June 26, 2022.
 - [Podcast: GLAM International Series – Saving Ukrainian Cultural Heritage Online (SUCHO)](https://museum.bc.ca/brain/glam-international-sucho/). *BC Museums Association*. June 2, 2022.
 - [Saving Ukrainian Heritage: Episodes 1 to 4](https://www.npr.org/podcasts/811625591/augmented-humanity). *Augmented Humanity*. May 2 - 23, 2022.
 - [Preserving Ukraine's cultural treasures with digital tools](https://www.pbs.org/newshour/show/preserving-ukraines-cultural-treasures-with-digital-tools). *PBS NewsHour*. April 28, 2022.
