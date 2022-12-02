@@ -4,6 +4,9 @@ permalink: /press
 title: Press Coverage
 ---
 
+## Press Coverage
+This is a selection of press coverage, publications, and presentations about the Saving Ukrainian Cultural Heritage Online initiative.
+
 Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 - **August 8, 2022 press release**: [Phase 2 of the SUCHO Initiative](/press-release-20220808-phase-2)
