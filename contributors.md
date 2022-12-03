@@ -25,6 +25,7 @@ We are also very grateful to Amazon Web Services, Digital Ocean and Wasabi, who 
 - Erica Peaslee, ALM, Centurion Solutions, LLC (Situation Monitoring Coordinator)
 - Anna Rakityanskaya, Harvard University Libraries (Meme Coordinator)
 - Dena Strong (Community Engagement Coordinator)
+- Alex Wingate, Indiana University Bloomington (Metadata Coordinator)
 
 
 ### The team
