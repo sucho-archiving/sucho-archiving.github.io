@@ -44,6 +44,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Michael Borchert
 - Ilaria Bortot
 - Kostyantyn Bondarenko, Ukrainian Research Institute, Harvard University
+- Jesika Brooks, Columbia College
 - Robin Burke, University of Colorado Boulder
 - Karen Butcher, University of Brighton
 - Yuri Cantrell
@@ -80,6 +81,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Sara Janes, Lakehead University 
 - Martin Jefferies, Smartify
 - Lunja Jeschke, Bayerische Staatsbibliothek
+- Kiley Jolicoeur, Syracuse University Libraries
 - Eric Kansa, OpenContext.org
 - Brandon Katzir, Oklahoma State University
 - Allison King, Mat-Su College, UAA
