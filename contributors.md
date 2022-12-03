@@ -20,8 +20,10 @@ We are also very grateful to Amazon Web Services, Digital Ocean and Wasabi, who 
 
 **With support from**
 
+- Kiley Jolicoeur, Syracuse University Libraries (Gallery Coordinator)
 - Kim Martin, University of Guelph (Metadata Coordinator)
 - Erica Peaslee, ALM, Centurion Solutions, LLC (Situation Monitoring Coordinator)
+- Anna Rakityanskaya, Harvard University Libraries (Meme Coordinator)
 - Dena Strong (Community Engagement Coordinator)
 
 
