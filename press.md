@@ -87,7 +87,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - Schwartz, Elin. ["Svenskar sparar ner Ukrainas internet: ”Vill rädda digitala kulturarvet”"](https://www.svt.se/kultur/har-dammsugs-ukrainska-internet-fran-goteborg-vill-radda-det-digitala-kulturarvet) *SVT Nyheter*. April 11, 2022.
 - Kranz, Oliver. ["Krieg und Frieden / Positionen zur Zeit"](https://www.rbb-online.de/rbbkultur/podcasts/krieg-und-frieden/). *RBB Kultur*. March 28, 2022.
 - Svensson, Marcus. ["Svenskarnas insats i kriget: Andreas räddar Ukrainas internet"](https://sverigesradio.se/artikel/svenskarnas-insats-i-kriget-andreas-raddar-ukrainas-internet). *Sveriges Radio*. March 28, 2022.
-- ["How a Collective is Saving Ukainian Cultural Treasurers"](https://www.youtube.com/watch?v=TdXocTUfmbU). *DW Shift*. March 26, 2022.
+- ["How a Collective is Saving Ukrainian Cultural Treasurer"](https://www.youtube.com/watch?v=TdXocTUfmbU). *DW Shift*. March 26, 2022.
 - ["S11E01: Conservation and Conflict](https://thecword.show/2022/03/23/s11e01-conservation-and-conflict/)" (starting 32:08). *The C-Word: The Conservators' Podcast*. March 23, 2022.
 - ["Die ukrainische Kultur bewahren: Digitale Kunstwerke sichern."](https://www.ndr.de/kultur/kunst/Die-ukrainische-Kultur-bewahren-digitales-Kulturgut-sichern,ukrainischekultur100.html) *NDR Kultur.* March 16, 2022.
 - ["The art world has come under Russia's attack, but the community is fighting back to keep Ukraine's cultural identity alive."](https://www.abc.net.au/news/2022-03-12/russia-ukraine-war-artists-fight-for-cultural-identity/100899202) *ABC News (Australia)*. March 11, 2022.
