@@ -85,8 +85,8 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Martin Jefferies, Smartify
 - Lunja Jeschke, Bayerische Staatsbibliothek
 - Kiley Jolicoeur, Syracuse University Libraries
-- Eric Kansa, OpenContext.org
 - Karan Kamath
+- Eric Kansa, OpenContext.org
 - Brandon Katzir, Oklahoma State University
 - Allison King, Mat-Su College, UAA
 - Kate Kisselstein, Baldwinsville Public Library
