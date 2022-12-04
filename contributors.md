@@ -140,6 +140,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Katharina Schmid, Bayerische Staatsbibliothek, München
 - Andreas Segerberg, University of Gothenburg and ESSolutions 
 - Masha Semashyna, Central European University, Budapest/Vienna
+- Mieke Siemons, the Netherlands
 - Amanda Simmons
 - Giuli Šlapkova
 - Agata Sobczak, Leo Baeck Institute 
