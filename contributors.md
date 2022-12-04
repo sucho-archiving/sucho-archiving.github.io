@@ -86,6 +86,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Lunja Jeschke, Bayerische Staatsbibliothek
 - Kiley Jolicoeur, Syracuse University Libraries
 - Eric Kansa, OpenContext.org
+- Karan Kamath
 - Brandon Katzir, Oklahoma State University
 - Allison King, Mat-Su College, UAA
 - Kate Kisselstein, Baldwinsville Public Library
