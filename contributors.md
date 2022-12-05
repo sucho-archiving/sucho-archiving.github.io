@@ -138,6 +138,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Lesia Savedchuk
 - Tina Schneider, The Ohio State University
 - Katharina Schmid, Bayerische Staatsbibliothek, München
+- Ben Schmidt, Nomic
 - Andreas Segerberg, University of Gothenburg and ESSolutions 
 - Masha Semashyna, Central European University, Budapest/Vienna
 - Mieke Siemons, the Netherlands
