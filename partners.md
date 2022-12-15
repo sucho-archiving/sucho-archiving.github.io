@@ -33,6 +33,9 @@ We are very grateful for the financial support by the following organizations. V
   <li class="d-inline-block mr-6">
     <a href="https://www.musiclibraryassoc.org/"><img alt="Music Library Association" src="/assets/images/mla_logo.png"></a>
   </li>
+   <li class="d-inline-block mr-6">
+    <a href="https://www.iaml.info/"><img alt="International Association of Music Libraries, Archives and Documentation Centres" src="/assets/images/iaml.png"></a>
+  </li>
 </ul>
 
 ## Cooperation partners
