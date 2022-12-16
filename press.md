@@ -14,6 +14,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Besson, Julie. ["Un entretien avec SUCHO : comment des bénévoles se sont rassemblés pour protéger le patrimoine numérique ukrainien / Saving Ukrainian Cultural Heritage Online : how volunteers gathered around the world"](https://metis-lab.com/2022/12/12/un-entretien-avec-sucho-comment-des-benevoles-se-sont-rassembles-pour-proteger-le-patrimoine-numerique-ukrainien/). *Mêtis*. December 12, 2022.
 - Marche, Stephen. ["‘Our mission is crucial’: meet the warrior librarians of Ukraine"](https://www.theguardian.com/books/2022/dec/04/our-mission-is-crucial-meet-the-warrior-librarians-of-ukraine). *The Guardian*. December 4, 2022.
 - Young, Michelle. ["Saving the Artwork of Ukraine"](https://www.wilsonquarterly.com/quarterly/ripples-of-war/saving-the-artwork-of-ukraine). *Wilson Quarterly*. July 18, 2022.
 - LeBlanc, Zoe, et. al. ["A Conversation with the Organizers of Saving Ukrainian Cultural Heritage Online (SUCHO)"](https://iopn.library.illinois.edu/journals/jloe/article/view/969). *Journal of Library Outreach and Engagement* vol. 2, 1, July 13, 2022.
