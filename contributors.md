@@ -36,6 +36,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Christina Agramonte, Georgia College
 - Olha Aleksic, Ukrainian Research Institute, Harvard University
 - John Ayliff
+- Sofie Moeller Ashley
 - Clarisse Bardiot, University of Rennes 2, France
 - Elton Barker, The Open University, UK
 - Andrea Bernardini
