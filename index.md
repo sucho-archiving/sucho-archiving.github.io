@@ -54,7 +54,7 @@ We'll need help looking for memes (in many languages) for our [meme wall collect
 ## Coordinators
 - [Quinn Dombrowski](https://twitter.com/quinnanya), Stanford University
 - [Anna E. Kijas](https://twitter.com/anna_kijas), Tufts University
-- [Sebastian Majstorovic](https://twitter.com/storytracer), Austrian Centre for Digital Humanities and Cultural Heritage
+- [Sebastian Majstorovic](https://www.storytracer.org), European University Institute
 
 You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org). Follow our Twitter account [@sucho_org](https://twitter.com/sucho_org) for updates on the initative.
 
