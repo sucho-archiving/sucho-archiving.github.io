@@ -14,6 +14,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Clavert, Frédéric. ["Préservons notre patrimoine numérique grâce au contre-archivage décentralisé et collaboratif"](https://www.lemonde.fr/idees/article/2022/12/17/preservons-notre-patrimoine-numerique-grace-au-contre-archivage-decentralise-et-collaboratif_6154820_3232.html). *Le Monde*. December 17, 2022.
 - Besson, Julie. ["Un entretien avec SUCHO : comment des bénévoles se sont rassemblés pour protéger le patrimoine numérique ukrainien / Saving Ukrainian Cultural Heritage Online : how volunteers gathered around the world"](https://metis-lab.com/2022/12/12/un-entretien-avec-sucho-comment-des-benevoles-se-sont-rassembles-pour-proteger-le-patrimoine-numerique-ukrainien/). *Mêtis*. December 12, 2022.
 - Marche, Stephen. ["‘Our mission is crucial’: meet the warrior librarians of Ukraine"](https://www.theguardian.com/books/2022/dec/04/our-mission-is-crucial-meet-the-warrior-librarians-of-ukraine). *The Guardian*. December 4, 2022.
 - Cummins, Todd. ["Librarians at Ohio State Lima continue their efforts in archiving Ukraine's culture online"](https://www.hometownstations.com/news/librarians-at-ohio-state-lima-continue-their-efforts-in-archiving-ukraines-culture-online/article_8df74e9a-3dd8-11ed-8918-433c7331ecb2.html). *Hometown Stations, Lima, Ohio*. September 26, 2022.
