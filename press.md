@@ -101,11 +101,16 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Talks
+- Kijas, Anna. "Saving Ukrainian Cultural Heritage Online." ALLIES Speaker Series. Tufts University. November 30, 2022.
 - Holownia, Olga, Yves Maurer, Taras Nazaruk, Erica Peaslee, Valérie Schafer, Dr. Lars Wieneke, and Nina Janz. Roundtable Discussion: “(Digital) Cultural Heritage at risk. Lessons learned for future preservation strategies”. Project “Witness the Now” - Challenges for Emergency Archiving and Oral History following the Russian Invasion of Ukraine. Luxembourg Centre for Contemporary and Digital History. November 22, 2022.
+- Kijas, Anna. "Saving Ukrainian Cultural Heritage Online." Johns Hopkins Digital History Workshop. November 17, 2022.
 - Jolicoeur, Kiley, Erica Peaslee. “Saving Ukrainian Cultural Heritage Online.” The Ukrainian History and Education Center. November 15, 2022.
 - Schneider, Tina and Zach Walton. "[Digital Preservation as Activism: Ensuring Access to Ukrainian eResources in Peril](https://www.alaoweb.org/conferences/2022/program)." Academic Library Association of Ohio conference. November 4, 2022.
 - Kijas, Anna, Sebastian Majstorovic, Quinn Dombrowski, Sam Dombrowski, Andreas Segerberg, and Gudrun Wirtz. "Protecting Digital Cultural Heritage in Time of Crisis." Austrian Centre for Digital Humanities and Cultural Heritage. Vienna, Austria. October 18, 2022.
 - Kijas, Anna, Sebastian Majstorovic, Quinn Dombrowski, Sam Dombrowski, and Andreas Segerberg. "Saving Ukrainian Cultural Heritage Online." University of Gothenburg. Gothenburg, Sweden. October 14, 2022. 
+- Majstorovic, Sebastian. ["Collaborative Preservation of Cultural Heritage: Saving Ukrainian
+Cultural Heritage Online (SUCHO)."](https://www.youtube.com/watch?v=fFcsU79DnZs) Europeana 2022. September 29, 2022.
+- Dombrowski, Quinn and Sebastian Majstorovic. "Grassroots Collaboration in the Digital Humanities: Saving Ukrainian Cultural Heritage Online (SUCHO)." European Summer University. August 7, 2022.
 - Martin, Kim, Erica Peaslee, Alex Gil. "Saving Ukrainian Cultural Heritage Online." DH2022 Tokyo. July 25, 2022.
 - Rakityanskaya, Anna, Alex Gil, Quinn Dombrowski. ["Saving Ukrainian Cultural Heritage Online & Rapid-Response Digital Humanities."](https://www.youtube.com/watch?v=b-zlp2S7PV8) Coalition for Networked Information, CNI Pre-Recorded Project Briefing Series: July 2022.
 - Kijas, Anna. "Saving Ukrainian Cultural Heritage Online." Preserving Ukraine’s Cultural Heritage and Historical Record, University of Toronto. July 8, 2022.
