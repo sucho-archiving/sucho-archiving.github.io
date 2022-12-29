@@ -14,6 +14,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Dombrowski, Quinn, Anna Kijas, and Sebastian Majstorovic. [“Digital Cultural Heritage Under Attack: Saving Ukrainian Cultural Heritage Online (SUCHO).”](https://doi.org/10.17721/2519-4801.2022.1.01 ) *TEXT AND IMAGE: ESSENTIAL PROBLEMS IN ART HISTORY* vol. 1, 13, 2022. https://doi.org/10.17721/2519-4801.2022.1.01.
 - Clavert, Frédéric. ["Préservons notre patrimoine numérique grâce au contre-archivage décentralisé et collaboratif."](https://www.lemonde.fr/idees/article/2022/12/17/preservons-notre-patrimoine-numerique-grace-au-contre-archivage-decentralise-et-collaboratif_6154820_3232.html) *Le Monde*. December 17, 2022.
 - Besson, Julie. ["Un entretien avec SUCHO : comment des bénévoles se sont rassemblés pour protéger le patrimoine numérique ukrainien / Saving Ukrainian Cultural Heritage Online: how volunteers gathered around the world."](https://metis-lab.com/2022/12/12/un-entretien-avec-sucho-comment-des-benevoles-se-sont-rassembles-pour-proteger-le-patrimoine-numerique-ukrainien/) *Mêtis*. December 12, 2022.
 - Marche, Stephen. ["‘Our mission is crucial’: meet the warrior librarians of Ukraine."](https://www.theguardian.com/books/2022/dec/04/our-mission-is-crucial-meet-the-warrior-librarians-of-ukraine) *The Guardian*. December 4, 2022.
