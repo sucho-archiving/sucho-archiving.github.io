@@ -41,6 +41,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Elton Barker, The Open University, UK
 - Andrea Bernardini
 - Jeremi Bigosinski, PLA, Norwalk Community College
+- Тetiana Bilushchak, Ph.D., Associate professor of Social Communication and Information Activities Department, Lviv Polytechnic National University, Ukraine
 - Peter Binkley, U of Alberta Library
 - Aaron Bittel, Wesleyan University Library
 - Marcus Bitzl
