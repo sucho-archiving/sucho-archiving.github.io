@@ -103,6 +103,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Talks
+- Majstorovic, Sebastian. "Saving Ukrainian Cultural Heritage Online." [Documenting Ukraine: Bearing Witness to War](https://www.iwm.at/sites/default/files/2023-01/BWtWPublicProgram.pdf). Institut für die Wissenschaften vom Menschen, Vienna, Austria. February 7-8, 2023.
 - Kijas, Anna. "Saving Ukrainian Cultural Heritage Online." ALLIES Speaker Series. Tufts University. November 30, 2022.
 - Holownia, Olga, Yves Maurer, Taras Nazaruk, Erica Peaslee, Valérie Schafer, Dr. Lars Wieneke, and Nina Janz. Roundtable Discussion: “(Digital) Cultural Heritage at risk. Lessons learned for future preservation strategies”. Project “Witness the Now” - Challenges for Emergency Archiving and Oral History following the Russian Invasion of Ukraine. Luxembourg Centre for Contemporary and Digital History. November 22, 2022.
 - Kijas, Anna. "Saving Ukrainian Cultural Heritage Online." Johns Hopkins Digital History Workshop. November 17, 2022.
