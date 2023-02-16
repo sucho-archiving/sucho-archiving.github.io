@@ -16,14 +16,17 @@ We are also very grateful to Amazon Web Services, Digital Ocean and Wasabi, who 
 
 - Quinn Dombrowski, Stanford University
 - Anna Kijas, Tufts University
-- Sebastian Majstorovic, Austrian Center for Digital Humanities & Cultural Heritage
+- Sebastian Majstorovic, European University Institute
 
 **With support from**
 
+- Iryna Berezneva, Museum Karlshorst, Berlin (Equipment Coordinator)
 - Kiley Jolicoeur, Syracuse University Libraries (Gallery Coordinator)
 - Kim Martin, University of Guelph (Metadata Coordinator)
+- Ekaterina Malygina, Museum Karlshorst, Berlin (Equipment Coordinator)
 - Erica Peaslee, ALM, Centurion Solutions, LLC (Situation Monitoring Coordinator)
 - Anna Rakityanskaya, Harvard University Libraries (Meme Coordinator)
+- Olena Sharafanenko, Bavarian State Library, Munich, Germany (Metadata and Translation Support)
 - Dena Strong (Community Engagement Coordinator)
 - Alex Wingate, Indiana University Bloomington (Metadata Coordinator)
 
@@ -67,6 +70,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Catherine Emerson, National University of Ireland Galway
 - Claudia Engel
 - Julia Fallon, Europeana Foundation
+- Caroline Finkeldey, Bayerische Staatsbibliothek
 - Matthew Fisher
 - Curtis Forte, Archival MLIS Student - University of Alabama Tuscaloosa
 - Kristina Gerhardt, MLIS Student, San Jose State University 
@@ -117,6 +121,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Stefan Münnich, University of Basel
 - Dina Murokh, PhD Candidate, Art History, USC
 - Maryam Mustafa
+- Maryna Nazarovetz, NFDI4Culture
 - Amy Nelson, Virginia Tech
 - Kathryn Newbould
 - Delfi Nieto-Isabel, Harvard University
