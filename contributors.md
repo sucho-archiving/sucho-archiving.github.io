@@ -87,7 +87,7 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Gernot Howanitz, U of Innsbruck
 - Lynda Howell, University of Vermont Libraries
 - Tom Hull
-- Andy Janco, Haverford College
+- Andy Janco, University of Pennsylvania
 - Sara Janes, Lakehead University 
 - Martin Jefferies, Smartify
 - Lunja Jeschke, Bayerische Staatsbibliothek
