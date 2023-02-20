@@ -74,11 +74,12 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Matthew Fisher
 - Curtis Forte, Archival MLIS Student - University of Alabama Tuscaloosa
 - Kristina Gerhardt, MLIS Student, San Jose State University 
-- Alex Gil
+- Alex Gil, Yale University
 - Felipe Gómez, Carnegie Mellon University
 - Daniel Gorman Jr., PhD Candidate, University of Rochester
 - Sasha Goryl, Indiana University
 - Allison Graham, MI student, University of Toronto
+- Laura Gayle Green, Florida State University
 - Paulina Guerrero, Indiana University
 - Dr. Daniel K. Gullo, Malta Study Center, Hill Museum & Manuscript Library
 - Maggie Heeschen
