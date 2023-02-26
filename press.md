@@ -14,6 +14,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 - **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
+- Štanzel, Arnost, Tobias Beinert. ["Saving Ukrainian Cultural Heritage Online. Zum Schutz des digitalen Erbes der Ukraine."](https://www.bsb-muenchen.de/fileadmin/pdf/publikationen/bibliotheksmagazin/bm_2022_3.pdf) *Bibliotheksmagazin* 2022/3, S. 70-74.
 - Rakityanskaya, Anna. ["The SUCHO Ukrainian War Memes Collection."](https://doi.org/10.1080/15228886.2023.2169634) *Slavic & East European Information Resources.* January 21, 2023. DOI: 10.1080/15228886.2023.2169634 
 - Clavert, Frédéric. ["Préservons notre patrimoine numérique grâce au contre-archivage décentralisé et collaboratif."](https://www.lemonde.fr/idees/article/2022/12/17/preservons-notre-patrimoine-numerique-grace-au-contre-archivage-decentralise-et-collaboratif_6154820_3232.html) *Le Monde*. December 17, 2022.
 - Jolicoeur, Kiley, Anna Kijas, and Anna Rakityanskaya. ["Saving Ukrainian Cultural Heritage Online: A Global Initiative."](http://www.ucs-univ.kiev.ua/index.php/en/2-uncategorised/461-jolicoeur-kijas-rakityanskaya-11-1) *Ukrainian Cultural Studies* no. 2, 11, December 12, 2022.
