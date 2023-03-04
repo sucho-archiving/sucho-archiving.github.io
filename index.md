@@ -17,6 +17,8 @@ SUCHO is an initiative of over 1,500 international volunteers who are collaborat
 SUCHO is now moving into a new phase of the project, defined by three goals: **Curate, [Donate](#donate), Educate**. In Phase 2, SUCHO will coordinate aid shipments of digitization hardware, exhibit Ukrainian culture online and organize training for Ukrainian cultural workers in digitization methods.
 {: .text-justify }
 
+View our [end-of-year report for March - December 2022](/reports.md){: .btn }
+
 ## Where can you see the SUCHO data?
 
 We are currently in the process of curating the full 50TB of web archives we have collected. The raw files are publicly accessible from the [AWS Open Data registry](https://registry.opendata.aws/sucho/). Once they have been minimally curated, we will make them viewable in a user-friendly way on our website.
