@@ -11,4 +11,4 @@ You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org). F
 ## Coordinators
 - [Quinn Dombrowski](https://twitter.com/quinnanya), Stanford University
 - [Anna E. Kijas](https://twitter.com/anna_kijas), Tufts University
-- [Sebastian Majstorovic](https://twitter.com/storytracer), Austrian Centre for Digital Humanities and Cultural Heritage
+- [Sebastian Majstorovic](https://twitter.com/storytracer), European University Institute
