@@ -6,7 +6,7 @@ permalink: contact
 
 # Contact
 
-You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org). Follow our Twitter account [@sucho_org](https://twitter.com/sucho_org) for updates on the initative.
+You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org). Follow our Twitter account [@sucho_org](https://twitter.com/sucho_org) or Mastodon account [@sucho@hcommons.social](https://hcommons.social/@sucho) for updates on the initiative.
 
 ## Coordinators
 - [Quinn Dombrowski](https://twitter.com/quinnanya), Stanford University
