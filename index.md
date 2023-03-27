@@ -58,7 +58,7 @@ We'll need help looking for memes (in many languages) for our [meme wall collect
 - [Anna E. Kijas](https://twitter.com/anna_kijas), Tufts University
 - [Sebastian Majstorovic](https://www.storytracer.org), European University Institute
 
-You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org). Follow our Twitter account [@sucho_org](https://twitter.com/sucho_org) or on <a rel="me" href="https://hcommons.social/@sucho" />Mastodon</a> for updates on the initative.
+You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org). Follow our Twitter account [@sucho_org](https://twitter.com/sucho_org) or on [Mastodon](href="https://hcommons.social/@sucho") for updates on the initative.
 
 Please see our [contributors](/contributors) page for more info on the entire team!
 
