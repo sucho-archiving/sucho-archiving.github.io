@@ -3,6 +3,7 @@ layout: default
 permalink: press-release-20220308-volunteers-unite
 title: Volunteers Unite to Archive Ukrainian Cultural Heritage
 ---
+<base target="_blank">
 
 # Volunteers Unite to Archive Ukrainian Cultural Heritage
 
