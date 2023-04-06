@@ -3,6 +3,7 @@ layout: default
 permalink: molodyivchenyi
 title: Molodyvcheny
 ---
+<base target="_blank">
 
 One of the sites submitted via the collection form is [http://molodyvcheny.in.ua/ua/archive/](http://molodyvcheny.in.ua/ua/archive/). The homepage of this site is captured by the Internet Archive, but individual PDFs in individual issues are much less represented.
 
