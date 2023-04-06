@@ -3,6 +3,7 @@ layout: default
 permalink: /tech
 title: Tech
 ---
+<base target="_blank">
 
 # Archiving tools
 
