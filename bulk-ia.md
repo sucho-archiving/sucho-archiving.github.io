@@ -3,6 +3,7 @@ layout: default
 permalink: ia-bulk-upload
 title: Bulk upload to Internet Archive
 ---
+<base target="_blank">
 
 ## Bulk Uploading to Internet Archive
 
