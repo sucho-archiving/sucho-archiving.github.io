@@ -3,6 +3,7 @@ layout: default
 permalink: data-upload
 title: "Where do I upload the data?"
 ---
+<base target="_blank">
 
 Here's what we're doing with the data we gather as part of SUCHO.
 
