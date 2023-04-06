@@ -7,6 +7,8 @@ image: /assets/images/sucho-poster-landscape-medium.jpg
 youtubeID: 7PG1C5_SSd8
 ---
 
+<base target="_blank">
+
 # Saving Ukrainian Cultural Heritage Online
 
 <img src="/assets/images/sucho-logo.png" width="150px" style="float:right; margin-left: 10px;" title="Saving Ukrainian Cultural Heritage Online">
@@ -18,6 +20,13 @@ SUCHO is now moving into a new phase of the project, defined by three goals: **C
 {: .text-justify }
 
 [View the end-of-year report for March - December 2022](/reports.md){: .btn }
+
+## Follow us on Social Media
+
+- Twitter: [@sucho_org](https://twitter.com/sucho_org)
+- Mastodon: <a rel="me" href="https://hcommons.social/@sucho/">@sucho</a> 
+- Facebook: [https://www.facebook.com/sucho.initiative](sucho.initiative)
+
 
 ## Where can you see the SUCHO data?
 
@@ -58,7 +67,7 @@ We'll need help looking for memes (in many languages) for our [meme wall collect
 - [Anna E. Kijas](https://twitter.com/anna_kijas), Tufts University
 - [Sebastian Majstorovic](https://www.storytracer.org), European University Institute
 
-You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org). Follow our Twitter account [@sucho_org](https://twitter.com/sucho_org) or on <a rel="me" href="https://hcommons.social/@sucho/">Mastodon</a> for updates on the initative.
+You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org).
 
 Please see our [contributors](/contributors) page for more info on the entire team!
 
