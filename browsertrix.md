@@ -3,6 +3,8 @@ layout: default
 permalink: browsertrix
 title: Browsertrix
 ---
+<base target="_blank">
+
 # Intro
 
 This tutorial will teach you how to run Browsertrix locally on your computer to archive a site to your harddrive. This process requires intermediate-skills using the command line and Docker. If you would prefer to run Browsertrix through a user-interface, see our dedicated tutorial on [Browsertrix-Cloud](https://www.sucho.org/browsertrix-cloud). 
