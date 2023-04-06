@@ -3,6 +3,7 @@ layout: default
 permalink: orientation
 title: Orientation
 ---
+<base target="_blank">
 
 # SUCHO Orientation
 
