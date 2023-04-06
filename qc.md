@@ -3,6 +3,7 @@ layout: default
 permalink: qc
 title: Quality Control
 ---
+<base target="_blank">
 
 # Quality control
 
