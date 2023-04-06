@@ -4,6 +4,8 @@ permalink: partners
 title: Partners
 ---
 
+<base target="_blank">
+
 # Partners
 
 SUCHO is partnering with a number of organizations to further the digitization and preservation of Ukrainian cultural heritage.
