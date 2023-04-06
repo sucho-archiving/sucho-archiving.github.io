@@ -3,6 +3,7 @@ layout: default
 permalink: mirroring
 title: Mirroring the SUCHO web archives
 ---
+<base target="_blank">
 
 # Mirroring the SUCHO web archives
 
