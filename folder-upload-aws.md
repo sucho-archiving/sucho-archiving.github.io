@@ -3,6 +3,7 @@ layout: default
 permalink: folder-upload-aws
 title: Folder upload to AWS
 ---
+<base target="_blank">
 
 If you have something more complicated than a WACZ file to upload, be it from custom scraping a website or a failed crawl, you can also upload an entire folder using the `aws` commandline tool. For that purpose you will have to request your own upload credentials via DM from one of our AWS admins.
 
