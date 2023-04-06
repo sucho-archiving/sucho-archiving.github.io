@@ -3,6 +3,7 @@ layout: default
 permalink: reports
 title: Reports
 ---
+<base target="_blank">
 
 ## March - December 2022
 Access to the full report for March - December 2022 will be available soon.
