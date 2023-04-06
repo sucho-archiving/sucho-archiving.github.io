@@ -25,8 +25,7 @@ SUCHO is now moving into a new phase of the project, defined by three goals: **C
 
 - Twitter: [@sucho_org](https://twitter.com/sucho_org)
 - Mastodon: <a rel="me" href="https://hcommons.social/@sucho/">@sucho</a> 
-- Facebook: [https://www.facebook.com/sucho.initiative](sucho.initiative)
-
+- Facebook: [sucho.initiative](https://www.facebook.com/sucho.initiative)
 
 ## Where can you see the SUCHO data?
 
