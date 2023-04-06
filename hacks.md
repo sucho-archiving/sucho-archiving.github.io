@@ -3,6 +3,7 @@ layout: default
 permalink: hacks
 title: Useful Code and Hacks
 ---
+<base target="_blank">
 
 ## Automate download of PDF/PNG files
 [Mathematica notebook](https://drive.google.com/file/d/1A88nL5WfdzvgUfV8yO8vJo-Go1YBBwpY/view?usp=sharing) for use in automating download of PDF/PNG files. 
