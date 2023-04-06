@@ -3,6 +3,7 @@ layout: default
 permalink: wacz-upload-aws
 title: Uploading WACZ to AWS
 ---
+<base target="_blank">
 
 If you have a big WACZ file that you can't submit via the Google Form, follow these instructions to upload your WACZ directly to our S3 bucket. If you need to upload more complicated data, like custom scraping results or a failed crawl, you need to request your own upload credentials so that you get access to your personal [AWS upload folder](/folder-upload-aws).
 
