@@ -3,6 +3,7 @@ layout: default
 permalink: situation-monitoring
 title: Situation Monitoring
 ---
+<base target="_blank">
 
 # Situation Monitoring
 
