@@ -3,6 +3,7 @@ layout: default
 title: Contact Us
 permalink: contact
 ---
+<base target="_blank">
 
 # Contact
 
