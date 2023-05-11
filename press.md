@@ -105,7 +105,12 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Talks
+- Dombrowski, Quinn, Anna Kijas, Sebastian Majstorovic, Andreas Segerberg, Ulia Gosart, and Sam Dombrowski. "Socially-Engaged Digital Humanities." CESTA, Stanford University. May 9, 2023.
+- Kijas, Anna, Quinn Dombrowski, Sebastian Majstorovic. "Preserving Digital Cultural Heritage: Lessons and Perspectives from SUCHO." Ukrainian Libraries During the Wartime. San Jose State University. April 5, 2023.
+- Dombrowski, Quinn, Anna Kijas, Andreas Segerberg. ACA@UBC Symposium on Archives Unbound. Redefining Archival Concepts and Practices. February 11, 2023.
 - Majstorovic, Sebastian. "Saving Ukrainian Cultural Heritage Online." [Documenting Ukraine: Bearing Witness to War](https://www.iwm.at/sites/default/files/2023-01/BWtWPublicProgram.pdf). Institut für die Wissenschaften vom Menschen, Vienna, Austria. February 7-8, 2023.
+- Dombrowski, Quinn, Anna Kijas, Kiley Jolicoeur. "Warrior Librarians for Ukraine: 
+Saving Jewish & Ukrainian Cultural Heritage." Jewish Historical Society of Michigan. January 12, 2023.
 - Kijas, Anna. "Saving Ukrainian Cultural Heritage Online." ALLIES Speaker Series. Tufts University. November 30, 2022.
 - Holownia, Olga, Yves Maurer, Taras Nazaruk, Erica Peaslee, Valérie Schafer, Dr. Lars Wieneke, and Nina Janz. Roundtable Discussion: “(Digital) Cultural Heritage at risk. Lessons learned for future preservation strategies”. Project “Witness the Now” - Challenges for Emergency Archiving and Oral History following the Russian Invasion of Ukraine. Luxembourg Centre for Contemporary and Digital History. November 22, 2022.
 - Kijas, Anna. "Saving Ukrainian Cultural Heritage Online." Johns Hopkins Digital History Workshop. November 17, 2022.
