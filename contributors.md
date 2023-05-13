@@ -20,12 +20,12 @@ We are also very grateful to Amazon Web Services, Digital Ocean and Wasabi, who 
 
 **With support from**
 
-- Iryna Berezneva, Museum Karlshorst, Berlin (Equipment Coordinator)
 - Kiley Jolicoeur, Syracuse University Libraries (Gallery Coordinator)
 - Kim Martin, University of Guelph (Metadata Coordinator)
-- Ekaterina Malygina, Museum Karlshorst, Berlin (Equipment Coordinator)
+- Ekaterina Malygina, Berlin (Digital Consultant & Equipment Coordinator) 
 - Erica Peaslee, ALM, Centurion Solutions, LLC (Situation Monitoring Coordinator)
 - Anna Rakityanskaya, Harvard University Libraries (Meme Coordinator)
+- Andreas Segerberg, University of Gothenburg
 - Olena Sharafanenko, Bavarian State Library, Munich, Germany (Metadata and Translation Support)
 - Dena Strong (Community Engagement Coordinator)
 - Alex Wingate, Indiana University Bloomington (Metadata Coordinator)
@@ -147,7 +147,6 @@ Thank you to everyone who's volunteered their time for the project -- we've had 
 - Tina Schneider, The Ohio State University
 - Katharina Schmid, Bayerische Staatsbibliothek, München
 - Ben Schmidt, Nomic
-- Andreas Segerberg, University of Gothenburg and ESSolutions 
 - Masha Semashyna, Central European University, Budapest/Vienna
 - Mieke Siemons, the Netherlands
 - Amanda Simmons
