@@ -8,6 +8,8 @@ title: Equipment for Ukraine
 
 ## Equipment Donations for Ukraine
 
+[Donate to the equipment fund](https://opencollective.com/sucho/projects/equipment){: .btn }
+
 In response to the regular power shortages in Ukraine caused by Russian bombardment, at the beginning of 2023, SUCHO began delivering power stations to Ukrainian libraries, archives, museums, and other historical and cultural institutions. SUCHO has sent 10 Anker 767 2048 Wh and 20 Anker 535 512Wh generators. This not only helped workers and visitors to urgently charge their phones and laptops and continue their work, but also, for example, to use a heater or plug in a dehumidifier to preserve books & cultural heritage.
 
 <img src="/assets/images/powerstations1.jpg" title="power-stations">
