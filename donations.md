@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: donations
-title: Donations
+title: Equipment for Ukraine
 ---
 
 <base target="_blank">
