@@ -6,7 +6,7 @@ title: Memory Savers
 <base target="_blank">
 
 # Memory Savers
-June 1, 2023
+May 31, 2023
 
 URL: https://www.sucho.org/press-release-20230601-memory-savers 
 
