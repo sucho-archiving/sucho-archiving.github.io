@@ -19,7 +19,7 @@ SUCHO is an initiative of over 1,500 international volunteers who are collaborat
 SUCHO is now moving into a new phase of the project, defined by three goals: **Curate, [Donate](#donate), Educate**. In Phase 2, SUCHO will coordinate aid shipments of digitization hardware, exhibit Ukrainian culture online and organize training for Ukrainian cultural workers in digitization methods.
 {: .text-justify }
 
-[Sign up to receive our newsletter!](subscribepage.io/sucho){: .btn }
+[Sign up to receive our newsletter!](https://subscribepage.io/sucho){: .btn }
 
 ## Follow us on Social Media
 
