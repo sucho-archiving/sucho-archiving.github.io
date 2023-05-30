@@ -10,8 +10,8 @@ This is a selection of press coverage, publications, and presentations about the
 
 Media inquiries can be directed to the project admins at **info@sucho.org**.
 
+- **May 31, 2023 press release**: [Memory Savers Internship](/press-release-20230601-memory-savers)
 - **August 8, 2022 press release**: [Phase 2 of the SUCHO Initiative](/press-release-20220808-phase-2)
-
 - **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
 
 ## Articles
