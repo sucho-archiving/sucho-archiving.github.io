@@ -3,7 +3,6 @@ layout: default
 permalink: ia-gsheets
 title: Internet Archive Google Sheets
 ---
-<base target="_blank">
 
 # Working with Wayback Machine Google Sheets Service and Internet Archive
 
