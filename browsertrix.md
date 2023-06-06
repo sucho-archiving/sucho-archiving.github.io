@@ -3,7 +3,6 @@ layout: default
 permalink: browsertrix
 title: Browsertrix
 ---
-<base target="_blank">
 
 # Intro
 
