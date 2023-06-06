@@ -3,7 +3,7 @@ layout: default
 permalink: /ukraina    
 title: Що робить SUCHO
 ---
-<base target="_blank">
+
 
 # Що робить SUCHO (Saving Ukrainian Cultural Heritage Online)
 

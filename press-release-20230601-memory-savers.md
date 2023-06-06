@@ -3,7 +3,7 @@ layout: default
 permalink: /press-release-20230601-memory-savers
 title: Memory Savers
 ---
-<base target="_blank">
+
 
 # Memory Savers
 May 31, 2023

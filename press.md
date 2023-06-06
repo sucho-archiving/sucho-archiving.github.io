@@ -3,7 +3,7 @@ layout: default
 permalink: /press    
 title: Press Coverage
 ---
-<base target="_blank">
+
 
 ## Press Coverage
 This is a selection of press coverage, publications, and presentations about the Saving Ukrainian Cultural Heritage Online initiative.

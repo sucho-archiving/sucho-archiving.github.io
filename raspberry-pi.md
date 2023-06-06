@@ -3,7 +3,7 @@ layout: default
 permalink: raspberry-pi
 title: Browsertrix on a Raspberry Pi
 ---
-<base target="_blank">
+
 
 # Browsertrix on a Raspberry Pi
 

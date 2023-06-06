@@ -3,7 +3,7 @@ layout: default
 permalink: /press-release-20220808-phase-2   
 title: Phase 2 of the SUCHO Initiative
 ---
-<base target="_blank">
+
 
 # Phase 2 of the SUCHO initiative
 August 8, 2022

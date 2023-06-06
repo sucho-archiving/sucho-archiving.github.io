@@ -3,7 +3,7 @@ layout: default
 permalink: workflow
 title: Workflow
 ---
-<base target="_blank">
+
 
 # SUCHO workflow
 

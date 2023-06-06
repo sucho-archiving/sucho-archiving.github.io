@@ -3,7 +3,7 @@ layout: default
 permalink: other-efforts
 title: Other Efforts
 ---
-<base target="_blank">
+
 
 # Other Archiving Efforts
 

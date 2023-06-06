@@ -3,7 +3,7 @@ layout: default
 title: SUCHO Week in the Bay Area
 permalink: sucho-bay-area-may2023
 ---
-<base target="_blank">
+
 
 # SUCHO Week in the Bay Area
 

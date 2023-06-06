@@ -3,7 +3,7 @@ layout: default
 permalink: tutorials
 title: Tutorials
 ---
-<base target="_blank">
+
 
 # Tutorials
 

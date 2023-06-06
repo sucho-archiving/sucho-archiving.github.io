@@ -3,7 +3,7 @@ layout: default
 title: Security
 permalink: /security
 ---
-<base target="_blank">
+
 
 ## Unsure about safety?
 

@@ -3,7 +3,7 @@ layout: default
 permalink: reports
 title: Reports
 ---
-<base target="_blank">
+
 
 ## March - December 2022
 [Read the full report for March - December 2022](https://github.com/sucho-archiving/sucho-archiving.github.io/blob/main/assets/files/Mar-Dec-2022%20End%20of%20Year%20Updates.pdf)

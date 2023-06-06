@@ -4,7 +4,7 @@ permalink: partners
 title: Partners
 ---
 
-<base target="_blank">
+
 
 # Partners
 
