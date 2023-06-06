@@ -3,7 +3,6 @@ layout: default
 permalink: europeana
 title: Europeana
 ---
-<base target="_blank">
 
 Europeana has a large number of digitized heritage objects, but only stores metadata and thumbnails. We want to try to track down the original sources for materials from Ukraine.
 
