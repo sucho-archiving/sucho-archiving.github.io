@@ -6,7 +6,6 @@ javascript:
   - csvkit.js
   - archives.js
 ---
-<base target="_blank">
 
 The following are archived websites that the project has collected so far. Use the view links to view the WACZ archive or the content at the Internet Archive. 
 
