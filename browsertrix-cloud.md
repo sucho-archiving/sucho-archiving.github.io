@@ -4,8 +4,6 @@ permalink: browsertrix-cloud
 title: Browsertrix Cloud
 ---
 
-<base target="_blank">
-
 ## Overview
 
 Browsertrix Cloud enables you to run automated web crawls using SUCHO's cloud servers, without having to install anything on your computer.
