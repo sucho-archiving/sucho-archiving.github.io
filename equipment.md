@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: donations
+permalink: equipment
 title: Equipment for Ukraine
 ---
 
