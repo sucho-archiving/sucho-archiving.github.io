@@ -9,6 +9,8 @@ menu:
 - {name: 'Memes',              url: '/memes'}
 - {name: 'Wiki',            url: 'https://wiki.sucho.org/en/home'}
 - {name: 'Reports',  url: '/reports'}
+- {name: 'Press', url: '/press'}
+- {name: 'Sponsors', url: '/contributors'}
 - {name: 'Blog',  url: '/blog'}
 - {name: 'Contact',  url: '/contact'}
 
