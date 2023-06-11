@@ -10,7 +10,7 @@ menu:
 - {name: 'Wiki',            url: 'https://wiki.sucho.org/en/home'}
 - {name: 'Reports',  url: '/reports'}
 - {name: 'Press', url: '/press'}
-- {name: 'Sponsors', url: '/contributors'}
+- {name: 'Contributors', url: '/contributors'}
 - {name: 'Blog',  url: '/blog'}
 - {name: 'Contact',  url: '/contact'}
 
