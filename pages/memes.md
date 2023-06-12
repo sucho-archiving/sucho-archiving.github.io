@@ -14,4 +14,4 @@ The meme wall was developed by Anna Rakityanskaya (Harvard University) and Simon
 
 [Read more about it in "Slavic & East European Information Resources"](https://doi.org/10.1080/15228886.2023.2169634).
 
-<div class="btn"><a href="https://subscribepage.io/sucho">Visit the meme wall</a></div>
+<div class="btn"><a href="https://memes.sucho.org/">Visit the meme wall</a></div>

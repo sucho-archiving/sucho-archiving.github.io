@@ -18,4 +18,4 @@ The purpose of the [SUCHO Gallery, “Exploring Ukrainian Cultural Heritage Onli
 
 * In collaboration with Ukrainian cultural institutions, this gallery will provide the worldwide public with context for, and a glimpse of, the history, intellectual life and culture of Ukraine, by displaying a representative variety of important cultural touchpoints.
 
-<div class="btn"><a href="https://subscribepage.io/sucho">Visit the gallery</a></div>
+<div class="btn"><a href="https://gallery.sucho.org">Visit the gallery</a></div>
