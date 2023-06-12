@@ -10,7 +10,7 @@ title: Contributors
 
 SUCHO is grateful to the [Association for Computers and the Humanities (ACH)](https://ach.org/), the [European Association for Digital Humanities](https://eadh.org/) and the [Europeana Foundation](https://pro.europeana.eu/about-us/foundation) for emergency project grants.
 
-We are also very grateful to Amazon Web Services, Digital Ocean and Wasabi, who are hosting our server infrastructure pro bono.
+We are also very grateful to Amazon Web Services, Digital Ocean and Wasabi, who are hosting our server infrastructure pro bono. Visit [this page](https://www.sucho.org/partners) to view all of our partners and sponsors. 
 
 ### Coordinators
 
