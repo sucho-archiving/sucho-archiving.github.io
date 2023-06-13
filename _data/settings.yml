@@ -11,7 +11,7 @@ menu:
 - {name: 'Reports',  url: '/reports'}
 - {name: 'Press', url: '/press'}
 - {name: 'Contributors', url: '/contributors'}
-- {name: 'Blog',  url: '/blog'}
+- {name: 'Partners',  url: '/partners'}
 - {name: 'Contact',  url: '/contact'}
 
 
