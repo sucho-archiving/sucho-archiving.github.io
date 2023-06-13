@@ -10,9 +10,11 @@ This is a selection of press coverage, publications, and presentations about the
 
 Media inquiries can be directed to the project admins at **info@sucho.org**.
 
+- **June 13, 2023 press release**: [European Heritage Awards / Europa Nostra Awards 2023](/press-release-20230613-award)
 - **May 31, 2023 press release**: [Memory Savers Internship](/press-release-20230601-memory-savers)
 - **August 8, 2022 press release**: [Phase 2 of the SUCHO Initiative](/press-release-20220808-phase-2)
 - **March 8, 2022 press release**: [Volunteers Unite to Archive Ukrainian Cultural Heritage](/press-release-20220308-volunteers-unite)
+
 
 ## Articles
 - Štanzel, Arnost, Tobias Beinert. ["Saving Ukrainian Cultural Heritage Online. Zum Schutz des digitalen Erbes der Ukraine."](https://www.bsb-muenchen.de/fileadmin/pdf/publikationen/bibliotheksmagazin/bm_2022_3.pdf) *Bibliotheksmagazin* 2022/3, S. 70-74.
