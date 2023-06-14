@@ -10,6 +10,8 @@ title: Partners
 
 SUCHO is partnering with a number of organizations to further the digitization and preservation of Ukrainian cultural heritage.
 
+<p>&nbsp;</p>
+
 ## Sponsors
 We are very grateful for the financial support by the following organizations. View a full list of [our donors](https://opencollective.com/sucho) and consider [becoming a sponsor](https://opencollective.com/sucho/) of our initiative.
 
@@ -22,6 +24,8 @@ We are very grateful for the financial support by the following organizations. V
 <a href="https://www.musiclibraryassoc.org/"><img alt="Music Library Association" src="/assets/images/mla_logo.png" style="width:200px; display:inline; margin-right: 15px; margin-left: 15px;"/></a>
 <a href="https://www.iaml.info/"><img alt="International Association of Music Libraries, Archives and Documentation Centres" src="/assets/images/iaml_logo.png" style="width:200px; display:inline; margin-right: 15px; margin-left: 15px;"/></a>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Cooperation partners
 
@@ -40,6 +44,8 @@ We are very grateful for the financial support by the following organizations. V
 <a href="https://www.webrecorder.net"><img alt="Webrecorder" src="/assets/images/webrecorder-logo.svg" style="width:200px; display:inline; margin-right: 15px; margin-left: 15px;"/></a>
 <a href="https://archive.org/"><img alt="Internet Archive" src="/assets/images/ia-logo.svg" style="width:200px; display:inline; margin-right: 15px; margin-left: 15px;"/></a>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Technical partners
 
