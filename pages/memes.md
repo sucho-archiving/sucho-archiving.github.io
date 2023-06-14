@@ -6,7 +6,7 @@ title: SUCHO meme wall
 
 ## SUCHO meme wall
 
-<img src="/assets/images/warmemewall.jpg" style="float:right;">
+<img src="/assets/images/warmemewall.jpg" style="float:right; margin-left: 10px;"/>
 
 Since the onset of Russia’s full-scale invasion of Ukraine on February 24, 2022, internet memes about the war have been widely disseminated through social media, both in Ukraine and abroad. The Saving Ukrainian Cultural Heritage Online (SUCHO) initiative uses crowdsourcing to collect Ukrainian war memes. Community submissions are curated and published on the interactive online SUCHO Meme Wall. The resulting archival collection is diverse in its content and format, preserving an important element of Russo-Ukrainian war discourse and offering unique material for research and teaching. 
 
