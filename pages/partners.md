@@ -13,9 +13,9 @@ SUCHO is partnering with a number of organizations to further the digitization a
 ## Sponsors
 We are very grateful for the financial support by the following organizations. View a full list of [our donors](https://opencollective.com/sucho) and consider [becoming a sponsor](https://opencollective.com/sucho/) of our initiative.
 
-<a href="https://aws.amazon.com"><img alt="Amazon Web Services" src="/assets/images/aws-logo.svg" style="width:200px; display:inline;"></a>
-<a href="https://pearljam.com/vitalogy"><img alt="Pearl Jam Vitalogy Foundation" src="/assets/images/vitalogy-logo-round.png" style="width:200px; display:inline;"></a>
-<a href="https://fai.nu/summary-in-english/"><img alt="Föreningen för arkiv och informationsförvaltning" src="/assets/images/fai_logo.png" style="width:200px; display:inline;"></a>
+<a href="https://aws.amazon.com"><img alt="Amazon Web Services" src="/assets/images/aws-logo.svg" style="width:200px; display:inline; margin-right: 10px;"/></a>
+<a href="https://pearljam.com/vitalogy"><img alt="Pearl Jam Vitalogy Foundation" src="/assets/images/vitalogy-logo-round.png" style="width:200px; display:inline; margin-left: 10px;"/></a>
+<a href="https://fai.nu/summary-in-english/"><img alt="Föreningen för arkiv och informationsförvaltning" src="/assets/images/fai_logo.png" style="width:200px; display:inline; margin-left: 10px;"/></a>
 <a href="https://pro.europeana.eu/about-us/foundation"><img alt="Europeana Foundation" src="/assets/images/europeana-logo.png" style="width:200px; display:inline;"></a>
 <a href="https://ach.org/"><img alt="Association for Computers and the Humanities" src="/assets/images/ach-logo.png" style="width:200px; display:inline;"></a>
 <a href="https://eadh.org/"><img alt="European Association of Digital Humanities" src="/assets/images/eadh-logo.png" style="width:200px; display:inline;"></a>
