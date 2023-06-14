@@ -6,7 +6,7 @@ title: SUCHO gallery of Ukrainian cultural heritage
 
 ## SUCHO gallery of Ukrainian cultural heritage
 
-<img src="/assets/images/gallery-screenshot.jpg" style="float:right;">
+<img src="/assets/images/gallery-screenshot.jpg" style="float:right; margin-left: 10px;" />
 
 The purpose of the [SUCHO Gallery, “Exploring Ukrainian Cultural Heritage Online”](https://gallery.sucho.org), is three-fold:
 
