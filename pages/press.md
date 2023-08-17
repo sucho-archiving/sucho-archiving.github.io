@@ -17,6 +17,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Articles
+-  Jolicoeur, Kiley. ["Saving Ukrainian Cultural Heritage Online and the Mission to Preserve Digital Cultural Heritage."](https://doi.org/10.29311/mas.v21i2.4302) *Museum and Society Online,* Volume 21, no. 2 (24 July 2023): 58-64. DOI: https://doi.org/10.29311/mas.v21i2.4302. 
 - Rakityanskaya, Anna. ["The SUCHO Ukrainian War Memes Collection."](https://doi.org/10.1080/15228886.2023.2169634) *Slavic & East European Information Resources.* January 21, 2023. DOI: 10.1080/15228886.2023.2169634 
 - Dombrowski, Quinn. ["Saving Ukrainian Cultural Heritage Online (SUCHO): Digital relief work relationships more than technology."](https://www.ala.org/rt/sites/ala.org.rt/files/content/intlleads/leadsarchive/202206-rev.pdf) *International Leads* 37, no. 2 (2022): 3-12.
 - Clavert, Frédéric. ["Préservons notre patrimoine numérique grâce au contre-archivage décentralisé et collaboratif."](https://www.lemonde.fr/idees/article/2022/12/17/preservons-notre-patrimoine-numerique-grace-au-contre-archivage-decentralise-et-collaboratif_6154820_3232.html) *Le Monde*. December 17, 2022.
@@ -108,6 +109,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 
 ## Talks
+- Jolicoeur, Kiley, Andreas Segerberg, and Susanna Ånäs. ["Linking Us Together: Applications of Wikidata in Saving Ukrainian Cultural Heritage Online (SUCHO)."](https://surface.syr.edu/sul/217) 2023 LD4 Conference. July 11, 2023. 
 - Dombrowski, Quinn, Anna Kijas, Sebastian Majstorovic, Andreas Segerberg, Ulia Gosart, and Sam Dombrowski. "Socially-Engaged Digital Humanities." CESTA, Stanford University. May 9, 2023.
 - Dombrowski, Quinn. ["Digital Humanities in Theory, Practice, and Emergency: Saving Ukrainian Cultural Heritage Online."](https://ceeres.uchicago.edu/blog/digital-humanities-theory-practice-and-emergency-saving-ukrainian-cultural-heritage-online) Center for East European and Russian/Eurasian Studies, University of Chicago. April 21, 2023.
 - Kijas, Anna, Quinn Dombrowski, Sebastian Majstorovic. "Preserving Digital Cultural Heritage: Lessons and Perspectives from SUCHO." Ukrainian Libraries During the Wartime. San Jose State University. April 5, 2023.
