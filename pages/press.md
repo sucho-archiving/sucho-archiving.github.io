@@ -110,6 +110,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 ## Talks
 - Jolicoeur, Kiley, Andreas Segerberg, and Susanna Ånäs. ["Linking Us Together: Applications of Wikidata in Saving Ukrainian Cultural Heritage Online (SUCHO)."](https://surface.syr.edu/sul/217) 2023 LD4 Conference. July 11, 2023. 
+- Sharafanenko, Olena. "Archiving experience in SUCHO (with a focus on the SUCHO Meme Wall)." Netzwerk Digitale Geisteswissenschaften, University of Potsdam. July 7, 2023.
 - Dombrowski, Quinn, Anna Kijas, Sebastian Majstorovic, Andreas Segerberg, Ulia Gosart, and Sam Dombrowski. "Socially-Engaged Digital Humanities." CESTA, Stanford University. May 9, 2023.
 - Kijas, Anna, Quinn Dombrowski, Andreas Segerberg. ["What next? An update from SUCHO."](https://www.youtube.com/watch?v=vnpABJhO_ts) IIPC WAC 2023 Online Session 6 Q&A: Collaborative Web Archiving. May 3, 2023.
 - Dombrowski, Quinn. ["Digital Humanities in Theory, Practice, and Emergency: Saving Ukrainian Cultural Heritage Online."](https://ceeres.uchicago.edu/blog/digital-humanities-theory-practice-and-emergency-saving-ukrainian-cultural-heritage-online) Center for East European and Russian/Eurasian Studies, University of Chicago. April 21, 2023.
