@@ -109,9 +109,10 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 ## Talks
 
-- Dombrowski, Quinn, Anna Kijas, Anna Rakityanskaya, and Alex Wingate. "Saving Ukrainian Cultural Heritage Online: Responsive Emergency DH at Scale" poster at DH 2023. July 12, 2023.
-- Dombrowski, Quinn. Panelist on "Exploring the Borderlands: A Revolutionary Potential for DH". DH 2023, July 12, 2023.
-- Dombrowski, Quinn. "Saving Ukrainian Cultural Heritage Online (SUCHO) and the Stakes of Digital Humanities". Hong Kong University, June 1, 2023.
+- Kijas, Anna. "Preserving Cultural Heritage through Digital Activism and Community Engagement." MEC/TEI Joint Conference, University of Paderborn. September 5, 2023.
+- Dombrowski, Quinn, Anna Kijas, Anna Rakityanskaya, and Alex Wingate. "Saving Ukrainian Cultural Heritage Online: Responsive Emergency DH at Scale." Poster at DH 2023. July 12, 2023.
+- Dombrowski, Quinn. Panelist on "Exploring the Borderlands: A Revolutionary Potential for DH." DH 2023. July 12, 2023.
+- Dombrowski, Quinn. "Saving Ukrainian Cultural Heritage Online (SUCHO) and the Stakes of Digital Humanities." Hong Kong University, June 1, 2023.
 - Jolicoeur, Kiley, Andreas Segerberg, and Susanna Ånäs. ["Linking Us Together: Applications of Wikidata in Saving Ukrainian Cultural Heritage Online (SUCHO)."](https://surface.syr.edu/sul/217) 2023 LD4 Conference. July 11, 2023.
 - Sharafanenko, Olena. "Archiving experience in SUCHO (with a focus on the SUCHO Meme Wall)." Netzwerk Digitale Geisteswissenschaften, University of Potsdam. July 7, 2023.
 - Dombrowski, Quinn, Anna Kijas, Sebastian Majstorovic, Andreas Segerberg, Ulia Gosart, and Sam Dombrowski. "Socially-Engaged Digital Humanities." CESTA, Stanford University. May 9, 2023.
