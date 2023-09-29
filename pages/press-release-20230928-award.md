@@ -18,7 +18,7 @@ During the ceremony, the five laureates of the Grand Prix and the winner of the 
 
 Cecilia Bartoli, President of Europa Nostra, stated: _“What a joy for me to be in Venice for this evening of celebration of the winners of the European Heritage Awards / Europa Nostra Awards 2023. Every year, our award winners bring hope and inspiration to us all. The variety in terms of content and geographical range of their projects, their scope and individual nature perfectly reflect the richness and diversity of our culture. And the people who devote their hearts and energy to these projects are compelling ambassadors of how to safeguard, restore and enhance Europe’s cultural heritage. My heartfelt congratulations to all the winners, particularly to the laureates of the Grand Prix and the winner of the Public Choice Award”._
 
-<img align="center" src="/assets/images/enawards2.jpg#center" style="margin: 10px;"/>
+<img align="center" src="/assets/images/enawards2.jpg" style="margin: 10px;"/>
 <sup><sub>(Saving Ukrainian Cultural Heritage Online (SUCHO), UKRAINE/INTERNATIONAL PROJECT Grand Prix laureate in category Heritage Champions, 2023. Credits: Europa Nostra)</sub></sup>
 
   
@@ -31,7 +31,7 @@ This large network of international volunteers, mobilised by a group of leading 
 <sup><sub>(Andreas Segerberg, Research Engineer at the University of Gothenberg receiving the Grand Prix for Saving Ukrainian Cultural Heritage Online (SUCHO), International Project / Ukraine from Cecilia Bartoli, President of Europa Nostra © Felix Q Media / Europa Nostra)</sub></sup>
 
 
-<img align="center" src="/assets/images/enawards1.jpg#center" style="margin: 10px;"/>
+<img align="center" src="/assets/images/enawards1.jpg" style="margin: 10px;"/>
 <sup><sub>(The winners in category Heritage Champions of the European Heritage Awards / Europa Nostra Awards 2023 © Josef Rabara / Europa Nostra)</sub></sup>
 
 
