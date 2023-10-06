@@ -110,6 +110,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 ## Talks
 
+- Rakityanskaya, Anna. "Belarus in Russo-Ukrainian War Memes." International Congress of Belarusian Studies, Gdansk Poland. September 22, 2023.
 - Kijas, Anna. "Preserving Cultural Heritage through Digital Activism and Community Engagement." MEC/TEI Joint Conference, University of Paderborn. September 5, 2023.
 - Dombrowski, Quinn, Anna Kijas, Anna Rakityanskaya, and Alex Wingate. "Saving Ukrainian Cultural Heritage Online: Responsive Emergency DH at Scale." Poster at DH 2023. July 12, 2023.
 - Dombrowski, Quinn. Panelist on "Exploring the Borderlands: A Revolutionary Potential for DH." DH 2023. July 12, 2023.
