@@ -110,7 +110,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 ## Talks
 
-- Segerberg, Andreas. ["Socially-Engaged Digital Humanities. Saving Ukrainian Cultural Heritage Online."](https://www.europanostra.org/wp-content/uploads/2023/09/2023-Excellence-Day-Programme-Booklet.pdf); [Video of presentation at 03:10:43](https://vimeo.com/868877878?share=copy) Excellence Day for European Heritage Awards / Europa Nostra Awards 2023, Venice, Italy. September 27, 2023.
+- Segerberg, Andreas. ["Socially-Engaged Digital Humanities. Saving Ukrainian Cultural Heritage Online."](https://www.europanostra.org/wp-content/uploads/2023/09/2023-Excellence-Day-Programme-Booklet.pdf) Excellence Day for European Heritage Awards / Europa Nostra Awards 2023, Venice, Italy. September 27, 2023. [Watch video of presentation starting at 03:10:43](https://vimeo.com/868877878?share=copy).
 - Rakityanskaya, Anna. "Belarus in Russo-Ukrainian War Memes." International Congress of Belarusian Studies, Gdansk Poland. September 22, 2023.
 - Kijas, Anna. "Preserving Cultural Heritage through Digital Activism and Community Engagement." MEC/TEI Joint Conference, University of Paderborn. September 5, 2023.
 - Dombrowski, Quinn, Anna Kijas, Anna Rakityanskaya, and Alex Wingate. "Saving Ukrainian Cultural Heritage Online: Responsive Emergency DH at Scale." Poster at DH 2023. July 12, 2023.
