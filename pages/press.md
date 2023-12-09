@@ -110,6 +110,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 ## Talks
 
+- Rakityanskaya, Anna. "The SUCHO Ukrainian War Memes Collection: an international collaborative born-digital archiving initiative." Panel on Social media, memes and other born-digital sources on the war in Ukraine: from collecting and archiving to academic research and teaching. 55th Annual Convention of the Association for Slavic, East European, & Eurasian Studies. December 2, 2023.
 - Segerberg, Andreas. ["Socially-Engaged Digital Humanities. Saving Ukrainian Cultural Heritage Online."](https://www.europanostra.org/wp-content/uploads/2023/09/2023-Excellence-Day-Programme-Booklet.pdf) Excellence Day for European Heritage Awards / Europa Nostra Awards 2023, Venice, Italy. September 27, 2023. [Watch video of presentation starting at 03:10:43](https://vimeo.com/868877878?share=copy).
 - Rakityanskaya, Anna. "Belarus in Russo-Ukrainian War Memes." International Congress of Belarusian Studies, Gdansk Poland. September 22, 2023.
 - Kijas, Anna. "Preserving Cultural Heritage through Digital Activism and Community Engagement." MEC/TEI Joint Conference, University of Paderborn. September 5, 2023.
