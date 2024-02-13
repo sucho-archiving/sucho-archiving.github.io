@@ -26,11 +26,13 @@ Learn more about the project outcomes and student mini-digital projects
 
 As part of the Memory Savers program, students developed projects incorporating items from the collections at the museums where they interned. Here is a selection of these projects that are available online.
 
-- Nina Zadorozhna: [“A Look into the Past” ("Погляд у минуле”)](https://www.a-look-into-the-past.com/), examines the history and places of the Transcarpathia and Rivne region during the period of World War II.
-- [Post](https://www.youtube.com/@pOST-bc3zj)
-- [Gate to the Future](https://sketchfab.com/3d-models/tower-binary-be24c2054ed64e8899a2e561a028a5f0?fbclid=IwAR100XMT2BTtHyAnfXDQv9HMzyl7bMLWEKjhXvI2msw73Gg-D39PdtZztXA) 3D model
-- [Lviv Postcards](https://ua.museum-digital.org/objects?s=collection%3A357%20sort%3Ainvno)
 - [Boats of Ukraine online museum](https://boatmuseum.online/index_en.html)
-- [Victory Victims](https://www.victory-victims.com/)
+- [Gate to the Future, 3D model](https://sketchfab.com/3d-models/tower-binary-be24c2054ed64e8899a2e561a028a5f0?fbclid=IwAR100XMT2BTtHyAnfXDQv9HMzyl7bMLWEKjhXvI2msw73Gg-D39PdtZztXA)
+- [“A Look into the Past” ("Погляд у минуле”)](https://www.a-look-into-the-past.com/) created by Nina Zadorozhna (Ужгородський Скансен/
+Museum of Folk Architecture and Rural Life)
+- [Lviv Postcards](https://ua.museum-digital.org/objects?s=collection%3A357%20sort%3Ainvno) (Музей народної архітектури і побуту у Львові імені Климентія Шептицького/Shevchenkivskyi Hai)
+- [pOST](https://www.youtube.com/@pOST-bc3zj) (Національний історико-культурний заповідник "Чигирин"/
+Chyhyryn National Historical and Cultural Reserve)
+- [Victory Victims](https://www.victory-victims.com/) (Національний військово-історичний музей України/National Military-Historical Museum of Ukraine)
  
  
