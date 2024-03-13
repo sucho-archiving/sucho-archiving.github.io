@@ -28,9 +28,14 @@ As part of the Memory Savers program, students developed projects incorporating 
 
 - [Boats of Ukraine online museum](https://boatmuseum.online/index_en.html)
 - [Gate to the Future, 3D model](https://sketchfab.com/3d-models/tower-binary-be24c2054ed64e8899a2e561a028a5f0?fbclid=IwAR100XMT2BTtHyAnfXDQv9HMzyl7bMLWEKjhXvI2msw73Gg-D39PdtZztXA)
+- [Iz.Zabuttia (Obliviion)](https://www.instagram.com/iz.zabuttia)
 - [“A Look into the Past” ("Погляд у минуле”)](https://www.a-look-into-the-past.com/) created by Nina Zadorozhna (Ужгородський Скансен/
 Museum of Folk Architecture and Rural Life)
+- [Light on Dark](https://drive.google.com/file/d/1UvUSWUdL0e30ua9rKol68IRvctgiXxVi/view?usp=sharing) or [in English](https://drive.google.com/file/d/1pj-6X9tF0TSZJYti5XbpCJeKmOzdW5za/view?usp=sharing)
 - [Lviv Postcards](https://ua.museum-digital.org/objects?s=collection%3A357%20sort%3Ainvno) (Музей народної архітектури і побуту у Львові імені Климентія Шептицького/Shevchenkivskyi Hai)
+- [Memory History](https://www.canva.com/design/DAF2PDKOdW8/p2fF6WmuMQhZ0XD4dEpgKg/view)
+- [Notebooks of Repressed](https://youtu.be/8FICT_I7Edk)
+- [Погляд у минуле](https://docs.google.com/presentation/d/1GUpaOHKda2d_pZpt9f_FipS9c2rXJPzR7E4YoeLM7jQ/edit?usp=sharing)
 - [pOST](https://www.youtube.com/@pOST-bc3zj) (Національний історико-культурний заповідник "Чигирин"/
 Chyhyryn National Historical and Cultural Reserve)
 - [Victory Victims](https://www.victory-victims.com/) (Національний військово-історичний музей України/National Military-Historical Museum of Ukraine)
