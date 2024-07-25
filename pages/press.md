@@ -85,6 +85,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 ## Interviews / Podcasts
 
+- [SUCHO: Protecting Ukrainian Heritage with Anna Kijas](https://podcasts.apple.com/us/podcast/sucho-protecting-ukrainian-heritage-with-anna-kijas/id1558602045?i=1000660734816). _Archives & Communities_. SAA-UA Student Chapter. June 30, 2024. 
 - Cummins, Todd. ["Librarians at Ohio State Lima continue their efforts in archiving Ukraine's culture online."](https://www.hometownstations.com/news/librarians-at-ohio-state-lima-continue-their-efforts-in-archiving-ukraines-culture-online/article_8df74e9a-3dd8-11ed-8918-433c7331ecb2.html) _Hometown Stations, Lima, Ohio_. September 26, 2022.
 - [Meet the group seeking to preserve Ukrainian culture by rescuing Ukrainian websites](https://www.cbsnews.com/video/meet-the-group-seeking-to-preserve-ukrainian-culture-by-rescuing-ukrainian-websites/#x). _CBS News_. July 16, 2022.
 - Avaneszadeh, Alex. [Interview with Anna Kijas on the 'Saving Ukrainian Cultural Heritage Online' Project](https://sites.tufts.edu/fletcherrussia/interview-with-anna-kijas-on-the-saving-ukrainian-cultural-heritage-online-project/). Russia and Eurasia Program, The Fletcher School, Tufts University. June 29, 2022.
