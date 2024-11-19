@@ -4,6 +4,8 @@ permalink: diy-archiving
 title: DIY Archiving Workshop
 ---
 
+# DIY archiving workshop
+
 * November 25, 1 Eastern / 10 Pacific
 * [RSVP here](https://us06web.zoom.us/meeting/register/tZEpc-ytpz8sG9W5cRMy0HEJm6bodgFJ0Llt#/registration
 )
