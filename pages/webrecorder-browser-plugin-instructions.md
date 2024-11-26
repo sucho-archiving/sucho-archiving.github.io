@@ -23,7 +23,7 @@ Visit the site before you start recording it. Click around to get a sense of wha
 When you're ready to record, click the ArchiveWeb.page icon in your browser. You'll see an option *Record To:*; click on the drop-down arrow, then choose *+ Create New Archive*. Use the name of the website as the name of the archive. In most cases, you should check the "Start with Autopilot" box, which will automatically scroll to the bottom of each page.
 
 ## Recording the site
-Click the *Start* button in the web recorder plugin. The page will reload and then the recording will start. You may see a bar across the top of the page saying that *"Webrecorder ArchiveWeb.page" started debugging this browser*. You'll see the amount of data captured in the plugin interface, and if you're using autopilot, it will automatically scroll. 
+Click the *Start Archiving* button in the ArchiveWeb.page plugin. The page will reload and then the recording will start. You may see a bar across the top of the page saying that *"Webrecorder ArchiveWeb.page" started debugging this browser*. You'll see the amount of data captured in the plugin interface, and if you're using autopilot, it will automatically scroll. 
 
 Once you see at the top of the plugin "**Recording:** *Idle, Continue Browsing*", click on one of the links on the home page. The auto-pilot will once again scroll down and capture things until you see "**Recording:** *Idle, Continue Browsing*".
 
