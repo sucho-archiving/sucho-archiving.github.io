@@ -19,6 +19,8 @@ social:
 - {icon: 'twitter', link:    'https://twitter.com/sucho_org'}
 - {icon: 'facebook', link:   'https://www.facebook.com/sucho.initiative'}
 - {icon: 'mastodon', link: 'https://hcommons.social/@sucho'}
+- {icon: 'bluesky', link: 'https://bsky.app/profile/sucho-org.bsky.social'}
+- {icon: 'github', link: 'https://github.com/sucho-archiving/'}
 #- {icon: 'rss', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 

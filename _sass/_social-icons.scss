@@ -24,6 +24,11 @@
   @include social-media-icon($mastodon-color, $icon-transition-time);
 }
 
+.fa-bluesky {
+  padding: 5px;
+  @include social-media-icon($bluesky-color, $icon-transition-time);
+}
+
 .fa-instagram {
   padding: 5px;
   @include social-media-icon($instagram-color, $icon-transition-time);
