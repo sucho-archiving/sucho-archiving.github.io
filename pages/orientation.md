@@ -35,7 +35,7 @@ We've organized our Slack channels primarily around the tasks people are doing:
 
 -   #linkcollection is for people working on finding new links to add to our workflow by submitting them via the [URL form](https://docs.google.com/forms/d/e/1FAIpQLSffa64-l6qXqEumAcf38OEOrTFeYZEmF531PNv9ZgzNFbcgxQ/viewform) or in bulk, directly to our working spreadsheet.
 
--   #manualwebrecorder is for people using the [Fast ArchiveWeb interface](https://fast.archiveweb.page/#https://example.com/) or [WebRecorder browser plugin](https://www.sucho.org/webrecorder-plugin-instructions) to manually create web archives by navigating sites (especially complex sites w/ lots of javascript or human interaction). If you can browse a website, you can handle these tasks!
+-   #manualwebrecorder is for people using the [Fast ArchiveWeb interface](https://fast.archiveweb.page/#https://example.com/) or [ArchiveWeb.page browser plugin](https://www.sucho.org/webrecorder-plugin-instructions) to manually create web archives by navigating sites (especially complex sites w/ lots of javascript or human interaction). If you can browse a website, you can handle these tasks!
 
 -   #waybackmachine is for people checking that websites are well captured by the Internet Archive's Wayback Machine and submitting links (including large sets of links) to the Wayback Machine for archiving. You can do this manually or try to automate it with code from the #scraping channel.
 
@@ -68,7 +68,7 @@ Our work is coordinated through an enormous Google Sheet with many tabs:
 
 ![The SUCHO spreadsheet with tabs highlighted](/assets/images/sucho-tabs.png)
 
-If you look at the bottom of that screen shot, there are Browsertrix, Manual WebRecorder, and InternetArchive tabs visible; we have about 12 other tabs coordinating other sections of the work. 
+If you look at the bottom of that screen shot, there are Browsertrix, Manual Webrecorder, and InternetArchive tabs visible; we have about 12 other tabs coordinating other sections of the work. 
 
 When we talk about doing things in "The Spreadsheet," this is usually the spreadsheet we mean. (However, the Metadata team has a different spreadsheet for its team's work,, and Erica is maintaining a Situation Monitoring spreadsheet with information about specific locations of high interest.)
 
@@ -86,20 +86,20 @@ We have several teams working on projects that mostly need a web browser and ent
 
 * **Link collection**: Teammates will have edit access to our working spreadsheet. You should add newly discovered links to the Browsertrix tab first, because it will automatically check for duplicates found elsewhere. If it's not a duplicate (i.e. doesn't turn magenta), please also add it to the Internet Archive tab, because there are two capture processes running at the same time for different purposes.
 * **Internet Archive**: Newly submitted links get added to the InternetArchive tab of our working sheet (along with Browsertrix, described below). Volunteers make sure that the sites are thoroughly captured by the Wayback Machine, including sub-pages.
-* **Manual WebRecorder**: While many of our sites can be captured by the automated system called Browsertrix, some of them (and some special features such as virtual tours within a site) need a human being to navigate the site while recording it. Join the Manual WebRecorder team if you like browsing museum and library websites! Visit the [Manual WebRecorder tutorial](/webrecorder-browser-plugin-instructions) for more process specifics.
+* **Manual Webrecorder**: While many of our sites can be captured by the automated system called Browsertrix, some of them (and some special features such as virtual tours within a site) need a human being to navigate the site while recording it. Join the Manual Webrecorder team if you like browsing museum and library websites! Visit the [Manual Webrecorder tutorial](/webrecorder-browser-plugin-instructions) for more process specifics.
 * **Metadata (great for cataloging librarians)**: Some volunteers have uploaded files (e.g. PDFs, images, etc.) from Ukrainian repositories to the Internet Archive. The Metadata group fills out a separate metadata spreadsheet with metadata about those items based on information in our working spreadsheet. This information is periodically uploaded to the Intenet Archive. Visit the [Metadata tutorial](https://docs.google.com/document/d/1qpax1HQmWOVXqbA9NTCU4WBZNWKfLPhUTqxs7s94Jas/edit#) for more process specifics.
 
 ### High tech helping
 
-* **Browsertrix**: Newly submitted links go to the Browsertrix tab of our working spreadsheet (along with InternetArchive). Browsertrix is an automated web crawler using the open-source Webrecorder software, and volunteers run it on their laptops, on servers they manage, or even on Raspberry Pi devices! You need to be a little bit familiar with the command line to run Browsertrix, but we have a step-by-step tutorial for how to get it set up. Visit the [Browsertrix tutorial](/browsertrix) for more process specifics.
-* **Scraping**: Some sites, like library catalogs and repositories, don't have URLs that an automated web crawler can easily follow, so the scraping group writes custom code to capture the contents of those sites. Intermediate-to-advanced coding skills (preferably Python) are needed to help with this group. There are also special sub-groups of scraping with channels on Slack, like #repository-talk and #irbis. If you're not sure how to approach the site, check in the channel for the type of site you're working with, or (if you're not sure) in Browsertrix. (Most of our programmers hang out there.)
+* **Browsertrix**: Newly submitted links go to the Browsertrix tab of our working spreadsheet (along with InternetArchive). Browsertrix Crawler is an automated web crawler using the open-source Webrecorder software, and volunteers run it on their laptops, on servers they manage, or even on Raspberry Pi devices! You need to be a little bit familiar with the command line to run Browsertrix Crawler, but we have a step-by-step tutorial for how to get it set up. Visit the [Browsertrix Crawler tutorial](/browsertrix) for more process specifics.
+* **Scraping**: Some sites, like library catalogs and repositories, don't have URLs that an automated web crawler can easily follow, so the scraping group writes custom code to capture the contents of those sites. Intermediate-to-advanced coding skills (preferably Python) are needed to help with this group. There are also special sub-groups of scraping with channels on Slack, like #repository-talk and #irbis. If you're not sure how to approach the site, check in the channel for the type of site you're working with, or (if you're not sure) in Browsertrix Crawler. (Most of our programmers hang out there.)
 * **Dataviz**: This group in the #inventory-dataviz channel is working on visualizing what SUCHO has captured so far. Intermediate-to-advanced coding skills are needed.
 
 ### Can you read Ukrainian?
 
 In addition to the Link Collection and Metadata volunteer groups above, there are a couple of teams where reading Ukrainian is a vital prerequisite:
 
-* **Quality control**: After we've backed up a site using tools such as Browsertrix or Manual WebRecorder, we need people with Ukrainian language skills to browse around our copies of the site and make sure that our backups are working as intended.
+* **Quality control**: After we've backed up a site using tools such as Browsertrix Crawler or ArchiveWeb.page, we need people with Ukrainian language skills to browse around our copies of the site and make sure that our backups are working as intended.
 * **Translation**: We're doing direct outreach to some sites to see if we can contact their administrators, and help with translation of correspondence and news materials is always helpful.
 
 
@@ -119,9 +119,9 @@ In addition to the Link Collection and Metadata volunteer groups above, there ar
 
 1.  When you've claimed a URL, you'll probably want to put it into a safety checker like <https://sitecheck.sucuri.net/>to make sure it hasn't been infested with malware. (You may also want to protect your computer and browser with the steps mentioned in the [Safety First](https://www.sucho.org/security) page.)
 
-2.  Visit the [Tutorials Page](https://www.sucho.org/tutorials) for more specifics on how the Internet Archive, Browsertrix, and other workflows go in more detail.
+2.  Visit the [Tutorials Page](https://www.sucho.org/tutorials) for more specifics on how the Internet Archive, Browsertrix Crawler, and other workflows go in more detail.
 
-3.  If you've got questions while working on a task, try asking in the corresponding channel (e.g. #manualwebrecorder for tasks in the Manual WebRecorder tab of the sheet).
+3.  If you've got questions while working on a task, try asking in the corresponding channel (e.g. #manualwebrecorder for tasks in the Manual Webrecorder tab of the sheet).
 
 ### Completing a task
 If you're not sure what to do with the data when you're done with the task, and there aren't more specific directions in the instructions for the task, check out our [guide to data upload](/data-upload). Be sure to mark the task as done in the sheet when it's completed, and fill in any info needed there (e.g. links to the spreadsheets you created full of Internet Archive links)
