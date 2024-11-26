@@ -1,11 +1,11 @@
 ---
 layout: default
 permalink: archivewebpage-app-instructions
-title: Web Recorder Instructions
+title: ArchiveWeb.page Desktop App Instructions
 ---
 
  
-Thank you for volunteering to capture Ukrainian cultural heritage sites using the ArchiveWeb.page app! Here’s a guide to using it.
+Thank you for volunteering to capture Ukrainian cultural heritage sites using the ArchiveWeb.page desktop app! Here’s a guide for using it.
 
 ## Setup
 Download and install the [right version of the ArchiveWeb.page for your computer](https://webrecorder.net/archivewebpage/) (.exe for Windows, .dmg for Mac, .zip for Linux).

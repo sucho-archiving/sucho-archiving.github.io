@@ -6,7 +6,7 @@ title: ArchiveWeb.page Instructions
 
 
 
-Thank you for volunteering to capture Ukrainian cultural heritage sites using Webrecorder's ArchiveWeb.page browser plugin! Here’s a guide to using it.
+Thank you for volunteering to capture Ukrainian cultural heritage sites using Webrecorder's ArchiveWeb.page browser plugin! Here’s a guide for using it.
 
 ## Setup
 [Install the Chrome plugin](https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd?hl=en). You should also ["pin" the extension to your browser](https://www.maketecheasier.com/pin-extensions-to-chrome-toolbar/) to make sure the ArchiveWeb.page plugin is always visible.
