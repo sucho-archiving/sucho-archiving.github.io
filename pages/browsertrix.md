@@ -6,9 +6,9 @@ title: Browsertrix
 
 # Intro
 
-This tutorial will teach you how to run Browsertrix locally on your computer to archive a site to your harddrive. This process requires intermediate-skills using the command line and Docker. If you would prefer to run Browsertrix through a user-interface, see our dedicated tutorial on [Browsertrix-Cloud](https://www.sucho.org/browsertrix-cloud). 
+This tutorial will teach you how to run Browsertrix Crawler locally on your computer to archive a site to your hard-drive. This process requires intermediate-skills using the command line and Docker. If you would prefer to crawl websites through a user-interface, see our dedicated tutorial on [Browsertrix](https://www.sucho.org/browsertrix-cloud).
 
-The below tutorial will walk you through the process of setting up and running Browsertrix. The main commands you will regularly use to run processes through the command line are:
+The below tutorial will walk you through the process of setting up and running Browsertrix Crawler. The main commands you will regularly use to run processes through the command line are:
 
 Installation: `docker pull webrecorder/browsertrix-crawler`
 
@@ -20,22 +20,22 @@ Please read the full tutorial below. **If you have questions**, don't hesitate t
 
 ## Web Crawling 
 
-Web crawling is the process of systematically browsing a website or set of websites. Browsertrix is the tool SUCHO is using to crawl entire sites and copy all their contents for the purposes of emulation and replay. Most websites can be preserved in their entirety using this tool.
+Web crawling is the process of systematically browsing a website or set of websites. Browsertrix Crawler is the tool SUCHO is using to crawl entire sites and copy all their contents for the purposes of emulation and replay. Most websites can be preserved in their entirety using this tool.
 
-However, some websites have content (e.g. interactive 3D models) that won't capture well with Browsertrix; in these cases, we will send those parts of the websites over to be scraped/captured by other tools. 
+However, some websites have content (e.g. interactive 3D models) that won't capture well with Browsertrix Crawler; in these cases, we will send those parts of the websites over to be scraped/captured by other tools. 
 
-Browsertrix is a little complicated to set up; these instructions are written to help onboard people who are "medium-technical." Even if you have little prior coding experience, this tutorial should make it possible for you to crawl and preserve a website. 
+Browsertrix Crawler is a little complicated to set up; these instructions are written to help onboard people who are "medium-technical." Even if you have little prior coding experience, this tutorial should make it possible for you to crawl and preserve a website. 
 
-By the end of a crawl, you will have generated a zipped file of a a series of [Web ARChive (WARC) files](https://en.wikipedia.org/wiki/Web_ARChive). This final zipped file produced by Browsertrix is known as a .wacz file (short for [Web Archive Collection Zipped](https://webrecorder.net/2021/01/18/wacz-format-1-0.html)). 
+By the end of a crawl, you will have generated a zipped file of a a series of [Web ARChive (WARC) files](https://en.wikipedia.org/wiki/Web_ARChive). This final zipped file produced by Browsertrix Crawler is known as a .wacz file (short for [Web Archive Collection Zipped](https://webrecorder.net/2021/01/18/wacz-format-1-0.html)). 
 
-### Browsertrix
-[Browsertrix](https://github.com/webrecorder/browsertrix-crawler) is a simplified browser and crawling system that can create web archive files for entire sites. It's distributed as a *Docker container*. 
+### Browsertrix Crawler
+[Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) is a simplified browser and crawling system that can create web archive files for entire sites. It's distributed as a *Docker container*. 
 
 A [Docker](https://www.docker.com/) container basically packages up system configuration in a way that makes a software program easy to share and run on different computers and servers.
 
 ## Initial Set Up
 
-For a 20-minute video overview of installing Docker and setting up Browsertrix, watch this [introduction to running Browsertrix locally](https://stanford.zoom.us/rec/share/lK7V534b7hoGfYQiH_Idhotpr0FAH-azo6EVfGvbq56HCn79JX3GtotEtiWOasFq.7BzPPj_PLzZmPbYx?startTime=1646784320000).
+For a 20-minute video overview of installing Docker and setting up Browsertrix Crawler, watch this [introduction to running Browsertrix Crawler locally](https://stanford.zoom.us/rec/share/lK7V534b7hoGfYQiH_Idhotpr0FAH-azo6EVfGvbq56HCn79JX3GtotEtiWOasFq.7BzPPj_PLzZmPbYx?startTime=1646784320000).
 
 ### Installing Docker
 
@@ -54,10 +54,11 @@ Now that Docker is running, we can set up the web crawler from the command line.
 
 *For Windows*: search for *cmd*, and the Command Prompt app should appear as the best match.
 
-### Getting the Docker image for Browsertrix
+### Getting the Docker image for Browsertrix Crawler
 
-To download and set up Browsertrix using Docker, in your command line, type or paste this:
-```
+To download and set up Browsertrix Crawler using Docker, in your command line, type or paste this:
+
+```sh
 docker pull webrecorder/browsertrix-crawler
 ```
 
@@ -83,7 +84,7 @@ You can download an [example `crawl-config.yaml` file here](crawl-config.yaml), 
 
 The `crawl-config.yaml` file should look as follows (with `collection`, `url`, and `include` changed to match each website): 
 
-```
+```yaml
 collection: "sgiaz-uamuseum-com"
 workers: 8
 saveState: always
@@ -97,7 +98,7 @@ Here's the fields you should modify each time:
 * `collection:` this should be basically the URL that you scrape, but with hyphens instead of periods in the URL. So *http://archangel.kiev.ua* becomes `collection: archangel-kiev-ua`
 * `url:` this is just the base URL in the SUCHO spreadsheet for the URL you're scraping
 
-Save the YAML file as `crawl-config.yaml` somewhere easy to navigate to on your computer -- on a Mac, the Documents folder is a good one. You will need to be able to change your directory using the command line to where your *crawl-config.yaml* file is saved on your computer to run the Docker command from that directory when you crawl the site. 
+Save the YAML file as `crawl-config.yaml` somewhere easy to navigate to on your computer -- on a Mac, the Documents folder is a good one. You will need to be able to change your directory using the command line to where your *crawl-config.yaml* file is saved on your computer to run the Docker command from that directory when you crawl the site.
 
 For examples of `crawl-config.yaml` files used for the SUCHO project, see our separate Github repository, [browsertrix-yaml-examples](https://github.com/sucho-archiving/browsertrix-yaml-examples).
 
@@ -107,36 +108,41 @@ Open up the command line again, if you closed it before.
 *For Mac*: this will by default put you in your home directory (i.e. /Users/your-user-name). If you saved your *crawl-config.yaml* in the Documents folder, type `cd Documents`, and your command line will put you in the Documents folder. (If you put it somewhere else, you can put in that path after the `cd`, e.g. `cd Documents/some-subfolder/another-subfolder`).
 
 Once you're in the same location as your *crawl-config.yaml*, paste this command into the Mac terminal and press enter to start the crawling:
-```
+
+```sh
 docker run -v $PWD/crawl-config.yaml:/app/crawl-config.yaml -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ
 ```
+
 *For Windows*: after navigating to the right directory in the command prompt using `cd`, type the following command:
-`docker run -v %cd%/crawl-config.yaml:/app/crawl-config.yaml -v %cd%/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ`
+
+```sh
+docker run -v %cd%/crawl-config.yaml:/app/crawl-config.yaml -v %cd%/crawls:/crawls/ webrecorder/browsertrix-crawler crawl --config /app/crawl-config.yaml --generateWACZ
+```
 
 ### Troubleshooting the crawl command
-You may have to use 'sudo' at the start of this command. 
+You may have to use `sudo` at the start of this command. 
 
 If you encounter errors relating to absolute paths, directories, or other errors, you may need to double check where you placed your config file, and how you are directing browsertrix to find it. 
 
 Some users on both Macs and Windows have had problems with $PWD and %cd%. Try putting in the full system path to the crawl-config.yaml. To find the absolute path for your .yaml file, locate the crawl-config.yaml file and copy the directory address in the folder window.
 
 ### Waiting and timeouts
-Depending on the size of the site, the crawl could take anywhere from a couple minutes to 10+ hours. If you run out of space on your computer, or if browerstrix fails, someone with a server or access to the cluster can try running. If you run into problems, ask the Slack #Browsertrix channel.
+Depending on the size of the site, the crawl could take anywhere from a couple minutes to 10+ hours. If you run out of space on your computer, or if Browsertrix Crawler fails, someone with a server or access to the cluster can try running. If you run into problems, ask the Slack #Browsertrix channel.
 
-If webpages fail to load and timeout, you may need to manually set browsertrix to a longer timeout limit by adding to the end of your command `--timeout 300`. Timeouts are tricky, so if you can't get it working, make a comment and move on to another open item. 
+If webpages fail to load and timeout, you may need to manually set Browsertrix Crawler to a longer timeout limit by adding to the end of your command `--timeout 300`. Timeouts are tricky, so if you can't get it working, make a comment and move on to another open item.
 
-Just because during a crawl you receive error messages relating to timeouts, it dooesn't always mean the URL couldn't be captured (it may have been a single resource on the page, such as an image from a non-existent third party site). View the final .wacz file in ReplayWeb to see what failed about any given page.
+Just because during a crawl you receive error messages relating to timeouts, it doesn't always mean the URL couldn't be captured (it may have been a single resource on the page, such as an image from a non-existent third party site). View the final .wacz file in ReplayWeb to see what failed about any given page.
 
-If the crawl gets interrupted, Browsertrix should be able pick up where it left off if you run a slightly different crawl command. See the Exclusions section in Common Problems for more info.
+If the crawl gets interrupted, Browsertrix Crawler should be able pick up where it left off if you run a slightly different crawl command. See the Exclusions section in Common Problems for more info.
 
-If the crawl consistently fails for any number of reasons, change the status to Failed and add notes about the errors and problems in the Comments field. Another person can try recrawling the site later with more complex parameters, or we may turn it over to manual webrecording tools. 
+If the crawl consistently fails for any number of reasons, change the status to Failed and add notes about the errors and problems in the Comments field. Another person can try re-crawling the site later with more complex parameters, or we may turn it over to manual web archiving tools such as ArchiveWeb.page.
 
 ## Final Step: Uploading the WACZ file
-The directory that has your *crawl-config.yaml* file will generate a *crawls* directory the first time you run the command to crawl a site. To find the WACZ file containg the archive of the website, open the  *crawls* folder, then the *collections* folder. Inside *collections*, you should see a folder for each collection you've crawled. Inside the collection folder is a .wacz file.
+The directory that has your *crawl-config.yaml* file will generate a *crawls* directory the first time you run the command to crawl a site. To find the WACZ file containing the archive of the website, open the  *crawls* folder, then the *collections* folder. Inside *collections*, you should see a folder for each collection you've crawled. Inside the collection folder is a .wacz file.
 
-Verify the website was captured by uploading the .wacz file to the Webrecorder's [ReplayWeb.Page](https://replayweb.page/). Once the archival file is loaded into ReplayWeb.page, it is served locally on your machine, and you can navigate the website. Focus on verifying that the main subcomponents of the site were saved, especially pages listed in the navbar. Many links on the site may be external to the domain you preserved. 
+Verify the website was captured by uploading the .wacz file to the Webrecorder's [ReplayWeb.Page](https://replayweb.page/). Once the archival file is loaded into ReplayWeb.page, it is served locally on your machine, and you can navigate the website. Focus on verifying that the main sub-components of the site were saved, especially pages listed in the navbar. Many links on the site may be external to the domain you preserved.
 
-Upload that .wacz file to our [WACZ uploads form](https://forms.gle/N18MxWgoHtPB2xpz8). Make sure to change the Status to "Done" and add info to the Notes field about any errors you encountered and any concerns you have aboaut the quality of the .wacz file. The Quality Control team can verify your lingering questions. 
+Upload that .wacz file to our [WACZ uploads form](https://forms.gle/N18MxWgoHtPB2xpz8). Make sure to change the Status to "Done" and add info to the Notes field about any errors you encountered and any concerns you have aboaut the quality of the .wacz file. The Quality Control team can verify your lingering questions.
 
 Once you've submitted the Google Form, your crawl is complete! Thank you for your work.  Please mark in the spreadsheet the row's status as "Done," and continue on to the next item.
 
@@ -159,19 +165,27 @@ If this is the case, they can be created manually as long as the `pages/pages.js
 
 There are two ways you can do this. First, try using the following commanmd:
 
-`docker run -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler wacz create --split-seeds -f ./crawls/collections/<coll>/archive/*.warc.gz -p ./crawls/collections/<coll>/pages/pages.jsonl`
+```sh
+docker run -v $PWD/crawls:/crawls/ webrecorder/browsertrix-crawler wacz create --split-seeds -f ./crawls/collections/<coll>/archive/*.warc.gz -p ./crawls/collections/<coll>/pages/pages.jsonl
+```
 
 If that won't work, you could try installying Python, and then installing pip3 and wacz  by running
-```
+
+```sh
 sudo apt install python3-pip && pip install wacz
 ```
+
 Then you can generate the WACZ by running
-```
+
+```sh
 wacz create --split-seeds -f ./crawls/collections/<coll>/archive/*.warc.gz -p ./crawls/collections/<coll>/pages/pages.jsonl
 ```
+
 If this fails (it may do so for larger archives), contact Admin on the #Browsertrix slack channel for sftp credentials and upload the entire collections/<coll> folder to a suitably named desination folder with the following command
 
-  `rsync -aRv --rsh='ssh -p<port>' crawls/collections/<coll> <username>@<server_address>:./<coll>`
+```sh
+rsync -aRv --rsh='ssh -p<port>' crawls/collections/<coll> <username>@<server_address>:./<coll>
+```
   
 Replace the <port>, <username> and <server_address> with the credentails Admin will provide, and <coll>, <coll.wacz> sections with the file address of the file you'd like to upload. Enter your provided password when prompted.
   
@@ -196,7 +210,7 @@ You can do this as many times as needed to update the exclusion rules.
 * To exclude everything that comes after /directory/ (e.g. `/directory/thing1`, `directory/thing2`), you can use: `https?://www.site.ua/directory/.*`
 * If you have a list of paths you want to exclude you can add one regex per path, or you can combine them into one regex; the former is likely to be cleaner, easier to follow, and less error-prone, e.g.:
 
-```
+```yaml
  - url: https://example.site.com
     scopeType: domain
     exclude:
@@ -207,7 +221,7 @@ You can do this as many times as needed to update the exclusion rules.
  
 ## Docker optimization
 
-If you installed Browsertrix a while ago, you may want to update your version with the following command:
+If you installed Browsertrix Crawler a while ago, you may want to update your version with the following command:
 `docker pull webrecorder/browsertrix-crawler:latest`
   
 If you want to speed up Docker, you can look at advanced options to change how it uses computing resources. On Mac, go to 'Settings,' 'Resources,' and increase CPU usage, Memory, and other features. On Windows, these edits need to be made to the .wslconfig file (see their [docs](https://docs.microsoft.com/en-us/windows/wsl/wsl-config)).

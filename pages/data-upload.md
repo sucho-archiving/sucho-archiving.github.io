@@ -8,7 +8,7 @@ title: "Where do I upload the data?"
 Here's what we're doing with the data we gather as part of SUCHO.
 
 ## WACZ files
-If you're using the [WebRecorder plugin](/webrecorder-plugin-instructions) or [WebRecorder app](/archivewebpage-app-instructions), the last step is to download a WACZ file. You'll also end up with a WACZ file if you're using Browsertrix to crawl sites.
+If you're using the [ArchiveWeb.page plugin](/webrecorder-plugin-instructions) or [ArchiveWeb.page desktop app](/archivewebpage-app-instructions), the last step is to download a WACZ file. You'll also end up with a WACZ file if you're using Browsertrix to crawl sites.
 
 If you have a WACZ file, go to the [WACZ upload form](https://forms.gle/N18MxWgoHtPB2xpz8). Enter the metadata and upload the WACZ file.
 

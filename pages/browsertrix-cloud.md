@@ -1,16 +1,16 @@
 ---
 layout: default
 permalink: browsertrix-cloud
-title: Browsertrix Cloud
+title: Browsertrix
 ---
 
 ## Overview
 
-Browsertrix Cloud enables you to run automated web crawls using SUCHO's cloud servers, without having to install anything on your computer.
+[Browsertrix](https://webrecorder.net/browsertrix/) enables you to run automated web crawls using SUCHO's cloud servers, without having to install anything on your computer.
 
-The [command-line version of Browsertrix](https://www.sucho.org/browsertrix) gives you more control over things like path exclusions (e.g. to avoid crawling through lots of empty past-event calendar pages) and timeout rules (which help with very slow sites), so if you're comfortable working with the command line, we encourage you to use that route. Otherwise, read on for how to run automated crawls on Browsertrix Cloud!
+The [command-line version of Browsertrix](https://www.sucho.org/browsertrix) gives you more control over things like path exclusions (e.g. to avoid crawling through lots of empty past-event calendar pages) and timeout rules (which help with very slow sites), so if you're comfortable working with the command line, we encourage you to use that route. Otherwise, read on for how to run automated crawls with Browsertrix!
 
-*To start using Browsertrix Cloud, you can go to the SUCHO Browsertrix Cloud site and sign-up, or log in with the credentials you used to sign up before. (Please contact us if you need the URL.)*
+*To start using Browsertrix, you can go to the SUCHO Browsertrix site and sign-up, or log in with the credentials you used to sign up before. (Please contact us if you need the URL.)*
 
 ## Sign up for an account
 If you don't have an account yet, click *Sign Up* in the top right. You will then see a sign-up box where you can enter your e-mail, password and name. The name you use will show up in the UI, and will be part of the filename of the archives you create.
@@ -47,7 +47,7 @@ Click the big button that reads *Create New Crawl Template*. This will take you 
   * **Crawl scale**: This setting determines how many browsers will be used to simultaneously capture different pages on the site. Start with the default "Standard" (which launches 8 simultaneous browsers), but if the site is responding quickly and appears to have many pages, you can change this setting even as the crawl is running. "Big" launches 16 simultaneous browsers, and "Bigger" launches 24.
   * **Seed URLs**: This should be the base URL of the site you want to capture (e.g. `http://dcvisu.sikorsky.kiev.ua`.) If you see a URL in the sheet that has text after the base domain (e.g. `http://dcvisu.sikorsky.kiev.ua/page/something/else.html`), just use the base domain and leave off everything after the first slash.
   * **Scope type**: We usually recommend "Domain" for this setting, which will also capture any subdomains (e.g. http://thing1.site.ua and http://thing2.site.ua along with http://site.ua)
-  * **Do not check** the box for external links -- Browsertrix Cloud will crawl the pages of the site just fine without it
+  * **Do not check** the box for external links -- Browsertrix will crawl the pages of the site just fine without it
   * **Page limit** should stay with the default "unlimited"
 * **Crawl schedule**: use the default settings (not recurring, run immediately on save)
 
@@ -60,24 +60,24 @@ You can also click the *Use JSON Editor* toggle, which will show a JSON editor. 
 We don't recommend using this to start, but if you have advanced options, or were previously using Browsertrix Crawler via command-line, you can enter your config here.
 
 ## Monitoring the crawl
-Crawls take 1-2 minutes to start, and you'll be able to see their status on the Archives page. You can click on a crawl to look at the details. On the left-hand tabs, you can click "View Crawl" to watch the web browser(s) and what they're currently capturing.
+Crawls take 1-2 minutes to start, and you'll be able to see their status on the Archives page. You can click on a crawl to look at the details. On the left-hand tabs, you can click "Watch Crawl" to watch the web browser(s) and what they're currently capturing.
 
 Currently, the crawl is configured to run 8 browsers, and can be scaled up to 16 or 24 browsers. We suggest starting with 8 and only scaling up if it seems that the site can handle this load.
 
-<img src="/assets/images/browsertrix-cloud-crawl-view.png" width="800px"/>
+<img src="/assets/images/browsertrix-cloud-crawl-view.png" width="800px" alt="screenshot of the watch crawl view in Browsertrix, firstpalace.kh.ua is being archived in 8 browser windows" />
 
 In the crawl view, you can also click on each browser to zoom in.
 
 ## Viewing the Replay
 
-Once the crawl is done, the 'View Crawl' link will show you the replay using an embedded version of replayweb.page.
+Once the crawl is done, the 'Replay' link will show you the replay using an embedded version of ReplayWeb.page.
 
 ### Downloading the WACZ
 
 From the download tab, you can download the WACZ file if you would like to have a copy or test it locally. **Note that you *do not* need to upload it, as it is automatically added to the SUCHO cloud storage.**
 
 ## Completing the crawl job
-Verify the website was captured by using the 'View Crawl' link on the crawl page to check the output. Focus on verifying that the main subcomponents of the site were saved, especially pages listed in the navbar. Many links on the site may be external to the domain you preserved, so don't worry if those are broken.
+Verify the website was captured by using the 'Replay' link on the crawl page to check the output. Focus on verifying that the main subcomponents of the site were saved, especially pages listed in the navbar. Many links on the site may be external to the domain you preserved, so don't worry if those are broken.
 
 Make sure to add info the Notes field about any errors you encountered and any concerns you have about the quality of the archive file. The Quality Control team can verify your lingering questions.
 

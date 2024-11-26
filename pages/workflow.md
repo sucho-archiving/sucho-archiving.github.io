@@ -36,7 +36,7 @@ We have several teams working on projects that mostly need a web browser and ent
 
 * **Link collection**: Teammates will have edit access to our working spreadsheet. You should add newly discovered links to the Browsertrix tab first, because it will automatically check for duplicates found elsewhere. If it's not a duplicate (i.e. doesn't turn magenta), please also add it to the Internet Archive tab, because there are two capture processes running at the same time for different purposes.
 * **Internet Archive**: Newly submitted links get added to the InternetArchive tab of our working sheet (along with Browsertrix, described below). Volunteers make sure that the sites are thoroughly captured by the Wayback Machine, including sub-pages.
-* **Manual WebRecorder**: While many of our sites can be captured by the automated system called Browsertrix, some of them (and some special features such as virtual tours within a site) need a human being to navigate the site while recording it. Join the Manual WebRecorder team if you like browsing museum and library websites! Visit the [Manual WebRecorder tutorial](/webrecorder-plugin-instructions) for more process specifics.
+* **Manual Webrecorder**: While many of our sites can be captured by the automated system called Browsertrix, some of them (and some special features such as virtual tours within a site) need a human being to navigate the site while recording it. Join the Manual Webrecorder team if you like browsing museum and library websites! Visit the [ArchiveWeb.page tutorial](/webrecorder-plugin-instructions) for more process specifics.
 * **Metadata (great for cataloging librarians)**: Some volunteers have uploaded files (e.g. PDFs, images, etc.) from Ukrainian repositories to the Internet Archive. The Metadata group fills out a separate metadata spreadsheet with metadata about those items based on information in our working spreadsheet. This information is periodically uploaded to the Intenet Archive. Visit the [Metadata tutorial](https://docs.google.com/document/d/1qpax1HQmWOVXqbA9NTCU4WBZNWKfLPhUTqxs7s94Jas/edit#) for more process specifics.
 
 ### High tech helping
@@ -49,7 +49,7 @@ We have several teams working on projects that mostly need a web browser and ent
 
 In addition to the Link Collection and Metadata volunteer groups above, there are a couple of teams where reading Ukrainian is a vital prerequisite:
 
-* **Quality control**: After we've backed up a site using tools such as Browsertrix or Manual WebRecorder, we need people with Ukrainian language skills to browse around our copies of the site and make sure that our backups are working as intended.
+* **Quality control**: After we've backed up a site using tools such as Browsertrix or ArchiveWeb.page, we need people with Ukrainian language skills to browse around our copies of the site and make sure that our backups are working as intended.
 * **Translation**: We're doing direct outreach to some sites to see if we can contact their administrators, and help with translation of correspondence and news materials is always helpful.
 	
 	
