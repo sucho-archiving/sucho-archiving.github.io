@@ -16,7 +16,7 @@ Once we have created a web archive for a site, we need people who can (more or l
   - Column K is for QC person
   - Column L is for QC notes
 - Find a row with an empty QC status. Set the status to "In progress" and put your name down as the "QC person"
-- Take the link from column I (which should start with *https://replayweb.page*) and open it in your browser. It may take a few moments to load.
+- Take the link from column I (which should start with *[https://replayweb.page](https://replayweb.page)*) and open it in your browser. It may take a few moments to load.
 - Click on the page title that appears once it loads. This will take you to the web archive.
 - Browse the site thoroughly, as if you were browsing a normal webpage. Check menus, submenus, subpages, items, PDFs, anything else that appears as you go.
 - If you see broken images, PDFs not loading, internal site links that aren't captured (it should pop up a warning if something isn't part of the archive itself), make a note of it, and copy the URL from your browser, which will show us which subpage of the archive the broken thing was on.
