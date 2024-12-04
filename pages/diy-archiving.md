@@ -6,7 +6,7 @@ title: DIY Archiving Workshop
 
 # DIY archiving workshop
 
-* December 9, 1 Eastern / 10 Pacific
+* December 9, 1 PM Eastern / 10 AM Pacific
 * [RSVP here](https://us06web.zoom.us/meeting/register/tZItdO6tpzgsGtMt9cPvN6dBL1hIo2GYn0Ky)
 
 * Dates for additional workshops coming soon!
