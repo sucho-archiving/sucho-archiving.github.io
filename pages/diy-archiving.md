@@ -6,14 +6,14 @@ title: DIY Archiving Workshop
 
 # DIY archiving workshop
 
-* November 25, 1 Eastern / 10 Pacific
-* [RSVP here](https://us06web.zoom.us/meeting/register/tZEpc-ytpz8sG9W5cRMy0HEJm6bodgFJ0Llt#/registration
-)
+* December 9, 1 Eastern / 10 Pacific
+* [RSVP here](https://us06web.zoom.us/meeting/register/tZItdO6tpzgsGtMt9cPvN6dBL1hIo2GYn0Ky)
+
 * Dates for additional workshops coming soon!
 
 ## About the workshop
 
-Worried that websites, digital art, or data that you care about might be at risk? This workshop on DIY web archiving will teach you how to create your own offline backups of things you care about on the internet. Absolutely no prior technical experience required, you only need access to a laptop or computer; all are welcome.
+Worried that websites, digital art, or data that you care about might be at risk? This workshop on DIY web archiving will teach you how to create your own offline backups of things you care about on the internet. Absolutely no prior technical experience required, you only need access to a laptop or computer; all are welcome. You will be able to walk away with a web archive of your own!
 
 We’ll cover:
 * Making a copy of websites / webpages with the ArchiveWeb.page browser plugin
