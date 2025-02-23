@@ -10,6 +10,7 @@ This is a selection of press coverage, publications, and presentations about the
 
 Media inquiries can be directed to the project admins at **info@sucho.org**.
 
+- **February 24, 2025 press release**: [SUCHO Database of Web-Archived Content](/press-release-20250224)
 - **September 28, 2023 press release**: [Grand Prix / European Heritage Awards 2023](/press-release-20230928-award)
 - **June 13, 2023 press release**: [European Heritage Awards / Europa Nostra Awards 2023](/press-release-20230613-award)
 - **May 31, 2023 press release**: [Memory Savers Internship](/press-release-20230601-memory-savers)
