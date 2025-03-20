@@ -15,4 +15,3 @@ You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org). F
 - [Anna E. Kijas](https://bsky.app/akijas.bsky.social), Tufts University
 - [Sebastian Majstorovic](https://bsky.app/storytracer.org), European University Institute
 - [Andreas Segerberg](https://bsky.app/asegerberg.bsky.social), University of Gothenburg
-
