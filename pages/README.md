@@ -28,9 +28,10 @@ Additionally, we are looking for monthly supporters to help us rent a 100TB stor
 # About us
 
 ## Coordinators
-- [Quinn Dombrowski](https://twitter.com/quinnanya), Stanford University
-- [Anna E. Kijas](https://twitter.com/anna_kijas), Tufts University
-- [Sebastian Majstorovic](https://twitter.com/storytracer), Austrian Centre for Digital Humanities and Cultural Heritage
+- [Quinn Dombrowski](https://bsky.app/quinnanya.me), Stanford University
+- [Anna E. Kijas](https://bsky.app/akijas.bsky.social), Tufts University
+- [Sebastian Majstorovic](https://bsky.app/storytracer.org), European University Institute
+- [Andreas Segerberg](https://bsky.app/asegerberg.bsky.social), University of Gothenburg
 
 You can reach all the coordinators at [info@sucho.org](mailto:info@sucho.org). If you are a Ukrainian researcher or institution who needs backup storage for your research materials or collections, please email [storage@sucho.org](mailto:storage@sucho.org) to be connected with our partners at the Harvard Ukrainian Research Institute and the University of Alberta.
 
