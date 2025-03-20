@@ -14,9 +14,10 @@ We are also very grateful to Amazon Web Services, Digital Ocean and Wasabi, who 
 
 ### Coordinators
 
-- Quinn Dombrowski, Stanford University
-- Anna Kijas, Tufts University
-- Sebastian Majstorovic, European University Institute
+- [Quinn Dombrowski](https://bsky.app/quinnanya.me), Stanford University
+- [Anna E. Kijas](https://bsky.app/akijas.bsky.social), Tufts University
+- [Sebastian Majstorovic](https://bsky.app/storytracer.org), European University Institute
+- [Andreas Segerberg](https://bsky.app/asegerberg.bsky.social), University of Gothenburg
 
 **With support from**
 
@@ -25,7 +26,6 @@ We are also very grateful to Amazon Web Services, Digital Ocean and Wasabi, who 
 - Ekaterina Malygina, Berlin (Digital Consultant & Equipment Coordinator) 
 - Erica Peaslee, ALM, Centurion Solutions, LLC (Situation Monitoring Coordinator)
 - Anna Rakityanskaya, Harvard University Libraries (Meme Coordinator)
-- Andreas Segerberg, University of Gothenburg
 - Olena Sharafanenko, Bavarian State Library, Munich, Germany (Metadata and Translation Support)
 - Dena Strong (Community Engagement Coordinator)
 - Alex Wingate, Indiana University Bloomington (Metadata Coordinator)
