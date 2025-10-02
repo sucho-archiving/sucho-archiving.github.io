@@ -19,7 +19,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 ## Articles
 
-- Wirtz, Gudrun Tatjana. ["Saving Ukrainian Cultural Heritage Online (SUCHO)"](https://doi.org/10.1515/pdtc-2025-0049 ) _Preservation, Digital Technology & Culture_ (2025). DOI: https://doi.org/10.1515/pdtc-2025-0049 
+- Wirtz, Gudrun Tatjana. ["Saving Ukrainian Cultural Heritage Online (SUCHO)"](https://doi.org/10.1515/pdtc-2025-0049 ) _Preservation, Digital Technology & Culture_ (2025). DOI: https://doi.org/10.1515/pdtc-2025-0049. 
 - Segerberg, Andreas. ["To save a cultural heritage: Lessons from a volunteer network's support to Ukrainian cultural heritage institutions."](https://doi.org/10.1177/09557490241230502) _Alexandria: The Journal of National and International Library and Information Issues._ February 6, 2024. DOI: https://doi.org/10.1177/09557490241230502.
 - Jolicoeur, Kiley. ["Saving Ukrainian Cultural Heritage Online and the Mission to Preserve Digital Cultural Heritage."](https://doi.org/10.29311/mas.v21i2.4302) _Museum and Society Online,_ Volume 21, no. 2 (24 July 2023): 58-64. DOI: https://doi.org/10.29311/mas.v21i2.4302.
 - Rakityanskaya, Anna. ["The SUCHO Ukrainian War Memes Collection."](https://doi.org/10.1080/15228886.2023.2169634) _Slavic & East European Information Resources._ January 21, 2023. DOI: 10.1080/15228886.2023.2169634
