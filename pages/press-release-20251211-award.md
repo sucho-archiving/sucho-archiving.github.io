@@ -32,6 +32,7 @@ Bibliothekswesens in herausragender Weise fördern und unterstützen. Die Karl-P
 
 **Bibliothek & Information Deutschland (BID)**
 BID ist der Dachverband der Institutionen- und Personalverbände des Bibliothekswesens und zentraler Einrichtungen der Kulturförderung in Deutschland. BID vertritt deren Gesamtinteressen auf nationaler und europäischer Ebene sowie in internationalen Gremien.
+
 [Press Release from Bibliothek & Information Deutschland](https://bideutschland.de/wp-content/uploads/2025/12/Pressemitteilung_Karl-Preusker-Medaille_2025.pdf)
 
 [Press Release from the Bayerische Staatsbibliothek in Munich](https://www.bsb-muenchen.de/en/article/karl-preusker-medaille-2025-geht-an-den-ukrainischen-bibliotheksverband-besondere-wuerdigung-fuer-die-initiative-sucho-7076/)
