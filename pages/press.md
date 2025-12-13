@@ -10,6 +10,7 @@ This is a selection of press coverage, publications, and presentations about the
 
 Media inquiries can be directed to the project admins at **info@sucho.org**.
 
+- **December 11, 2025 press release**: [2025 Karl Preusker Medal](/press-release-20251211-award)
 - **February 24, 2025 press release**: [SUCHO Database of Web-Archived Content](/press-release-20250224)
 - **September 28, 2023 press release**: [Grand Prix / European Heritage Awards 2023](/press-release-20230928-award)
 - **June 13, 2023 press release**: [European Heritage Awards / Europa Nostra Awards 2023](/press-release-20230613-award)
@@ -19,6 +20,7 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 ## Articles
 
+- Beshero-Bondar, Elisa. ["Digital Ephemerality in Wartime: Reflections on Archiving, Text Encoding, and Teaching Digital Humanities in the 2020s"](https://doi.org/10.1108/978-1-83797-811-320251009), *Communicating Resiliency and Efficacy in a Digital Age: Mediated Communities* (2025). DOI: https://doi.org/10.1108/978-1-83797-811-320251009.
 - Wirtz, Gudrun Tatjana. ["Saving Ukrainian Cultural Heritage Online (SUCHO)"](https://doi.org/10.1515/pdtc-2025-0049 ) _Preservation, Digital Technology & Culture_ (2025). DOI: https://doi.org/10.1515/pdtc-2025-0049. 
 - Segerberg, Andreas. ["To save a cultural heritage: Lessons from a volunteer network's support to Ukrainian cultural heritage institutions."](https://doi.org/10.1177/09557490241230502) _Alexandria: The Journal of National and International Library and Information Issues._ February 6, 2024. DOI: https://doi.org/10.1177/09557490241230502.
 - Jolicoeur, Kiley. ["Saving Ukrainian Cultural Heritage Online and the Mission to Preserve Digital Cultural Heritage."](https://doi.org/10.29311/mas.v21i2.4302) _Museum and Society Online,_ Volume 21, no. 2 (24 July 2023): 58-64. DOI: https://doi.org/10.29311/mas.v21i2.4302.
