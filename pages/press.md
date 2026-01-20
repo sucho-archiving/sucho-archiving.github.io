@@ -20,7 +20,8 @@ Media inquiries can be directed to the project admins at **info@sucho.org**.
 
 ## Articles
 
-- Beshero-Bondar, Elisa. ["Digital Ephemerality in Wartime: Reflections on Archiving, Text Encoding, and Teaching Digital Humanities in the 2020s"](https://doi.org/10.1108/978-1-83797-811-320251009), *Communicating Resiliency and Efficacy in a Digital Age: Mediated Communities* (2025). DOI: https://doi.org/10.1108/978-1-83797-811-320251009.
+- Pilyarchuk, Kateryna. ["Conceptualizing the Aggressor as an Animal: Metaphors, Memes, and the Russo-Ukrainian War,"](https://www.tandfonline.com/doi/full/10.1080/10926488.2025.2526624) *Metaphor and Symbol*, 41:1, (January 2, 2026): 39-61. DOI: 10.1080/10926488.2025.2526624
+- Beshero-Bondar, Elisa. ["Digital Ephemerality in Wartime: Reflections on Archiving, Text Encoding, and Teaching Digital Humanities in the 2020s,"](https://doi.org/10.1108/978-1-83797-811-320251009) *Communicating Resiliency and Efficacy in a Digital Age: Mediated Communities* (2025). DOI: https://doi.org/10.1108/978-1-83797-811-320251009.
 - Wirtz, Gudrun Tatjana. ["Saving Ukrainian Cultural Heritage Online (SUCHO)"](https://doi.org/10.1515/pdtc-2025-0049 ) _Preservation, Digital Technology & Culture_ (2025). DOI: https://doi.org/10.1515/pdtc-2025-0049. 
 - Segerberg, Andreas. ["To save a cultural heritage: Lessons from a volunteer network's support to Ukrainian cultural heritage institutions."](https://doi.org/10.1177/09557490241230502) _Alexandria: The Journal of National and International Library and Information Issues._ February 6, 2024. DOI: https://doi.org/10.1177/09557490241230502.
 - Jolicoeur, Kiley. ["Saving Ukrainian Cultural Heritage Online and the Mission to Preserve Digital Cultural Heritage."](https://doi.org/10.29311/mas.v21i2.4302) _Museum and Society Online,_ Volume 21, no. 2 (24 July 2023): 58-64. DOI: https://doi.org/10.29311/mas.v21i2.4302.
