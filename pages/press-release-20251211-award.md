@@ -11,6 +11,7 @@ December 11, 2025
 
 URL: https://www.sucho.org/press-release-20251211-award
 Full press release from BID: https://bideutschland.de/wp-content/uploads/2025/12/Pressemitteilung_Karl-Preusker-Medaille_2025.pdf
+News item about award from BID: [https://bideutschland.de/karl-preusker-medaille-2025-fuer-den-ukrainischen-bibliotheksverband-besondere-wuerdigung-fuer-sucho/](https://bideutschland.de/karl-preusker-medaille-2025-fuer-den-ukrainischen-bibliotheksverband-besondere-wuerdigung-fuer-sucho/)
 
 Saving Ukrainian Cultural Heritage Online has received the 2025 Karl Preusker medal from [Bibliothek & Information Deutschland (BID)](https://bideutschland.de/), the umbrella organization of all German library associations. This is the first time in the prize's history that two awards were given and we are honored to have received the award alongside the [Ukrainian Library Association](https://ula.org.ua/about-ula). BID is awarding the annual Preusker medal in honor of the founder of the first German public library, it is considered one of the highest honours in German librarianship. Since 1996, it has been awarded to individuals and institutions that have made outstanding contributions to librarianship and information science.
 
